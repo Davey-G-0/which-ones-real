@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="theme-color" content="#0f1220" />
+  <title>Which One's Real? — Party Game</title>
+  <meta name="description" content="A party game: spot the real app from the fakes." />
+  <!-- iOS PWA -->
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Real or Fake" />
+  <link rel="apple-touch-icon" href="icon-180.png" />
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" href="icon-192.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="app" class="app">
+    <!-- ============ HOME / SETUP ============ -->
+    <section id="screen-home" class="screen active">
+      <div class="logo-block">
+        <div class="logo-badge">🔎</div>
+        <h1 class="logo">Which One's <span class="accent">Real?</span></h1>
+        <p class="tagline">Spot the real app. Dodge the fakes. Pass the phone.</p>
+      </div>
+
+      <div class="card setup-card">
+        <h2 class="card-title">Players</h2>
+        <div id="player-chips" class="player-chips"></div>
+        <div class="add-player-row">
+          <input id="player-name" type="text" class="name-input" placeholder="Player name" maxlength="16" />
+          <button id="add-player" class="btn btn-primary">+ Add</button>
+        </div>
+        <button id="add-default-players" class="ghost-link">Quick add 4 players</button>
+      </div>
+
+      <div class="card setup-card">
+        <h2 class="card-title">Categories</h2>
+        <div id="category-grid" class="category-grid"></div>
+        <button id="all-categories" class="ghost-link">Play all categories</button>
+      </div>
+
+      <button id="start-game" class="btn btn-big btn-primary" disabled>Start Game</button>
+    </section>
+
+    <!-- ============ GAME ============ -->
+    <section id="screen-game" class="screen">
+      <header class="game-header">
+        <button id="quit-btn" class="quit-btn" aria-label="Quit">✕</button>
+        <div class="turn-indicator">
+          <div class="turn-avatar" id="turn-avatar">?</div>
+          <div class="turn-text">
+            <span id="turn-name" class="turn-name">Player</span>
+            <span id="turn-label" class="turn-label">picks the real one</span>
+          </div>
+        </div>
+        <div class="round-pip" id="round-pip">1/8</div>
+      </header>
+
+      <div class="category-banner" id="category-banner">News apps</div>
+
+      <div class="question-prompt" id="question-prompt">
+        Which one is the <strong>real</strong> app?
+      </div>
+
+      <div id="options" class="options"></div>
+
+      <div id="feedback" class="feedback hidden"></div>
+    </section>
+
+    <!-- ============ RESULTS ============ -->
+    <section id="screen-results" class="screen">
+      <div class="results-wrap">
+        <div class="trophy">🏆</div>
+        <h2 class="results-title">Final Scores</h2>
+        <div id="leaderboard" class="leaderboard"></div>
+        <div class="results-actions">
+          <button id="play-again" class="btn btn-primary">Play Again</button>
+          <button id="change-setup" class="btn btn-ghost">New Players</button>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
+    }
+  </script>
+</body>
+</html>
