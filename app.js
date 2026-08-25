@@ -97,6 +97,8 @@
     const fb = $("feedback");
     fb.className = "feedback hidden";
     fb.innerHTML = "";
+
+    $("next-btn").classList.add("hidden");
   }
 
   function pick(btn, label, q, player) {
@@ -110,25 +112,32 @@
       o.classList.add(o.textContent === q.real ? "revealed-real" : "revealed-fake");
     });
 
-    let fb;
+    // Write feedback into the existing element (never replace it —
+    // replacing #feedback breaks the next round).
+    const fb = $("feedback");
     if (isReal) {
       player.score += 1;
-      fb = `<div class="feedback win">🎉 ${escapeHtml(player.name)} nailed it!
-        <div class="fb-sub">Yes — ${escapeHtml(q.source)}</div></div>`;
+      fb.className = "feedback win";
+      fb.innerHTML = `🎉 ${escapeHtml(player.name)} nailed it!
+        <div class="fb-sub">Yes — ${escapeHtml(q.source)}</div>`;
       vibrate(40);
     } else {
-      fb = `<div class="feedback lose">😅 Not quite — that one's fake.
-        <div class="fb-sub">${escapeHtml(q.real)} was real: ${escapeHtml(q.source)}</div></div>`;
+      fb.className = "feedback lose";
+      fb.innerHTML = `😅 Not quite — that one's fake.
+        <div class="fb-sub">${escapeHtml(q.real)} was real: ${escapeHtml(q.source)}</div>`;
       vibrate([60, 40, 60]);
     }
-    $("feedback").outerHTML = fb.replace(/^<div|<\/div>$/g, "");
 
-    // Auto-advance after a beat.
-    setTimeout(() => {
-      state.round++;
-      if (state.round >= state.queue.length) endGame();
-      else renderRound();
-    }, isReal ? 2600 : 4200);
+    const next = $("next-btn");
+    next.textContent = state.round + 1 >= state.queue.length ? "See scores →" : "Next question →";
+    next.classList.remove("hidden");
+    next.focus();
+  }
+
+  function advance() {
+    state.round++;
+    if (state.round >= state.queue.length) endGame();
+    else renderRound();
   }
 
   function endGame() {
@@ -183,6 +192,7 @@
     renderCategories(); renderPlayers();
   };
   $("start-game").onclick = startGame;
+  $("next-btn").onclick = advance;
   $("quit-btn").onclick = () => {
     if (confirm("Quit this game? Scores will be reset.")) {
       Object.values(screens).forEach((s) => s.classList.remove("active"));

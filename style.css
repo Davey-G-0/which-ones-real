@@ -251,6 +251,8 @@ html, body {
 .feedback.lose { background: rgba(255, 84, 112, 0.12); color: var(--bad); border: 1px solid rgba(255,84,112,0.35); }
 .feedback .fb-sub { font-family: "Outfit"; font-size: 13.5px; font-weight: 500; color: var(--ink-dim); margin-top: 4px; }
 .feedback.hidden { display: none; }
+.next-btn { margin-top: 18px; }
+.next-btn.hidden { display: none; }
 
 /* ============ RESULTS ============ */
 .results-wrap { flex: 1; display: flex; flex-direction: column; justify-content: center; text-align: center; }
