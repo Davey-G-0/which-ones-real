@@ -36,9 +36,7 @@
     const grid = $("category-grid");
     grid.innerHTML = "";
     const emojis = {
-      "News apps": "📰", "Food delivery apps": "🍔", "Music apps": "🎧",
-      "Banking apps": "💳", "Social media apps": "📱", "Sports apps": "🏆",
-      "Shopping apps": "🛒", "Travel apps": "✈️",
+      "News headlines": "📰",
     };
     Object.keys(BY_CAT).forEach((cat) => {
       const b = document.createElement("button");
@@ -116,11 +114,11 @@
     if (isReal) {
       player.score += 1;
       fb = `<div class="feedback win">🎉 ${escapeHtml(player.name)} nailed it!
-        <div class="fb-sub">${escapeHtml(q.real)} is the real one. +1 point</div></div>`;
+        <div class="fb-sub">Yes — ${escapeHtml(q.source)}</div></div>`;
       vibrate(40);
     } else {
-      fb = `<div class="feedback lose">😅 Not quite — that was a fake!
-        <div class="fb-sub">${escapeHtml(q.real)} was the real app.</div></div>`;
+      fb = `<div class="feedback lose">😅 Not quite — that one's fake.
+        <div class="fb-sub">${escapeHtml(q.real)} was real: ${escapeHtml(q.source)}</div></div>`;
       vibrate([60, 40, 60]);
     }
     $("feedback").outerHTML = fb.replace(/^<div|<\/div>$/g, "");
@@ -130,7 +128,7 @@
       state.round++;
       if (state.round >= state.queue.length) endGame();
       else renderRound();
-    }, isReal ? 1100 : 2200);
+    }, isReal ? 2600 : 4200);
   }
 
   function endGame() {
@@ -200,7 +198,7 @@
   // ---------- INIT ----------
   renderCategories();
   renderPlayers();
-  // Pre-select News apps so the game is ready to go with the classic mechanic.
-  state.selectedCats.add("News apps");
+  // Pre-select the only category so the game is ready to go.
+  state.selectedCats.add("News headlines");
   renderCategories();
 })();
