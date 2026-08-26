@@ -1,5 +1,5 @@
 // Which One's Real? — offline-first service worker
-const CACHE = "wor-v3";
+const CACHE = "wor-v4";
 const ASSETS = [
   "./",
   "./index.html",

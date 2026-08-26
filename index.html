@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <meta name="theme-color" content="#0f1220" />
   <title>Which One's Real? — Party Game</title>
-  <meta name="description" content="A party game: spot the real app from the fakes." />
+  <meta name="description" content="A party game: spot the real story from the fakes." />
   <!-- iOS PWA -->
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
@@ -25,7 +25,7 @@
       <div class="logo-block">
         <div class="logo-badge">🔎</div>
         <h1 class="logo">Which One's <span class="accent">Real?</span></h1>
-        <p class="tagline">One real headline. Three total lies. Spot the truth.</p>
+        <p class="tagline">One real story. Three total lies. The real one always sounds fake.</p>
       </div>
 
       <div class="card setup-card">
@@ -39,9 +39,16 @@
       </div>
 
       <div class="card setup-card">
-        <h2 class="card-title">Categories</h2>
-        <div id="category-grid" class="category-grid"></div>
-        <button id="all-categories" class="ghost-link">Play all categories</button>
+        <h2 class="card-title">Game Mode</h2>
+        <div id="mode-grid" class="mode-grid"></div>
+      </div>
+
+      <div class="card setup-card">
+        <h2 class="card-title">Filter the Stories</h2>
+        <div class="filter-row"><span class="filter-label">Topic</span><div id="filter-segment" class="filter-chips"></div></div>
+        <div class="filter-row"><span class="filter-label">Where</span><div id="filter-region" class="filter-chips"></div></div>
+        <div class="filter-row"><span class="filter-label">When</span><div id="filter-era" class="filter-chips"></div></div>
+        <div id="pool-count" class="pool-count"></div>
       </div>
 
       <button id="start-game" class="btn btn-big btn-primary" disabled>Start Game</button>
@@ -58,20 +65,21 @@
             <span id="turn-label" class="turn-label">picks the real one</span>
           </div>
         </div>
-        <div class="round-pip" id="round-pip">1/8</div>
+        <div class="round-pip" id="round-pip">1/19</div>
       </header>
 
-      <div class="category-banner" id="category-banner">News headlines</div>
+      <div class="category-banner" id="category-banner">Everything</div>
 
       <div class="question-prompt" id="question-prompt">
-        Which one is the <strong>real</strong> headline?
+        Which one is the <strong>real</strong> story?
       </div>
 
       <div id="options" class="options"></div>
 
       <div id="feedback" class="feedback hidden"></div>
 
-      <button id="next-btn" class="btn btn-big btn-primary next-btn">Next question →</button>
+      <button id="end-btn" class="btn btn-ghost end-btn hidden">End Game</button>
+      <button id="next-btn" class="btn btn-big btn-primary next-btn hidden">Next question →</button>
     </section>
 
     <!-- ============ RESULTS ============ -->
@@ -79,6 +87,7 @@
       <div class="results-wrap">
         <div class="trophy">🏆</div>
         <h2 class="results-title">Final Scores</h2>
+        <div id="results-sub" class="results-sub hidden"></div>
         <div id="leaderboard" class="leaderboard"></div>
         <div class="results-actions">
           <button id="play-again" class="btn btn-primary">Play Again</button>
