@@ -1,0 +1,158 @@
+[
+  {
+    "segment": "Animals", "region": "Australia", "era": "1930s", "outlet": "Wikipedia",
+    "date": "1932-10-01",
+    "real": "A country's army is deployed with guns to fight... a flock of emus",
+    "source": "1932 — the Australian military launched the 'Emu War,' sending soldiers with machine guns against thousands of emus wrecking crops in Western Australia. The emus won.",
+    "link": "https://en.wikipedia.org/wiki/Emu_War",
+    "verify": ["emu", "1932", "western australian"],
+    "fakes": [
+      "Australian farmers stage massive protest over emu crop damage",
+      "Wildlife service introduces new drone to deter emus from wheat fields",
+      "Documentary follows the annual emu migration across the outback"
+    ]
+  },
+  {
+    "segment": "Animals", "region": "Europe", "era": "1910s", "outlet": "Wikipedia",
+    "date": "1918-10-01",
+    "real": "A pigeon delivers a life-saving message after being shot through the chest",
+    "source": "1918 — Cher Ami, a French carrier pigeon, delivered a critical message from the 'Lost Battalion' in the Argonne Forest after being shot through the chest and losing a leg. She was awarded the Croix de Guerre.",
+    "link": "https://en.wikipedia.org/wiki/Cher_Ami",
+    "verify": ["pigeon", "argonne", "1918"],
+    "fakes": [
+      "Veterans group honors legacy of First World War carrier pigeons",
+      "New exhibit opens featuring medals awarded to military animals",
+      "Historian revisits the role of animals in World War I"
+    ]
+  },
+  {
+    "segment": "Animals", "region": "North America", "era": "1910s", "outlet": "Wikipedia",
+    "date": "1918-08-01",
+    "real": "A dog sniffs out a spy, saves his owner from poison, and wins a war medal",
+    "source": "World War I — Sergeant Stubby, a Boston Terrier mix, became the most decorated war dog of WWI, detecting gas attacks, spotting a spy, and reportedly saving his handler from a poisoned cake.",
+    "link": "https://en.wikipedia.org/wiki/Sergeant_Stubby",
+    "verify": ["stubby", "war", "medal", "dog"],
+    "fakes": [
+      "Veterans museum celebrates centenary of famous war dogs",
+      "New book chronicles the bond between soldiers and their dogs",
+      "Memorial unveiled for animals who served in the Great War"
+    ]
+  },
+  {
+    "segment": "Animals", "region": "Asia", "era": "1920s", "outlet": "Wikipedia",
+    "date": "1925-05-01",
+    "real": "A dog waits at a train station every day for nine years for a dead owner",
+    "source": "Hachikō — the Japanese Akita who, after his owner's death in 1925, returned to the same Shibuya station every day for roughly nine years waiting for him to come home.",
+    "link": "https://en.wikipedia.org/wiki/Hachik%C5%8D",
+    "verify": ["dog", "owner", "1925"],
+    "fakes": [
+      "Tokyo station installs new pet-friendly waiting areas",
+      "Behaviorist studies why dogs become attached to train stations",
+      "City celebrates 100th anniversary of a famous dog statue"
+    ]
+  },
+  {
+    "segment": "Animals", "region": "Europe", "era": "1950s", "outlet": "Wikipedia",
+    "date": "1957-11-03",
+    "real": "A dog becomes the first living creature sent into orbit — and never comes home",
+    "source": "1957 — Laika, a stray dog, was launched into orbit aboard the Soviet Sputnik 2, becoming the first living being in orbit. She did not survive the mission.",
+    "link": "https://en.wikipedia.org/wiki/Laika",
+    "verify": ["dog", "sputnik", "1957"],
+    "fakes": [
+      "Space agency unveils new plans to send animals to the moon",
+      "Scientists study effects of space travel on canine health",
+      "Museum exhibit commemorates early space program animals"
+    ]
+  },
+  {
+    "segment": "Animals", "region": "North America", "era": "2010s", "outlet": "Wikipedia",
+    "date": "2010-02-07",
+    "real": "A killer whale is tied to a string of deaths and becomes a global cause célèbre",
+    "source": "Tilikum — the orca at SeaWorld was involved in the deaths of several people, making him the center of a decades-long debate over keeping killer whales in captivity. He died in 2017.",
+    "link": "https://en.wikipedia.org/wiki/Tilikum",
+    "verify": ["orca", "seaworld"],
+    "fakes": [
+      "Theme park introduces new orca conservation education program",
+      "Marine biologists release captive-trained whale into the ocean",
+      "New report examines animal welfare in marine parks"
+    ]
+  },
+  {
+    "segment": "Animals", "region": "Australia", "era": "1910s", "outlet": "Wikipedia",
+    "date": "1919-11-04",
+    "real": "A horse wins the richest race on Earth, then dies of a mysterious illness",
+    "source": "Phar Lap — the Australian thoroughbred who dominated racing in the 1920s, winning the Melbourne Cup and crossing into the US to beat top American horses before dying suddenly in 1932.",
+    "link": "https://en.wikipedia.org/wiki/Phar_Lap",
+    "verify": ["horse", "melbourne", "cup", "australia"],
+    "fakes": [
+      "Racing commission investigates cause of a famous horse's death",
+      "Auction house sells memorabilia from a legendary racing era",
+      "Veterinary team debunks old myth about racing horses"
+    ]
+  },
+  {
+    "segment": "Animals", "region": "North America", "era": "1970s", "outlet": "Wikipedia",
+    "date": "1973-05-19",
+    "real": "A horse runs so fast that jockeys get carried to a record they still can't match",
+    "source": "Secretariat — in 1973 he swept the Triple Crown, winning the Belmont Stakes by an absurd 31 lengths in a time that is still considered one of the greatest in racing history.",
+    "link": "https://en.wikipedia.org/wiki/Secretariat",
+    "verify": ["horse", "triple crown", "1973"],
+    "fakes": [
+      "Racing fans celebrate anniversary of a record-breaking season",
+      "Breeders eye offspring of a legendary racehorse for stud",
+      "New documentary revisits the sport's most iconic horse"
+    ]
+  },
+  {
+    "segment": "Animals", "region": "North America", "era": "1980s", "outlet": "Wikipedia",
+    "date": "1990-10-13",
+    "real": "A pet parrot keeps a word list of over a hundred — and uses them correctly",
+    "source": "Alex — an African Grey parrot studied by Dr. Irene Pepperberg learned over 100 words and could combine them meaningfully, a startling demonstration of avian cognition.",
+    "link": "https://en.wikipedia.org/wiki/Alex_(parrot)",
+    "verify": ["parrot", "words", "grey"],
+    "fakes": [
+      "Researchers publish new findings on parrot language ability",
+      "Pet store reports surge in demand for talking birds",
+      "Study compares intelligence of parrots and primates"
+    ]
+  },
+  {
+    "segment": "Animals", "region": "North America", "era": "1970s", "outlet": "Wikipedia",
+    "date": "1972-07-01",
+    "real": "A gorilla learns to talk with her hands — and asks what's happening to her dead mother",
+    "source": "Koko — a western lowland gorilla taught sign language learned more than 1,000 signs and was famous for her emotional responses, including asking about the death of her mother.",
+    "link": "https://en.wikipedia.org/wiki/Koko_(gorilla)",
+    "verify": ["gorilla", "sign language"],
+    "fakes": [
+      "Zoo celebrates 50th anniversary of a famous gorilla program",
+      "Conservation group highlights progress in gorilla research",
+      "New exhibit explores communication in great apes"
+    ]
+  },
+  {
+    "segment": "Animals", "region": "North America", "era": "1960s", "outlet": "Wikipedia",
+    "date": "1965-06-01",
+    "real": "A circus's killer whale becomes the most famous orca on the planet",
+    "source": "Shamu — the name SeaWorld gave to its star killer whales turned into a global brand, with the first 'Shamu' being an orca at the London Zoo in the 1960s before the name was adopted by marine parks.",
+    "link": "https://en.wikipedia.org/wiki/Shamu",
+    "verify": ["orca", "killer whale", "seaworld"],
+    "fakes": [
+      "Marine park retires its star whale from public shows",
+      "Theme park unveils new orca habitat and feeding program",
+      "Brand licensing deal announced for a famous animal name"
+    ]
+  },
+  {
+    "segment": "Animals", "region": "Global", "era": "1900s", "outlet": "Wikipedia",
+    "date": "1914-07-01",
+    "real": "An entire army of carrier pigeons goes to war to carry messages when radios fail",
+    "source": "War pigeon — homing pigeons were used on both sides of World War I and II to carry messages across battlefields when wireless and telephone lines were destroyed, and many were decorated for service.",
+    "link": "https://en.wikipedia.org/wiki/War_pigeon",
+    "verify": ["pigeon", "war", "message"],
+    "fakes": [
+      "Militaria exhibition showcases vintage military communication gear",
+      "Historian traces the decline of carrier pigeon use in the army",
+      "New study examines the reliability of pigeon messaging in war"
+    ]
+  }
+]
