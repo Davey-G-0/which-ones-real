@@ -23,13 +23,14 @@ const dataSrc = fs.readFileSync(DATA, "utf8");
 
 // Pull existing {real, link} pairs out of the current bank to dedupe against.
 const existing = new Set();
+let storyCount = 0;
 const re = /\{\s*segment:[\s\S]*?\}/g;
 let m;
 while ((m = re.exec(dataSrc))) {
   const blk = m[0];
   const realM = blk.match(/real:\s*"((?:[^"\\]|\\.)*)"/);
   const linkM = blk.match(/link:\s*"((?:[^"\\]|\\.)*)"/);
-  if (realM) existing.add(realM[1]);
+  if (realM) { existing.add(realM[1]); storyCount++; }
   if (linkM) existing.add(linkM[1]);
 }
 
@@ -68,7 +69,7 @@ if (!added) { console.log("nothing new to add."); process.exit(0); }
 
 const newSrc = dataSrc.slice(0, endIdx) + blocks.join("\n") + "\n" + dataSrc.slice(endIdx);
 fs.writeFileSync(DATA, newSrc);
-console.log(`added ${added}, skipped ${skipped} (dups). bank now ${existing.size + added} stories.`);
+console.log(`added ${added}, skipped ${skipped} (dups). bank now ${storyCount + added} stories.`);
 
 // Prove it still plays.
 console.log("\n-- running smoke test --");
