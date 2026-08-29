@@ -1,98 +1,62 @@
 [
-  {
-    "segment": "Internet", "region": "North America", "era": "2000s", "outlet": "Wikipedia", "date": "2003-01-01",
-    "real": "A faceless image board becomes the launchpad for memes and internet culture",
-    "source": "4chan — launched in 2003, the anonymous imageboard spawned countless internet memes, subcultures, and movements (including r/place-precursor events), and remains one of the internet's most influential — and controversial — sites.",
-    "link": "https://en.wikipedia.org/wiki/4chan",
-    "verify": ["4chan", "anonymous"],
-    "fakes": [
-      "Anonymous users share an image board with no registration",
-      "Site becomes the source of a viral wave of online jokes",
-      "Moderators struggle to contain a surge of new subforums"
-    ]
-  },
-  {
-    "segment": "Internet", "region": "Global", "era": "2010s", "outlet": "Wikipedia", "date": "2017-07-01",
-    "real": "Millions of Reddit users each drop one pixel a day to co-create a giant picture",
-    "source": "r/place — a Reddit experiment where every user could place one pixel per hour on a shared 100,000-pixel canvas, turning into a global, chaotic, surprisingly political artwork.",
-    "link": "https://en.wikipedia.org/wiki/R/place",
-    "verify": ["r/place", "reddit"],
-    "fakes": [
-      "Users compete to draw the largest flag on a shared canvas",
-      "Millions log in to place a single colored square",
-      "Groups battle over territory on a giant online mural"
-    ]
-  },
-  {
-    "segment": "Internet", "region": "Global", "era": "2020s", "outlet": "Wikipedia", "date": "2020-01-01",
-    "real": "A bodybuilder's flexing photo becomes the internet's biggest 'chad' meme",
-    "source": "Gigachad — the image of the Austrian bodybuilder Julius Dober flexing his biceps became a dominant internet meme shorthand for stoic, over-the-top masculinity, spreading across TikTok and Twitter.",
-    "link": "https://en.wikipedia.org/wiki/Gigachad",
-    "verify": ["gigachad"],
-    "fakes": [
-      "A bodybuilder's flexing photo turns into a viral joke template",
-      "The meme spreads across short-video platforms overnight",
-      "Fans remix the image into hundreds of variations"
-    ]
-  },
-  {
-    "segment": "Internet", "region": "Global", "era": "2010s", "outlet": "Wikipedia", "date": "2014-10-20",
-    "real": "A simple sentence — 'YOLO' — becomes the defining phrase of a generation",
-    "source": "YOLO — the acronym for 'You Only Live Once' exploded from a 2011 Drake song into a ubiquitous catchphrase used (and misused) everywhere from social media to news headlines.",
-    "link": "https://en.wikipedia.org/wiki/YOLO",
-    "verify": ["yolo"],
-    "fakes": [
-      "A catchy rap phrase takes over social media feeds",
-      "The short slogan becomes a global catchphrase",
-      "Brands rush to put the words on everything they sell"
-    ]
-  },
-  {
-    "segment": "Internet", "region": "North America", "era": "2000s", "outlet": "Wikipedia", "date": "2005-01-01",
-    "real": "A dancing baby on a website turns into one of the first viral videos",
-    "source": "Charlie Bit My Finger — a 2007 home video of a toddler biting his brother's finger became one of the most-viewed videos on YouTube, and one of the first to go truly, genuinely viral.",
-    "link": "https://en.wikipedia.org/wiki/Charlie_Bit_My_Finger",
-    "verify": ["charlie", "finger", "youtube"],
-    "fakes": [
-      "A home video of two kids racking up millions of views",
-      "A family uploads a clip that the whole internet shares",
-      "A short clip becomes the most-watched video on the platform"
-    ]
-  },
-  {
-    "segment": "Internet", "region": "Asia", "era": "2010s", "outlet": "Wikipedia", "date": "2016-01-01",
-    "real": "A simple game where you slap a penguin becomes a global phenomenon",
-    "source": "Flappy Bird — a 2013 mobile game of a pixel bird dodging pipes became a massive viral hit, then was pulled from app stores by its own developer, becoming a symbol of internet fame's fickle nature.",
-    "link": "https://en.wikipedia.org/wiki/Flappy_Bird",
-    "verify": ["flappy", "bird"],
-    "fakes": [
-      "A tiny mobile game with one button becomes wildly popular",
-      "The developer suddenly removes the game from the store",
-      "Players worldwide chase a high score on a simple app"
-    ]
-  },
-  {
-    "segment": "Internet", "region": "Global", "era": "2010s", "outlet": "Wikipedia", "date": "2013-02-01",
-    "real": "A 28-second dance video takes over the entire internet for two weeks",
-    "source": "2013 — the Harlem Shake: a dance meme that exploded across YouTube and social media, with thousands of parodies filmed in every possible setting, becoming one of the fastest-spreading viral phenomena ever.",
-    "link": "https://en.wikipedia.org/wiki/Harlem_Shake_(meme)",
-    "verify": ["harlem", "shake", "2013"],
-    "fakes": [
-      "A short dance clip is remade by thousands of people",
-      "The trend sweeps social media in a matter of days",
-      "Companies rush to film their own version of the meme"
-    ]
-  },
-  {
-    "segment": "Internet", "region": "Global", "era": "2020s", "outlet": "Wikipedia", "date": "2020-09-01",
-    "real": "A single TikTok video turns a 20-year-old into a global star overnight",
-    "source": "TikTok — the short-form video app became a global phenomenon, turning unknown creators into international celebrities within days and reshaping how music, fashion, and news spread.",
-    "link": "https://en.wikipedia.org/wiki/TikTok",
-    "verify": ["tiktok", "video"],
-    "fakes": [
-      "A short dance clip puts a creator on the map overnight",
-      "Millions of users copy a new viral trend in hours",
-      "A young artist's song tops the charts thanks to the app"
-    ]
-  }
+ {"segment":"Internet","region":"Global","era":"2000s","outlet":"Wikipedia","date":"2007-04-01",
+  "real":"A song about a 1987 breakup becomes the internet's favorite prank",
+  "source":"Rickrolling — the practice of tricking someone into clicking a link to Rick Astley's 'Never Gonna Give You Up' became one of the internet's most enduring pranks, a running joke that turned a 1987 pop song into a global meme phenomenon.",
+  "link":"https://en.wikipedia.org/wiki/Rickrolling","verify":["rickroll","rick astley"],
+  "fakes":["A 1980s pop song becomes the internet's biggest running joke","People trick each other into clicking the same surprise video link","A decades-old hit is turned into a global prank"]},
+ {"segment":"Internet","region":"Asia","era":"2010s","outlet":"Wikipedia","date":"2013-10-16",
+  "real":"A dog that looks like a meme becomes a worldwide internet sensation",
+  "source":"Doge — a photo of a Shiba Inu with a goofy expression was edited with Comic Sans captions and spread across the internet, spawning countless memes and even a real cryptocurrency, becoming one of the most recognizable dogs on the web.",
+  "link":"https://en.wikipedia.org/wiki/Doge","verify":["doge","shiba inu"],
+  "fakes":["A photo of a scruffy dog becomes a global meme","A single image of a pet spawns millions of edits and a coin","A dog with a funny face takes over the internet"]},
+ {"segment":"Internet","region":"North America","era":"1990s","outlet":"Wikipedia","date":"1994-12-08",
+  "real":"A 90s web browser that made the web famous is now just a name",
+  "source":"Netscape — the browser that put the World Wide Web on the map in 1994 and sparked a famous 'browser war,' only to be overtaken by a rival and vanish, a symbol of how fast the early internet moved.",
+  "link":"https://en.wikipedia.org/wiki/Netscape","verify":["netscape","1994"],
+  "fakes":["The browser that made the web famous is overtaken and disappears","A company's leading product loses a race and vanishes from the market","An early internet pioneer becomes a footnote in a few short years"]},
+ {"segment":"Internet","region":"North America","era":"1990s","outlet":"Wikipedia","date":"1994-11-01",
+  "real":"A place to host your free web page in a 'neighborhood' is now a memory",
+  "source":"GeoCities — the free web-hosting service where people built personal pages in themed 'neighborhoods' like Hollywood and Silicon Valley, became a defining part of the early web before it was shut down, and its pages are now preserved as internet history.",
+  "link":"https://en.wikipedia.org/wiki/GeoCities","verify":["geocities","1994"],
+  "fakes":["A free site that let people build personal pages in themed areas is remembered","An early web-hosting service with quirky neighborhoods becomes a relic","A platform that defined the early web is archived after it closes"]},
+ {"segment":"Internet","region":"North America","era":"1990s","outlet":"Wikipedia","date":"1999-01-01",
+  "real":"A site that let you trade songs legally-adjacent changes how music is shared",
+  "source":"Napster — the 1999 file-sharing site that let users trade MP3s of their favorite songs became a massive phenomenon and a legal target for record labels, ultimately reshaping (and forcing) the entire music industry's approach to distribution.",
+  "link":"https://en.wikipedia.org/wiki/Napster","verify":["napster","1999"],
+  "fakes":["A file-sharing site lets millions trade songs and upends an industry","A company that shares music files becomes a target for record labels","A peer-to-peer app forces an entire industry to rethink its model"]},
+ {"segment":"Internet","region":"Global","era":"2000s","outlet":"Wikipedia","date":"2000-05-04",
+  "real":"An email that says it loves you infects 10% of all computers",
+  "source":"ILOVEYOU — the 2000 'Love Letter' worm that spread via an email titled 'ILOVEYOU' infected roughly 10% of all Windows computers on Earth within a day, causing billions of dollars in damage and becoming a landmark in computer-virus history.",
+  "link":"https://en.wikipedia.org/wiki/ILOVEYOU","verify":["iloveyou","2000"],
+  "fakes":["An email with a simple subject line infects a huge share of the world's computers","A viral attachment spreads across the internet in a single day","A malicious email causes billions of dollars in damage"]},
+ {"segment":"Internet","region":"North America","era":"2000s","outlet":"Wikipedia","date":"2006-07-15",
+  "real":"A 140-character message service becomes how the world talks",
+  "source":"Twitter — launched in 2006 as a simple 140-character status update, it grew into a global platform for news, politics, and culture, becoming one of the most influential social networks in history.",
+  "link":"https://en.wikipedia.org/wiki/Twitter","verify":["twitter","2006"],
+  "fakes":["A service that limits messages to a short length becomes a global force","A platform for quick updates shapes news and politics worldwide","A simple status app grows into one of the most influential social networks"]},
+ {"segment":"Internet","region":"North America","era":"2000s","outlet":"Wikipedia","date":"2005-02-14",
+  "real":"A video site started by three friends becomes the largest on the internet",
+  "source":"YouTube — founded in 2005 by three ex-PayPal employees, it became the world's largest video platform, was bought by Google for $1.65 billion in 2006, and now hosts billions of videos watched by billions of people.",
+  "link":"https://en.wikipedia.org/wiki/YouTube","verify":["youtube","2005"],
+  "fakes":["A video-sharing site started by three friends becomes the internet's largest","A startup that lets people upload clips is bought by a tech giant","A small web video platform grows to host billions of clips"]},
+ {"segment":"Internet","region":"North America","era":"2000s","outlet":"Wikipedia","date":"2004-02-04",
+  "real":"A 'Facebook' for college students becomes the most-used social network",
+  "source":"Facebook — started in 2004 as a college-directory network, it grew into the world's largest social platform and reshaped how billions of people share and connect online, becoming one of the most valuable companies in history.",
+  "link":"https://en.wikipedia.org/wiki/Facebook","verify":["facebook","2004"],
+  "fakes":["A college networking site becomes the world's largest social platform","A small campus directory grows into a global social network","A student project reshapes how billions of people connect online"]},
+ {"segment":"Internet","region":"North America","era":"2010s","outlet":"Wikipedia","date":"2010-10-06",
+  "real":"An app for sharing photos of your lunch becomes a billion-dollar brand",
+  "source":"Instagram — launched in 2010 as a mobile photo-sharing app, it grew so fast that Facebook bought it for $1 billion just 18 months later, and it became one of the most recognizable consumer brands of the smartphone era.",
+  "link":"https://en.wikipedia.org/wiki/Instagram","verify":["instagram","2010"],
+  "fakes":["A photo app is bought for a billion dollars within two years","A mobile app for sharing images becomes a household name","A simple camera app grows into one of the era's biggest brands"]},
+ {"segment":"Internet","region":"Global","era":"2000s","outlet":"Wikipedia","date":"2005-12-01",
+  "real":"A site where anonymous users vote on posts becomes a giant of the web",
+  "source":"Reddit — founded in 2005, the site where users post and vote on content in topic-based 'subreddits' became one of the largest communities on the internet, and in 2008 was famously called 'the front page of the internet' by its own users.",
+  "link":"https://en.wikipedia.org/wiki/Reddit","verify":["reddit","2005"],
+  "fakes":["A site where users vote on posts becomes known as the front page of the web","A community of topic-based forums grows into one of the web's giants","A platform built around upvoting content becomes a cultural institution"]},
+ {"segment":"Internet","region":"Global","era":"2000s","outlet":"Wikipedia","date":"2003-08-01",
+  "real":"A 'friend network' for sharing your profile becomes a social media giant",
+  "source":"MySpace — the social network that let users customize personal profile pages and share music, it was the dominant social platform of the mid-2000s, briefly the most-visited site in the world, before being overtaken by a rival and later sold for a fraction of its peak value.",
+  "link":"https://en.wikipedia.org/wiki/Myspace","verify":["myspace","2003"],
+  "fakes":["A profile-based social site becomes the web's most-visited page","A platform for sharing music and profiles peaks then is overtaken","A social network that dominated for a few years is later sold cheap"]}
 ]

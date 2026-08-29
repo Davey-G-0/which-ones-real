@@ -1,0 +1,22 @@
+[
+  {"title": "Dancing plague of 1518", "verify": ["1518", "dancing"]},
+  {"title": "Pig War (1859)", "verify": ["1859", "pig"]},
+  {"title": "War of the Bucket", "verify": ["bucket", "bologna"]},
+  {"title": "Battle of Castle Itter", "verify": ["1945", "itter"]},
+  {"title": "Great Stink", "verify": ["1858", "thames"]},
+  {"title": "Year Without a Summer", "verify": ["1816", "1815"]},
+  {"title": "Toynbee tiles", "verify": ["toynbee", "tiles"]},
+  {"title": "Dyatlov Pass incident", "verify": ["1959", "dyatlov"]},
+  {"title": "Cardiff Giant", "verify": ["cardiff", "giant"]},
+  {"title": "Cottingley Fairies", "verify": ["cottingley", "fairies"]},
+  {"title": "Rat King", "verify": ["rat king"]},
+  {"title": "Tarrare", "verify": ["tarrare", "appetite"]},
+  {"title": "Dancing man", "verify": ["dancing man"]},
+  {"title": "War of the Buckwheat", "verify": ["buckwheat"]},
+  {"title": "Borrasca", "verify": ["borrasca"]},
+  {"title": "Freakonomics", "verify": ["freakonomics"]},
+  {"title": "La Brea Tar Pits", "verify": ["la brea"]},
+  {"title": "Sphenodon", "verify": ["tuatara"]},
+  {"title": "Corpse flower", "verify": ["corpse flower"]},
+  {"title": "Cicada killer", "verify": ["cicada killer"]}
+]

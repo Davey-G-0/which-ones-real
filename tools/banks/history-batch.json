@@ -1,0 +1,229 @@
+[
+ {
+  "segment": "History",
+  "region": "Europe",
+  "era": "1500s",
+  "outlet": "Wikipedia",
+  "date": "1518-07-01",
+  "real": "Hundreds of people in a French city start dancing uncontrollably for a month",
+  "source": "1518 \u2014 the Dancing Plague of Strasbourg: reports describe a woman stepping into a street to dance, followed within a day by dozens, then hundreds, who danced for weeks into exhaustion and, in some accounts, death \u2014 with no clear cause ever established.",
+  "link": "https://en.wikipedia.org/wiki/Dancing_plague_of_1518",
+  "verify": [
+   "1518",
+   "dancing"
+  ],
+  "fakes": [
+   "A mysterious illness makes an entire city dance for weeks",
+   "Doctors prescribe more dancing to cure the outbreak",
+   "A festival turns into a month-long involuntary dance marathon"
+  ]
+ },
+ {
+  "segment": "History",
+  "region": "North America",
+  "era": "1800s",
+  "outlet": "Wikipedia",
+  "date": "1859-06-15",
+  "real": "The U.S. and Britain nearly go to war over a single shot pig",
+  "source": "1859 \u2014 the Pig War: a U.S. settler shot a British-owned pig on disputed territory between the U.S. and Britain, and both nations mobilized troops, bringing the two countries to the brink of war over a pot of pork.",
+  "link": "https://en.wikipedia.org/wiki/Pig_War_(1859)",
+  "verify": [
+   "1859",
+   "pig"
+  ],
+  "fakes": [
+   "A border dispute between two nations is triggered by a farm animal",
+   "Two countries deploy soldiers to resolve a single property incident",
+   "A dead animal nearly sparks an international conflict"
+  ]
+ },
+ {
+  "segment": "History",
+  "region": "Europe",
+  "era": "1300s",
+  "outlet": "Wikipedia",
+  "date": "1325-01-01",
+  "real": "Two Italian cities go to war over a stolen wooden bucket",
+  "source": "The War of the Bucket (1325) \u2014 the cities of Bologna and Modena fought a bitter war whose trigger, according to tradition, was a stolen ceremonial wooden bucket, which Bologna still keeps on display as a trophy.",
+  "link": "https://en.wikipedia.org/wiki/War_of_the_Bucket",
+  "verify": [
+   "bucket",
+   "bologna"
+  ],
+  "fakes": [
+   "A centuries-old feud between two cities began over a single object",
+   "A stolen household item leads to a full-scale medieval battle",
+   "One city's most prized artifact was stolen and never returned"
+  ]
+ },
+ {
+  "segment": "History",
+  "region": "Europe",
+  "era": "1900s",
+  "outlet": "Wikipedia",
+  "date": "1945-05-05",
+  "real": "In the final days of WWII, German and American soldiers fight together against the Nazis",
+  "source": "1945 \u2014 the Battle of Castle Itter: in a bizarre last week of the war, Wehrmacht and Waffen-SS soldiers joined forces with U.S. troops to defend a castle holding rescued French war ministers, defeating the Waffen-SS in what is one of the few times the two sides fought as allies.",
+  "link": "https://en.wikipedia.org/wiki/Battle_of_Castle_Itter",
+  "verify": [
+   "1945",
+   "itter"
+  ],
+  "fakes": [
+   "Allied and German soldiers briefly become allies in the war's final days",
+   "A castle holding prisoners becomes an unlikely battlefield",
+   "Soldiers on both sides of the conflict unite to defend a group of hostages"
+  ]
+ },
+ {
+  "segment": "History",
+  "region": "Europe",
+  "era": "1800s",
+  "outlet": "Wikipedia",
+  "date": "1858-06-16",
+  "real": "The smell of London's river is so bad that MPs refuse to go to work",
+  "source": "1858 \u2014 the Great Stink: the River Thames smelled so foul from untreated sewage in a hot summer that members of Parliament sealed the windows with lime and the government, for once, acted fast, commissioning a modern sewer system for the city.",
+  "link": "https://en.wikipedia.org/wiki/Great_Stink",
+  "verify": [
+   "1858",
+   "thames"
+  ],
+  "fakes": [
+   "A city's river becomes so polluted it shuts down the seat of government",
+   "Lawmakers flee their own building to escape an unbearable odor",
+   "A single summer's heat forces an entire nation's infrastructure project"
+  ]
+ },
+ {
+  "segment": "History",
+  "region": "North America",
+  "era": "1800s",
+  "outlet": "Wikipedia",
+  "date": "1816-07-01",
+  "real": "A volcano's ash causes a year with no summer \u2014 and changes world history",
+  "source": "1816 \u2014 the 'Year Without a Summer': the 1815 eruption of Mount Tambora cooled the planet so much that New England saw frost in June, harvests failed worldwide, and the misery is often cited as a factor behind Mary Shelley writing Frankenstein.",
+  "link": "https://en.wikipedia.org/wiki/Year_Without_a_Summer",
+  "verify": [
+   "1816",
+   "1815"
+  ],
+  "fakes": [
+   "A volcanic eruption turns a summer into a winter across a continent",
+   "An unusual cold spell devastates farms on two sides of the Atlantic",
+   "A single mountain blast reshapes a year of global weather"
+  ]
+ },
+ {
+  "segment": "History",
+  "region": "North America",
+  "era": "1900s",
+  "outlet": "Wikipedia",
+  "date": "1930-01-01",
+  "real": "Thousands of strange tiles with a riddle are embedded in city streets",
+  "source": "The Toynbee Tiles \u2014 hundreds of concrete tiles bearing the riddle 'TOYNBEE \u2014 TO BUILD A WORLD RELIGION \u2014 CONTACT' have been embedded into street corners across dozens of cities, apparently by a single anonymous person, with no one ever confirming the story behind them.",
+  "link": "https://en.wikipedia.org/wiki/Toynbee_tiles",
+  "verify": [
+   "toynbee",
+   "tiles"
+  ],
+  "fakes": [
+   "A mysterious message appears carved into streets across many cities",
+   "An anonymous artist leaves a recurring puzzle hidden in public places",
+   "The same enigmatic inscription has been found on five continents"
+  ]
+ },
+ {
+  "segment": "History",
+  "region": "Europe",
+  "era": "1900s",
+  "outlet": "Wikipedia",
+  "date": "1959-02-01",
+  "real": "Nine hikers die in the Ural Mountains under conditions that remain a mystery",
+  "source": "1959 \u2014 the Dyatlov Pass incident: nine experienced hikers were found dead in the Urals, their tent cut from inside, some without shoes or clothes in sub-zero temperatures, and the official file was classified for years \u2014 one of the most enduring unsolved mysteries in history.",
+  "link": "https://en.wikipedia.org/wiki/Dyatlov_Pass_incident",
+  "verify": [
+   "1959",
+   "dyatlov"
+  ],
+  "fakes": [
+   "A group of hikers perishes in the mountains in circumstances no one can explain",
+   "A tent is found torn open with its campers gone missing in the snow",
+   "A decades-old hiking accident is still shrouded in mystery"
+  ]
+ },
+ {
+  "segment": "History",
+  "region": "Europe",
+  "era": "1800s",
+  "outlet": "Wikipedia",
+  "date": "1869-01-01",
+  "real": "A 46-foot stone giant is discovered under a hill in Wales \u2014 until it's not",
+  "source": "The Cardiff Giant \u2014 a 46-foot (14 m) stone 'giant' was unveiled as a 'recent discovery' under a hill in Cardiff in 1869 and drew thousands of curious visitors, until the sculptor admitted he'd carved and buried it himself as a publicity stunt.",
+  "link": "https://en.wikipedia.org/wiki/Cardiff_Giant",
+  "verify": [
+   "cardiff",
+   "giant"
+  ],
+  "fakes": [
+   "A massive stone figure is unearthed and becomes a tourist sensation",
+   "Crowds pay to see a 'prehistoric' giant pulled from the earth",
+   "The 'discovery' of an ancient statue later turns out to be an elaborate hoax"
+  ]
+ },
+ {
+  "segment": "History",
+  "region": "Europe",
+  "era": "1900s",
+  "outlet": "Wikipedia",
+  "date": "1917-04-17",
+  "real": "Two girls 'photograph' fairies, and the famous author believes them",
+  "source": "The Cottingley Fairies \u2014 in 1917, two young girls in England photographed themselves with paper 'fairies,' and the images convinced Sir Arthur Conan Doyle and others for decades that real fairies existed, before the girls confessed the trick in 1983.",
+  "link": "https://en.wikipedia.org/wiki/Cottingley_Fairies",
+  "verify": [
+   "cottingley",
+   "fairies"
+  ],
+  "fakes": [
+   "A pair of childhood photos of 'fairies' fool the world for decades",
+   "The author of a famous detective series falls for a photographic hoax",
+   "Two girls' innocent trick is believed by prominent figures until they come clean"
+  ]
+ },
+ {
+  "segment": "History",
+  "region": "Europe",
+  "era": "1800s",
+  "outlet": "Wikipedia",
+  "date": "1800-01-01",
+  "real": "A French soldier eats so much, constantly, that doctors study him",
+  "source": "Tarrare \u2014 an 18th-century French soldier reportedly ate 12 pounds (5 kg) of food a day, along with stones, insects, and live animals, and was eventually 'used' by the military as a living courier who could hide messages in his stomach, becoming a subject of medical fascination.",
+  "link": "https://en.wikipedia.org/wiki/Tarrare",
+  "verify": [
+   "tarrare",
+   "appetite"
+  ],
+  "fakes": [
+   "A man with an insatiable appetite becomes a medical curiosity",
+   "Doctors attempt to treat a soldier who can eat almost anything",
+   "An extreme case of overeating is studied by the medical community"
+  ]
+ },
+ {
+  "segment": "History",
+  "region": "Europe",
+  "era": "1000s",
+  "outlet": "Wikipedia",
+  "date": "1899-01-01",
+  "real": "A knot of dead rats found in a sewer turns out to be a real biological thing",
+  "source": "The 'rat king' \u2014 a phenomenon in which several dead rats become tangled together by their fur into a single knot, found in sewers and attics, is a real (if gruesome) occurrence documented since the 1890s, with specimens in museums and an annual 'rat king of the year' contest in some quarters.",
+  "link": "https://en.wikipedia.org/wiki/Rat_King",
+  "verify": [
+   "rat king"
+  ],
+  "fakes": [
+   "A knot of dead rats becomes a documented biological phenomenon",
+   "A macabre discovery in a sewer is real and found regularly",
+   "A tangled cluster of rodents is even the subject of an annual contest"
+  ]
+ }
+]
