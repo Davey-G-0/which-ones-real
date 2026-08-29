@@ -23,7 +23,8 @@ const DATA = path.join(ROOT, "data.js");
 const SEED_DIR = path.join(__dirname, "seeds");
 
 const bankFile = process.argv[2];
-if (!bankFile) { console.error("usage: node tools/generate.js <bank.json>"); process.exit(2); }
+const nameArg = process.argv[3] || null; // optional slug for per-day multi-batch runs
+if (!bankFile) { console.error("usage: node tools/generate.js <bank.json> [name-slug]"); process.exit(2); }
 const bank = JSON.parse(fs.readFileSync(bankFile, "utf8"));
 if (!Array.isArray(bank) || !bank.length) { console.error("bank must be a non-empty JSON array"); process.exit(2); }
 
@@ -43,7 +44,7 @@ while ((m = re.exec(dataSrc))) {
 const fresh = bank.filter((s) => !existing.has(s.real) && !existing.has(s.link));
 const dups = bank.length - fresh.length;
 
-const stamp = new Date().toISOString().slice(0, 10).replace(/-/g, "");
+const stamp = (nameArg || new Date().toISOString().slice(0, 10).replace(/-/g, ""));
 const seedFile = path.join(SEED_DIR, `generated-${stamp}.json`);
 fs.writeFileSync(seedFile, JSON.stringify(fresh, null, 2));
 console.log(`bank: ${bank.length} entries -> ${fresh.length} new, ${dups} dup(s) skipped. wrote ${path.basename(seedFile)}\n`);

@@ -1,0 +1,20 @@
+[
+  { "title": "Miracle on Ice", "verify": ["miracle on ice", "1980"] },
+  { "title": "Bleacher Bums", "verify": ["bleacher bums", "baseball"] },
+  { "title": "Perfect game (baseball)", "verify": ["perfect game", "baseball"] },
+  { "title": "Rumble in the Jungle", "verify": ["rumble in the jungle", "1974"] },
+  { "title": "Thrilla in Manila", "verify": ["thrilla in manila", "1975"] },
+  { "title": "Hand of God", "verify": ["hand of god", "1986", "maradona"] },
+  { "title": "Duke Kahanamoku", "verify": ["kahanamoku", "swim"] },
+  { "title": "Jesse Owens", "verify": ["owens", "1936", "berlin"] },
+  { "title": "1919 World Series", "verify": ["black sox", "1919"] },
+  { "title": "Willie Mays", "verify": ["mays", "say anything", "1954"] },
+  { "title": "Cal Ripken Jr.", "verify": ["ripken", "2,632", "consecutive"] },
+  { "title": "Joe DiMaggio", "verify": ["dimmaggio", "streak"] },
+  { "title": "1946 World Series Game 3", "verify": ["1946", "world series"] },
+  { "title": "Babe Ruth", "verify": ["babe ruth", "home run"] },
+  { "title": "Mariano Rivera", "verify": ["rivera", "saves", "closer"] },
+  { "title": "Ty Cobb", "verify": ["cobb", "hitting", "streak"] },
+  { "title": "2004 Boston Red Sox", "verify": ["red sox", "2004"] },
+  { "title": "Black Sox", "verify": ["black sox", "1919"] }
+]

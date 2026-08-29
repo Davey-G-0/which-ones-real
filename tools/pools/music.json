@@ -1,0 +1,14 @@
+[
+  { "title": "Woodstock", "verify": ["woodstock", "1969"] },
+  { "title": "Live Aid", "verify": ["live aid", "1985"] },
+  { "title": "Battle of the Bands", "verify": ["battle of the bands", "1998"] },
+  { "title": "American Idol", "verify": ["american idol", "2002"] },
+  { "title": "The Beatles", "verify": ["the beatles", "1960"] },
+  { "title": "Thriller (album)", "verify": ["thriller", "1982", "jackson"] },
+  { "title": "Nirvana", "verify": ["nirvana", "nevermind", "1991"] },
+  { "title": "Grateful Dead", "verify": ["grateful dead", "1965"] },
+  { "title": "Muddy Waters", "verify": ["muddy waters", "blues"] },
+  { "title": "Jimi Hendrix", "verify": ["hendrix", "woodstock", "1969"] },
+  { "title": "Sinead O'Connor", "verify": ["sinead", "o'connor"] },
+  { "title": "Kurt Cobain", "verify": ["cobain", "1994"] }
+]

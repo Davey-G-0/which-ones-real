@@ -1,0 +1,14 @@
+[
+  { "title": "Enron", "verify": ["enron", "2001", "fraud"] },
+  { "title": "Theranos", "verify": ["theranos", "blood"] },
+  { "title": "WeWork", "verify": ["wework", "we work"] },
+  { "title": "Quibi", "verify": ["quibi"] },
+  { "title": "Ponzi scheme", "verify": ["ponzi", "1920"] },
+  { "title": "Great American Bubble Act of 1949", "verify": ["bubble", "1949"] },
+  { "title": "New Coke", "verify": ["new coke", "1985"] },
+  { "title": "Blockbuster Inc.", "verify": ["blockbuster", "video"] },
+  { "title": "Kodak", "verify": ["kodak", "digital"] },
+  { "title": "Pets.com", "verify": ["pets.com", "2000"] },
+  { "title": "Southwest Airlines 1348", "verify": ["southwest", "1348", "door"] },
+  { "title": "Boeing 737 MAX", "verify": ["737 max", "boeing"] }
+]

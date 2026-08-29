@@ -1,0 +1,137 @@
+[
+  {
+    "segment": "Music",
+    "region": "North America",
+    "era": "1960s",
+    "outlet": "Wikipedia",
+    "date": "1969-08-18",
+    "real": "Half a million people gather in a muddy field for a three-day music festival",
+    "source": "Woodstock — in 1969, around 400,000 people gathered at a dairy farm in Bethel, New York for a three-day music festival that became a defining symbol of the 1960s counterculture.",
+    "link": "https://en.wikipedia.org/wiki/Woodstock",
+    "verify": [
+      "woodstock",
+      "1969"
+    ],
+    "fakes": [
+      "Organizers expect a small crowd for the weekend show",
+      "Musicians line up for a record-setting three-day run",
+      "Local farmers protest the influx of visitors to the farm"
+    ]
+  },
+  {
+    "segment": "Music",
+    "region": "Global",
+    "era": "1980s",
+    "outlet": "Wikipedia",
+    "date": "1985-07-13",
+    "real": "The world watches a benefit concert that raises hundreds of millions for famine",
+    "source": "Live Aid — in 1985, the dual-city benefit concerts (London and Philadelphia) raised an estimated $180 million for Ethiopian famine relief and became one of the most-watched live events in television history.",
+    "link": "https://en.wikipedia.org/wiki/Live_Aid",
+    "verify": [
+      "live aid",
+      "1985"
+    ],
+    "fakes": [
+      "Stars agree to perform for free at a charity show",
+      "Televised benefit raises a record sum for relief",
+      "Fans in two cities watch the same lineup at the same time"
+    ]
+  },
+  {
+    "segment": "Music",
+    "region": "North America",
+    "era": "1970s",
+    "outlet": "Wikipedia",
+    "date": "1977-09-01",
+    "real": "Two rival bands announce they're retiring at the same time — and the world loses it",
+    "source": "The 'Supergroup' era and band breakups — the 1970s saw a string of legendary splits (including bands like Led Zeppelin and Fleetwood Mac), with the era's final supergroup reunions becoming some of the most lucrative concerts ever.",
+    "link": "https://en.wikipedia.org/wiki/Fleetwood_Mac",
+    "verify": [
+      "fleetwood mac",
+      "band"
+    ],
+    "fakes": [
+      "Rival band announces a surprise reunion tour",
+      "Veteran group breaks up after a final farewell show",
+      "Fans petition for a one-night-only comeback concert"
+    ]
+  },
+  {
+    "segment": "Music",
+    "region": "North America",
+    "era": "1990s",
+    "outlet": "Wikipedia",
+    "date": "1996-01-01",
+    "real": "A rap album goes double-platinum and changes the industry overnight",
+    "source": "1996 — The Notorious B.I.G.'s 'Life After Death' was released 12 days after his death, debuted at #1, and sold 1.8 million copies in its first week — one of the fastest-selling albums of all time.",
+    "link": "https://en.wikipedia.org/wiki/Life_After_Death",
+    "verify": [
+      "life after death",
+      "notorious"
+    ],
+    "fakes": [
+      "A rapper's final album is released weeks after his death",
+      "The record debuts at the top of the charts",
+      "Fans rush to buy the posthumous studio release"
+    ]
+  },
+  {
+    "segment": "Music",
+    "region": "Global",
+    "era": "2010s",
+    "outlet": "Wikipedia",
+    "date": "2015-08-08",
+    "real": "A song becomes the most-viewed video on the internet — and breaks the platform's records",
+    "source": "Despacito — Luis Fonsi's 2017 song (a collaboration with Daddy Yankee and Justin Bieber) became the first YouTube video to hit 5 billion views, and for a time the most-streamed track in history.",
+    "link": "https://en.wikipedia.org/wiki/Despacito",
+    "verify": [
+      "despacito",
+      "youtube"
+    ],
+    "fakes": [
+      "A reggaeton hit becomes the most-watched clip on the platform",
+      "The song breaks streaming records across every service",
+      "A remix with a pop star sends the track back to #1"
+    ]
+  },
+  {
+    "segment": "Music",
+    "region": "Asia",
+    "era": "2010s",
+    "outlet": "Wikipedia",
+    "date": "2012-07-15",
+    "real": "A South Korean pop star's horse-riding dance takes over the entire internet",
+    "source": "2012 — 'Gangnam Style' by PSY became the first YouTube video to reach 1 billion views and one of the most-watched videos of all time, its 'horse dance' spawning a global meme phenomenon.",
+    "link": "https://en.wikipedia.org/wiki/Gangnam_Style",
+    "verify": [
+      "gangnam",
+      "ps",
+      "youtube"
+    ],
+    "fakes": [
+      "A pop video becomes the first to hit a billion views",
+      "The song's signature dance is copied worldwide",
+      "A music clip tops the charts across every continent"
+    ]
+  },
+  {
+    "segment": "Music",
+    "region": "North America",
+    "era": "2010s",
+    "outlet": "Wikipedia",
+    "date": "2017-04-14",
+    "real": "A rapper's defiant single tops the charts and becomes a cultural moment",
+    "source": "2017 — 'HUMBLE.' by Kendrick Lamar topped the Billboard Hot 100 and became one of the defining tracks of the late 2010s, cementing his status as one of the genre's most influential artists.",
+    "link": "https://en.wikipedia.org/wiki/Humble_(Kendrick_Lamar_song)",
+    "verify": [
+      "humble",
+      "kendrick",
+      "2017"
+    ],
+    "fakes": [
+      "A rapper's new single rockets to the top of the charts",
+      "The track becomes a cultural moment overnight",
+      "Critics debate whether the song is his best work yet"
+    ]
+  }
+]

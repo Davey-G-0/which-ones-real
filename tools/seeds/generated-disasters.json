@@ -1,0 +1,254 @@
+[
+  {
+    "segment": "Disasters",
+    "region": "North America",
+    "era": "1910s",
+    "outlet": "Wikipedia",
+    "date": "1919-01-15",
+    "real": "A 250-foot wall of molasses barrels bursts and chokes a Boston neighborhood",
+    "source": "1919 — the Great Molasses Flood in Boston: a giant storage tank ruptured, sending a 25- to 250-foot wave of molasses through the North End at up to 35 mph, killing 21 people.",
+    "link": "https://en.wikipedia.org/wiki/Great_Molasses_Flood",
+    "verify": [
+      "molasses",
+      "1919",
+      "boston"
+    ],
+    "fakes": [
+      "Boston fire crews race to save a warehouse full of syrup",
+      "City declares emergency after record spill in the harbor district",
+      "Residents report eerie sweet smell for days after storm"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Asia",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1908-06-30",
+    "real": "A mystery blast levels 800 square miles of Siberian forest — no impact crater, no asteroid, no explanation",
+    "source": "1908 — the Tunguska event flattened an estimated 80 million trees across ~2,150 sq km of Siberia in a single airburst. No crater was found, and the cause was debated for a century.",
+    "link": "https://en.wikipedia.org/wiki/Tunguska_event",
+    "verify": [
+      "tunguska",
+      "1908",
+      "siberia"
+    ],
+    "fakes": [
+      "Scientists discover new type of meteorite in remote region",
+      "Forestry service investigates sudden tree death in northern taiga",
+      "Local reports describe strange lights and loud bang at dawn"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "North America",
+    "era": "1910s",
+    "outlet": "Wikipedia",
+    "date": "1917-12-06",
+    "real": "Two ships collide at 6:30 AM and level half a city in 23 seconds",
+    "source": "1917 — the Halifax Explosion: a munitions-laden ship and a supply vessel collided in Halifax harbor, producing the most powerful accidental explosion before nuclear weapons, killing roughly 1,600–2,000 people and destroying much of the city.",
+    "link": "https://en.wikipedia.org/wiki/Halifax_Explosion",
+    "verify": [
+      "halifax",
+      "1917"
+    ],
+    "fakes": [
+      "Harbor workers warn of dangerous cargo pile-up near docks",
+      "City braces for worst storm in a generation as ships take shelter",
+      "Officials debate new safety rules for commercial shipping"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Europe",
+    "era": "1960s",
+    "outlet": "Wikipedia",
+    "date": "1966-10-21",
+    "real": "A colliery tips into a village and buries a school mid-morning",
+    "source": "1966 — the Aberfan disaster: a coal waste tip above the Welsh village of Aberfan slid into the community, killing 116 people, 111 of them children at the local school.",
+    "link": "https://en.wikipedia.org/wiki/Aberfan_disaster",
+    "verify": [
+      "aberfan",
+      "1966"
+    ],
+    "fakes": [
+      "Miners union votes to halt operations over safety concerns",
+      "Heavy rain triggers landslides across the Welsh valleys",
+      "Government orders review of waste-tip regulations"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Asia",
+    "era": "1980s",
+    "outlet": "Wikipedia",
+    "date": "1984-12-03",
+    "real": "A pesticide plant leaks in the night and kills thousands in a sleeping city",
+    "source": "1984 — the Bhopal gas tragedy: a methyl isocyanate leak from a Union Carbide pesticide plant in Bhopal, India, killed thousands immediately and triggered decades of long-term illness.",
+    "link": "https://en.wikipedia.org/wiki/Bhopal_gas_tragedy",
+    "verify": [
+      "bhopal",
+      "1984",
+      "gas"
+    ],
+    "fakes": [
+      "Factory workers report unusual smell and alarm before shift",
+      "City hospital overwhelmed as residents seek treatment",
+      "Corporate headquarters issues statement on facility safety"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "North America",
+    "era": "1970s",
+    "outlet": "Wikipedia",
+    "date": "1975-11-10",
+    "real": "A legendary freighter vanishes on Lake Superior with its entire crew in a single storm",
+    "source": "1975 — the SS Edmund Fitzgerald, a Great Lakes freighter, sank in a storm on Lake Superior, killing all 29 crew members. It became the subject of Gordon Lightfoot's famous song.",
+    "link": "https://en.wikipedia.org/wiki/SS_Edmund_Fitzgerald",
+    "verify": [
+      "edmund fitzgerald",
+      "1975"
+    ],
+    "fakes": [
+      "Ship's family members launch search for the missing vessel",
+      "Lakeshore towns mourn after storm claims lives",
+      "Maritime authority investigates cause of the sinking"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Europe",
+    "era": "1990s",
+    "outlet": "Wikipedia",
+    "date": "1994-09-28",
+    "real": "A cruise ferry capsizes in the night and sinks in just 20 minutes",
+    "source": "1994 — the MS Estonia, a passenger ferry, capsized and sank in the Baltic Sea in under 20 minutes, killing 852 people — one of the worst maritime disasters in European history.",
+    "link": "https://en.wikipedia.org/wiki/MS_Estonia",
+    "verify": [
+      "estonia",
+      "1994"
+    ],
+    "fakes": [
+      "Passengers report rough seas before ferry departs for Sweden",
+      "Rescue crews mount massive operation in freezing waters",
+      "Line faces scrutiny over vessel maintenance records"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "North America",
+    "era": "1980s",
+    "outlet": "Wikipedia",
+    "date": "1980-05-18",
+    "real": "A dormant volcano erupts without warning and flattens a town in minutes",
+    "source": "1980 — the eruption of Mount St. Helens in Washington state destroyed 600 square miles of forest, killed 57 people, and became the costliest volcanic eruption in U.S. history.",
+    "link": "https://en.wikipedia.org/wiki/Eruption_of_Mount_St._Helens",
+    "verify": [
+      "mount st. helens",
+      "1980"
+    ],
+    "fakes": [
+      "Geologists warn of increased seismic activity in the region",
+      "Authorities evacuate thousands from surrounding valleys",
+      "Airlines reroute flights around ash cloud"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Asia",
+    "era": "1800s",
+    "outlet": "Wikipedia",
+    "date": "1883-08-27",
+    "real": "An island volcano erupts so hard the shockwave circles the globe four times",
+    "source": "1883 — the eruption of Krakatoa in Indonesia was among the most powerful in recorded history; its shockwave was heard 3,000 miles away and the tsunami it triggered killed over 36,000 people.",
+    "link": "https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa",
+    "verify": [
+      "krakatoa",
+      "1883"
+    ],
+    "fakes": [
+      "Merchants in distant ports report strange sounds overnight",
+      "Naval vessels report unusual waves across the ocean",
+      "Scientists debate source of the massive disturbance"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Africa",
+    "era": "1980s",
+    "outlet": "Wikipedia",
+    "date": "1986-08-21",
+    "real": "A lake exhales a cloud of carbon dioxide and kills 1,700 people in a single night",
+    "source": "1986 — the Lake Nyos disaster in Cameroon: a sudden release of carbon dioxide from the lake suffocated an estimated 1,700 people and thousands of animals in the surrounding villages.",
+    "link": "https://en.wikipedia.org/wiki/Lake_Nyos_disaster",
+    "verify": [
+      "nyos",
+      "1986",
+      "cameroon"
+    ],
+    "fakes": [
+      "Villagers report strange gas smell and falling livestock",
+      "Researchers study unusual chemistry of the highland lake",
+      "Government dispatches teams after mass casualties reported"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "North America",
+    "era": "1980s",
+    "outlet": "Wikipedia",
+    "date": "1981-07-17",
+    "real": "A hotel skywalk collapses in front of a crowd of dancers",
+    "source": "1981 — the Hyatt Regency walkway collapse in Kansas City: two suspended skywalks failed during a party, killing 114 people in what became a landmark case in structural engineering.",
+    "link": "https://en.wikipedia.org/wiki/Hyatt_Regency_walkway_collapse",
+    "verify": [
+      "hyatt",
+      "1981",
+      "walkway"
+    ],
+    "fakes": [
+      "Hotel hosts busy social event on its upper floors",
+      "Engineers later review building's design documents",
+      "Family of a victim files lawsuit against the developers"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Asia",
+    "era": "2010s",
+    "outlet": "Wikipedia",
+    "date": "2013-04-24",
+    "real": "A garment factory collapses in the middle of a work shift, killing 1,100",
+    "source": "2013 — the Rana Plaza collapse in Bangladesh: an eight-story garment factory building pancaked, killing 1,134 people and becoming the deadliest textile-industry disaster in history.",
+    "link": "https://en.wikipedia.org/wiki/Rana_Plaza_collapse",
+    "verify": [
+      "rana plaza",
+      "2013"
+    ],
+    "fakes": [
+      "Workers report hairline cracks in the building overnight",
+      "Factory owners refuse to allow evacuation before shift ends",
+      "International brands distance themselves from the supplier"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "North America",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1906-04-18",
+    "real": "An earthquake hits at 5:12 AM and turns a city into a wall of fire",
+    "source": "1906 — the San Francisco earthquake struck at 5:12 AM, and the resulting fires burned for three days, destroying roughly 500 city blocks and killing hundreds to thousands.",
+    "link": "https://en.wikipedia.org/wiki/1906_San_Francisco_earthquake",
+    "verify": [
+      "1906",
+      "san francisco"
+    ],
+    "fakes": [
+      "Firefighters struggle as water mains rupture across the city",
+      "Survivors flee to the waterfront to escape the flames",
+      "Red Cross sets up aid camps for the displaced"
+    ]
+  }
+]

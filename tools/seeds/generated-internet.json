@@ -1,0 +1,135 @@
+[
+  {
+    "segment": "Internet",
+    "region": "North America",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2003-01-01",
+    "real": "A faceless image board becomes the launchpad for memes and internet culture",
+    "source": "4chan — launched in 2003, the anonymous imageboard spawned countless internet memes, subcultures, and movements (including r/place-precursor events), and remains one of the internet's most influential — and controversial — sites.",
+    "link": "https://en.wikipedia.org/wiki/4chan",
+    "verify": [
+      "4chan",
+      "anonymous"
+    ],
+    "fakes": [
+      "Anonymous users share an image board with no registration",
+      "Site becomes the source of a viral wave of online jokes",
+      "Moderators struggle to contain a surge of new subforums"
+    ]
+  },
+  {
+    "segment": "Internet",
+    "region": "Global",
+    "era": "2020s",
+    "outlet": "Wikipedia",
+    "date": "2020-01-01",
+    "real": "A bodybuilder's flexing photo becomes the internet's biggest 'chad' meme",
+    "source": "Gigachad — the image of the Austrian bodybuilder Julius Dober flexing his biceps became a dominant internet meme shorthand for stoic, over-the-top masculinity, spreading across TikTok and Twitter.",
+    "link": "https://en.wikipedia.org/wiki/Gigachad",
+    "verify": [
+      "gigachad"
+    ],
+    "fakes": [
+      "A bodybuilder's flexing photo turns into a viral joke template",
+      "The meme spreads across short-video platforms overnight",
+      "Fans remix the image into hundreds of variations"
+    ]
+  },
+  {
+    "segment": "Internet",
+    "region": "Global",
+    "era": "2010s",
+    "outlet": "Wikipedia",
+    "date": "2014-10-20",
+    "real": "A simple sentence — 'YOLO' — becomes the defining phrase of a generation",
+    "source": "YOLO — the acronym for 'You Only Live Once' exploded from a 2011 Drake song into a ubiquitous catchphrase used (and misused) everywhere from social media to news headlines.",
+    "link": "https://en.wikipedia.org/wiki/YOLO",
+    "verify": [
+      "yolo"
+    ],
+    "fakes": [
+      "A catchy rap phrase takes over social media feeds",
+      "The short slogan becomes a global catchphrase",
+      "Brands rush to put the words on everything they sell"
+    ]
+  },
+  {
+    "segment": "Internet",
+    "region": "North America",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2005-01-01",
+    "real": "A dancing baby on a website turns into one of the first viral videos",
+    "source": "Charlie Bit My Finger — a 2007 home video of a toddler biting his brother's finger became one of the most-viewed videos on YouTube, and one of the first to go truly, genuinely viral.",
+    "link": "https://en.wikipedia.org/wiki/Charlie_Bit_My_Finger",
+    "verify": [
+      "charlie",
+      "finger",
+      "youtube"
+    ],
+    "fakes": [
+      "A home video of two kids racking up millions of views",
+      "A family uploads a clip that the whole internet shares",
+      "A short clip becomes the most-watched video on the platform"
+    ]
+  },
+  {
+    "segment": "Internet",
+    "region": "Asia",
+    "era": "2010s",
+    "outlet": "Wikipedia",
+    "date": "2016-01-01",
+    "real": "A simple game where you slap a penguin becomes a global phenomenon",
+    "source": "Flappy Bird — a 2013 mobile game of a pixel bird dodging pipes became a massive viral hit, then was pulled from app stores by its own developer, becoming a symbol of internet fame's fickle nature.",
+    "link": "https://en.wikipedia.org/wiki/Flappy_Bird",
+    "verify": [
+      "flappy",
+      "bird"
+    ],
+    "fakes": [
+      "A tiny mobile game with one button becomes wildly popular",
+      "The developer suddenly removes the game from the store",
+      "Players worldwide chase a high score on a simple app"
+    ]
+  },
+  {
+    "segment": "Internet",
+    "region": "Global",
+    "era": "2010s",
+    "outlet": "Wikipedia",
+    "date": "2013-02-01",
+    "real": "A 28-second dance video takes over the entire internet for two weeks",
+    "source": "2013 — the Harlem Shake: a dance meme that exploded across YouTube and social media, with thousands of parodies filmed in every possible setting, becoming one of the fastest-spreading viral phenomena ever.",
+    "link": "https://en.wikipedia.org/wiki/Harlem_Shake_(meme)",
+    "verify": [
+      "harlem",
+      "shake",
+      "2013"
+    ],
+    "fakes": [
+      "A short dance clip is remade by thousands of people",
+      "The trend sweeps social media in a matter of days",
+      "Companies rush to film their own version of the meme"
+    ]
+  },
+  {
+    "segment": "Internet",
+    "region": "Global",
+    "era": "2020s",
+    "outlet": "Wikipedia",
+    "date": "2020-09-01",
+    "real": "A single TikTok video turns a 20-year-old into a global star overnight",
+    "source": "TikTok — the short-form video app became a global phenomenon, turning unknown creators into international celebrities within days and reshaping how music, fashion, and news spread.",
+    "link": "https://en.wikipedia.org/wiki/TikTok",
+    "verify": [
+      "tiktok",
+      "video"
+    ],
+    "fakes": [
+      "A short dance clip puts a creator on the map overnight",
+      "Millions of users copy a new viral trend in hours",
+      "A young artist's song tops the charts thanks to the app"
+    ]
+  }
+]

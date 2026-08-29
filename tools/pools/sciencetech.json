@@ -1,0 +1,14 @@
+[
+  { "title": "Lovelace letter", "verify": ["lovelace", "1843"] },
+  { "title": "Altair 8800", "verify": ["altair", "1975", "computer"] },
+  { "title": "Easter egg (software)", "verify": ["easter egg", "software"] },
+  { "title": "Y2K", "verify": ["y2k", "2000"] },
+  { "title": "The Great Firewall", "verify": ["great firewall", "china"] },
+  { "title": "Project Loon", "verify": ["loon", "balloon", "internet"] },
+  { "title": "Cassini", "verify": ["cassini", "saturn", "2017"] },
+  { "title": "Voyager 1", "verify": ["voyager 1", "1977", "space"] },
+  { "title": "Hubble Space Telescope", "verify": ["hubble", "1990", "telescope"] },
+  { "title": "Antikythera mechanism", "verify": ["antikythera", "mechanism", "ancient"] },
+  { "title": "Arecibo message", "verify": ["arecibo", "1974"] },
+  { "title": "FCC v. Pacifica Foundation", "verify": ["pacific", "1978", "fmm"] }
+]

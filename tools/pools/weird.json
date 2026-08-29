@@ -1,0 +1,19 @@
+[
+  { "title": "Great Stink", "verify": ["great stink", "1858", "london"] },
+  { "title": "Dancing plague of 1518", "verify": ["1518", "dancing", "strasbourg"] },
+  { "title": "Pig War", "verify": ["pig war", "1859"] },
+  { "title": "War of the Bucket", "verify": ["bucket", "bologna"] },
+  { "title": "Cadaver Synod", "verify": ["cadaver", "897", "pope"] },
+  { "title": "Cottingley Fairies", "verify": ["cottingley", "fairies", "1917"] },
+  { "title": "Toynbee tiles", "verify": ["toynbee", "tiles"] },
+  { "title": "Operation Mincemeat", "verify": ["mincemeat", "1943"] },
+  { "title": "Dyatlov Pass incident", "verify": ["dyatlov", "1959"] },
+  { "title": "Rendlesham Forest incident", "verify": ["rendlesham", "1980"] },
+  { "title": "Voynich manuscript", "verify": ["voynich", "manuscript"] },
+  { "title": "Mary Celeste", "verify": ["mary celeste", "1872"] },
+  { "title": "D.B. Cooper", "verify": ["cooper", "1971", "bailout"] },
+  { "title": "The Man from Taured", "verify": ["taured", "passport"] },
+  { "title": "Green children of Woolpit", "verify": ["woolpit", "green"] },
+  { "title": "Tulip mania", "verify": ["tulip", "mania", "1637"] },
+  { "title": "Emu War", "verify": ["emu", "1932", "australia"] }
+]

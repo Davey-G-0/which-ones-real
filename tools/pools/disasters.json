@@ -1,0 +1,16 @@
+[
+  { "title": "Great Molasses Flood", "verify": ["molasses", "1919", "boston"] },
+  { "title": "Tunguska event", "verify": ["tunguska", "1908", "siberia"] },
+  { "title": "Halifax Explosion", "verify": ["halifax", "1917"] },
+  { "title": "Aberfan disaster", "verify": ["aberfan", "1966"] },
+  { "title": "Bhopal gas tragedy", "verify": ["bhopal", "1984", "gas"] },
+  { "title": "SS Edmund Fitzgerald", "verify": ["edmund fitzgerald", "1975"] },
+  { "title": "Doel disaster", "verify": ["doel", "1958", "ferry"] },
+  { "title": "MS Estonia", "verify": ["estonia", "1994"] },
+  { "title": "Eruption of Mount St. Helens", "verify": ["mount st. helens", "1980"] },
+  { "title": "1883 eruption of Krakatoa", "verify": ["krakatoa", "1883"] },
+  { "title": "Lake Nyos disaster", "verify": ["nyos", "1986", "cameroon"] },
+  { "title": "Hyatt Regency walkway collapse", "verify": ["hyatt", "1981", "walkway"] },
+  { "title": "Rana Plaza collapse", "verify": ["rana plaza", "2013"] },
+  { "title": "1906 San Francisco earthquake", "verify": ["1906", "san francisco"] }
+]

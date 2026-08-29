@@ -1,0 +1,234 @@
+[
+  {
+    "segment": "Weird",
+    "region": "North America",
+    "era": "1800s",
+    "outlet": "Wikipedia",
+    "date": "1859-06-15",
+    "real": "Two armies stand off on the border over... a single shot pig",
+    "source": "1859 — the Pig War: a brief standoff between the U.S. and Britain over the San Juan Islands, triggered when an American farmer shot a British-owned pig that had been rooting in his potato field. It never escalated to real war.",
+    "link": "https://en.wikipedia.org/wiki/Pig_War",
+    "verify": [
+      "pig war",
+      "1859"
+    ],
+    "fakes": [
+      "Border town braced as both nations send troops to the islands",
+      "Diplomats rush to negotiate a ceasefire at the frontier",
+      "Farmer arrested after confrontation with a rival settler"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "Europe",
+    "era": "1600s",
+    "outlet": "Wikipedia",
+    "date": "1631-01-01",
+    "real": "Two Italian cities go to war over the theft of a single bucket",
+    "source": "1631 — the War of the Bucket: a conflict between Bologna and Modena sparked, in part, by the theft of a sacred wooden bucket from Bologna's cathedral. Thousands died over a symbol.",
+    "link": "https://en.wikipedia.org/wiki/War_of_the_Bucket",
+    "verify": [
+      "bucket",
+      "bologna"
+    ],
+    "fakes": [
+      "Rival city denies involvement in the temple theft",
+      "Citizens rally to defend the city's most sacred object",
+      "Mediator proposes a truce to end the escalating feud"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "Europe",
+    "era": "800s",
+    "outlet": "Wikipedia",
+    "date": "897-06-10",
+    "real": "The Pope puts the corpse of his predecessor on trial — and has it burned",
+    "source": "897 — the Cadaver Synod: the mummified body of Pope Formosus was dug up, dressed in papal vestments, seated on a throne, and put on trial by his successor, who was found guilty and had the corpse mutilated and drowned.",
+    "link": "https://en.wikipedia.org/wiki/Cadaver_Synod",
+    "verify": [
+      "cadaver",
+      "897",
+      "pope"
+    ],
+    "fakes": [
+      "Cardinals convene to address a disputed succession",
+      "Relics of the late pontiff are moved to a new shrine",
+      "Scholars debate the legality of the church's decision"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "Europe",
+    "era": "1910s",
+    "outlet": "Wikipedia",
+    "date": "1917-10-01",
+    "real": "Two girls take a photo of fairies — and the world's most famous skeptic believes them",
+    "source": "1917 — the Cottingley Fairies: two cousins photographed what they claimed were fairies, and the images, backed by Arthur Conan Doyle, fooled the public into believing in real fairies for decades.",
+    "link": "https://en.wikipedia.org/wiki/Cottingley_Fairies",
+    "verify": [
+      "cottingley",
+      "fairies",
+      "1917"
+    ],
+    "fakes": [
+      "Village children show off a collection of strange photos",
+      "Photographer offers to sell the images to a magazine",
+      "Local paper runs a story on an unusual family hobby"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "North America",
+    "era": "1920s",
+    "outlet": "Wikipedia",
+    "date": "1920-01-01",
+    "real": "An unknown man spends decades gluing mysterious tiles into city streets",
+    "source": "Toynbee tiles: since the 1920s, an anonymous person has embedded small ceramic tiles with a cryptic message into the streets of cities across the Americas and Australia — a mystery that has never been solved.",
+    "link": "https://en.wikipedia.org/wiki/Toynbee_tiles",
+    "verify": [
+      "toynbee",
+      "tiles"
+    ],
+    "fakes": [
+      "City workers report odd objects appearing in the pavement",
+      "Historian traces the tiles to a local artisan",
+      "Police investigate a possible hoax by a street vendor"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "Asia",
+    "era": "1950s",
+    "outlet": "Wikipedia",
+    "date": "1959-02-02",
+    "real": "Nine hikers die on a snowy mountain under conditions that defy every explanation",
+    "source": "1959 — the Dyatlov Pass incident: nine experienced Soviet hikers died on the Ural mountains under mysterious circumstances, their tent cut from the inside and bodies scattered, spawning decades of theories.",
+    "link": "https://en.wikipedia.org/wiki/Dyatlov_Pass_incident",
+    "verify": [
+      "dyatlov",
+      "1959"
+    ],
+    "fakes": [
+      "Rescue team launches search after hikers fail to check in",
+      "Investigators reconstruct the group's route through the snow",
+      "Local villagers report seeing strange lights on the ridge"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "Europe",
+    "era": "1980s",
+    "outlet": "Wikipedia",
+    "date": "1980-11-26",
+    "real": "An army base in England reports repeated sightings of a 'craft' on a foggy forest",
+    "source": "1980 — the Rendlesham Forest incident: U.S. Air Force personnel stationed in Suffolk, England, reported multiple encounters with an unexplained object in a forest, calling it 'the closest thing to a UFO experience' they had seen.",
+    "link": "https://en.wikipedia.org/wiki/Rendlesham_Forest_incident",
+    "verify": [
+      "rendlesham",
+      "1980"
+    ],
+    "fakes": [
+      "Airmen report unusual lights during a night training exercise",
+      "Base security investigates a series of break-ins near the woods",
+      "Officials deny rumors of a secret military facility in the area"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "Europe",
+    "era": "1910s",
+    "outlet": "Wikipedia",
+    "date": "1912-01-01",
+    "real": "A 600-year-old book is written in a language no one can read — even today",
+    "source": "The Voynich manuscript: a 15th-century illustrated codex written in an unknown script and language. Despite centuries of attempts by cryptographers, no one has been able to decode it.",
+    "link": "https://en.wikipedia.org/wiki/Voynich_manuscript",
+    "verify": [
+      "voynich",
+      "manuscript"
+    ],
+    "fakes": [
+      "Museum acquires a rare medieval text of unknown origin",
+      "Linguists struggle to identify the script of an old codex",
+      "Auction house lists a priceless book at record prices"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "Global",
+    "era": "1800s",
+    "outlet": "Wikipedia",
+    "date": "1872-10-01",
+    "real": "A ship is found sailing with its engine running — and not a single soul on board",
+    "source": "The Mary Celeste: discovered adrift in the Atlantic in 1872 with the cargo intact and food still on the table, but the entire crew of 10 missing. Their fate was never explained.",
+    "link": "https://en.wikipedia.org/wiki/Mary_Celeste",
+    "verify": [
+      "mary celeste",
+      "1872"
+    ],
+    "fakes": [
+      "Rescue vessel discovers a drifting boat with no crew aboard",
+      "Mariners report a storm that scattered several ships",
+      "Investigators search for the missing sailors' last known port"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "North America",
+    "era": "1970s",
+    "outlet": "Wikipedia",
+    "date": "1971-11-24",
+    "real": "A man jumps from a plane with $200,000 in cash — and is never found again",
+    "source": "1971 — D.B. Cooper: a man who called himself Dan Cooper hijacked a Boeing 737, took $200,000 in ransom, and parachuted out over the Pacific Northwest. He was never found.",
+    "link": "https://en.wikipedia.org/wiki/D.B._Cooper",
+    "verify": [
+      "cooper",
+      "1971",
+      "bailout"
+    ],
+    "fakes": [
+      "Airlines tighten security after a passenger's unusual demand",
+      "FBI launches a nationwide search for a missing hijacker",
+      "Authorities ask the public for tips on the mysterious man"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "Europe",
+    "era": "1100s",
+    "outlet": "Wikipedia",
+    "date": "1150-01-01",
+    "real": "Two children appear in an English village with green skin — and speak no one's language",
+    "source": "The Green Children of Woolpit: a 12th-century legend in which two children, one with green skin, appeared in the village of Woolpit speaking an unknown language, and their origin is still debated.",
+    "link": "https://en.wikipedia.org/wiki/Green_children_of_Woolpit",
+    "verify": [
+      "woolpit",
+      "green"
+    ],
+    "fakes": [
+      "Villagers take in two lost children found at the forest edge",
+      "Priest struggles to communicate with the strange newcomers",
+      "Local lord offers a reward for the children's missing family"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "Europe",
+    "era": "1600s",
+    "outlet": "Wikipedia",
+    "date": "1637-01-01",
+    "real": "Dutch traders pay the price of a house for a single flower bulb",
+    "source": "1637 — Tulip mania: in the Dutch Republic, tulip bulb prices skyrocketed to the value of a house before crashing, becoming the first recorded speculative bubble in financial history.",
+    "link": "https://en.wikipedia.org/wiki/Tulip_mania",
+    "verify": [
+      "tulip",
+      "mania",
+      "1637"
+    ],
+    "fakes": [
+      "Flower markets report record demand for rare bulbs",
+      "Traders argue over the true value of a prized bloom",
+      "Merchants warn of overheating in the horticulture trade"
+    ]
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "segment": "Science & Tech",
+    "region": "North America",
+    "era": "1970s",
+    "outlet": "Wikipedia",
+    "date": "1975-11-15",
+    "real": "Two hobbyists build a $600 computer in a garage — and kickstart the personal computer revolution",
+    "source": "1975 — the Altair 8800, a kit computer from MITS, is widely credited as the spark of the personal-computer revolution. A young Steve Wozniak and Steve Jobs soon built an interface for it, leading to the Apple I.",
+    "link": "https://en.wikipedia.org/wiki/Altair_8800",
+    "verify": [
+      "altair",
+      "1975",
+      "computer"
+    ],
+    "fakes": [
+      "Hobbyist club showcases a new programmable machine",
+      "Store sells a kit for tinkerers to build their own",
+      "Engineers demonstrate a tiny processor on a workbench"
+    ]
+  },
+  {
+    "segment": "Science & Tech",
+    "region": "Global",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2000-01-01",
+    "real": "The world braces for a global tech meltdown at midnight — and the computers don't blow up",
+    "source": "Y2K — the 'bug' that made computers store the year as two digits loomed as a potential global catastrophe on Jan 1, 2000. Billions were spent on fixes, and it ended up being far less dramatic than feared.",
+    "link": "https://en.wikipedia.org/wiki/Y2K",
+    "verify": [
+      "y2k",
+      "2000"
+    ],
+    "fakes": [
+      "Programmers race to fix a date-handling flaw before the new year",
+      "Companies stockpile supplies in case of a systems blackout",
+      "Officials urge calm as the clock approaches midnight"
+    ]
+  },
+  {
+    "segment": "Science & Tech",
+    "region": "Asia",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2003-01-01",
+    "real": "A country builds a 'Great Firewall' to keep the world's internet out",
+    "source": "The Great Firewall — China's system of internet censorship and surveillance, named after the Great Wall, blocks access to foreign websites and monitors online activity on a massive scale.",
+    "link": "https://en.wikipedia.org/wiki/The_Great_Firewall",
+    "verify": [
+      "great firewall",
+      "china"
+    ],
+    "fakes": [
+      "Government rolls out new rules for overseas web access",
+      "Tech firms adapt their sites to meet local regulations",
+      "Researchers measure the reach of a national filter"
+    ]
+  },
+  {
+    "segment": "Science & Tech",
+    "region": "Global",
+    "era": "2010s",
+    "outlet": "Wikipedia",
+    "date": "2013-01-01",
+    "real": "A company sends thousands of balloons into the stratosphere to give the world Wi-Fi",
+    "source": "Project Loon — Google's effort to provide internet access to remote areas using high-altitude balloons drifting in the stratosphere, some of which carried signals for years over Africa and the Pacific.",
+    "link": "https://en.wikipedia.org/wiki/Project_Loon",
+    "verify": [
+      "loon",
+      "balloon",
+      "internet"
+    ],
+    "fakes": [
+      "Startup tests a fleet of floating transmitters over the ocean",
+      "Island communities gain their first high-speed connection",
+      "Regulators clear a novel aerial communications network"
+    ]
+  },
+  {
+    "segment": "Science & Tech",
+    "region": "Global",
+    "era": "2010s",
+    "outlet": "Wikipedia",
+    "date": "2017-09-15",
+    "real": "A space probe that orbited Saturn for 13 years deliberately dives into the planet to die",
+    "source": "Cassini — the NASA/ESA spacecraft that orbited Saturn for 13 years ended its mission in 2017 by plunging into the planet's atmosphere, destroying itself to protect potentially life-friendly moons.",
+    "link": "https://en.wikipedia.org/wiki/Cassini",
+    "verify": [
+      "cassini",
+      "saturn"
+    ],
+    "fakes": [
+      "Space agency ends a long mission with a controlled re-entry",
+      "Probe's final images show the planet's rings in detail",
+      "Scientists mourn the loss of a flagship observatory"
+    ]
+  },
+  {
+    "segment": "Science & Tech",
+    "region": "Global",
+    "era": "1970s",
+    "outlet": "Wikipedia",
+    "date": "1977-09-05",
+    "real": "A probe launched in 1977 is still sending signals from the edge of the solar system",
+    "source": "Voyager 1 — launched in 1977, it flew past Jupiter and Saturn, and in 2012 became the first human-made object to reach interstellar space, still transmitting back to Earth decades later.",
+    "link": "https://en.wikipedia.org/wiki/Voyager_1",
+    "verify": [
+      "voyager 1",
+      "1977",
+      "space"
+    ],
+    "fakes": [
+      "Probe crosses an invisible boundary into new space",
+      "Mission control receives a signal after a decades-long silence",
+      "Engineers keep a 40-year-old craft running with old code"
+    ]
+  },
+  {
+    "segment": "Science & Tech",
+    "region": "North America",
+    "era": "1990s",
+    "outlet": "Wikipedia",
+    "date": "1990-04-24",
+    "real": "A $1.5 billion telescope launches — with a flaw that turns it into a national joke",
+    "source": "The Hubble Space Telescope launched in 1990 with a mirror ground the wrong shape, producing blurry images and heavy criticism — until a space-shuttle mission installed corrective optics in 1993.",
+    "link": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+    "verify": [
+      "hubble",
+      "1990",
+      "telescope"
+    ],
+    "fakes": [
+      "Astronauts repair a flawed mirror on a giant observatory",
+      "Telescope's first sharp images reveal distant galaxies",
+      "Budget overruns draw fire before a costly rescue mission"
+    ]
+  },
+  {
+    "segment": "Science & Tech",
+    "region": "Europe",
+    "era": "Ancient",
+    "outlet": "Wikipedia",
+    "date": "100-01-01",
+    "real": "A 2,000-year-old 'computer' is pulled from a shipwreck — and baffles scientists",
+    "source": "The Antikythera mechanism — a 2nd-century-BCE Greek hand-powered device that predicted astronomical positions and eclipses, so advanced that comparable technology did not reappear for over 1,400 years.",
+    "link": "https://en.wikipedia.org/wiki/Antikythera_mechanism",
+    "verify": [
+      "antikythera",
+      "mechanism",
+      "ancient"
+    ],
+    "fakes": [
+      "Divers recover a mysterious bronze object from the wreck",
+      "Researchers discover a gear system of unknown purpose",
+      "Museum opens an exhibit on an ancient navigational tool"
+    ]
+  },
+  {
+    "segment": "Science & Tech",
+    "region": "North America",
+    "era": "1970s",
+    "outlet": "Wikipedia",
+    "date": "1974-11-16",
+    "real": "Scientists point a giant radio dish at space and fire off a message to the stars",
+    "source": "1974 — the Arecibo message: a radio signal encoding human DNA and basic math was beamed toward a star cluster 25,000 light-years away, one of the first deliberate attempts to contact intelligent extraterrestrial life.",
+    "link": "https://en.wikipedia.org/wiki/Arecibo_message",
+    "verify": [
+      "arecibo",
+      "1974"
+    ],
+    "fakes": [
+      "Astronomers aim a massive dish at a distant star cluster",
+      "Scientists encode a message in the pattern of pulses",
+      "University hosts a public viewing of the transmission"
+    ]
+  },
+  {
+    "segment": "Science & Tech",
+    "region": "North America",
+    "era": "1970s",
+    "outlet": "Wikipedia",
+    "date": "1978-03-21",
+    "real": "A radio shock jock reads a song with the word 'shit' 16 times — and the FCC is dragged to court",
+    "source": "1978 — FCC v. Pacifica Foundation: a court case over whether the FCC could regulate 'indecent' broadcasts, triggered by a radio show that played a track containing dozens of profanities during family listening hours.",
+    "link": "https://en.wikipedia.org/wiki/FCC_v._Pacifica_Foundation",
+    "verify": [
+      "pacific",
+      "1978"
+    ],
+    "fakes": [
+      "Radio station airs a controversial track during daytime hours",
+      "Regulators open a hearing on broadcast decency",
+      "A listener's complaint sparks a landmark court ruling"
+    ]
+  }
+]

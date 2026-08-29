@@ -1,0 +1,14 @@
+[
+  { "title": "Dancing plague of 1518", "verify": ["1518", "dancing", "strasbourg"] },
+  { "title": "Tulip mania", "verify": ["tulip", "mania", "1637"] },
+  { "title": "Cadaver Synod", "verify": ["cadaver", "897", "pope"] },
+  { "title": "Emu War", "verify": ["emu", "1932", "australia"] },
+  { "title": "Dyatlov Pass incident", "verify": ["dyatlov", "1959"] },
+  { "title": "Rendlesham Forest incident", "verify": ["rendlesham", "1980"] },
+  { "title": "Voynich manuscript", "verify": ["voynich", "manuscript"] },
+  { "title": "Mary Celeste", "verify": ["mary celeste", "1872"] },
+  { "title": "D.B. Cooper", "verify": ["cooper", "1971", "bailout"] },
+  { "title": "Green children of Woolpit", "verify": ["woolpit", "green"] },
+  { "title": "The Dancing Plague", "verify": ["dancing", "plague", "1518"] },
+  { "title": "Great Stink", "verify": ["great stink", "1858", "london"] }
+]

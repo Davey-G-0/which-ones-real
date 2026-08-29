@@ -1,0 +1,138 @@
+[
+  {
+    "segment": "Business",
+    "region": "North America",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2001-12-02",
+    "real": "A giant energy company vanishes — its books were fake and its executives are arrested",
+    "source": "2001 — Enron, one of America's largest energy companies, collapsed after years of accounting fraud, becoming the largest corporate bankruptcy in U.S. history and triggering the Sarbanes-Oxley Act.",
+    "link": "https://en.wikipedia.org/wiki/Enron",
+    "verify": [
+      "enron",
+      "2001",
+      "fraud"
+    ],
+    "fakes": [
+      "Energy giant reports record quarterly earnings",
+      "Executives celebrate a merger with a rival utility",
+      "Investors praise the company's bold new strategy"
+    ]
+  },
+  {
+    "segment": "Business",
+    "region": "North America",
+    "era": "2010s",
+    "outlet": "Wikipedia",
+    "date": "2018-03-14",
+    "real": "A 'medical breakthrough' company turns out to have been a multi-year lie",
+    "source": "2018 — Theranos, the billion-dollar blood-testing startup led by Elizabeth Holmes, was exposed for faking its technology; it collapsed and Holmes was convicted of fraud.",
+    "link": "https://en.wikipedia.org/wiki/Theranos",
+    "verify": [
+      "theranos",
+      "blood"
+    ],
+    "fakes": [
+      "Startup unveils a new blood test that uses a single drop",
+      "Investors pour billions into the medical device firm",
+      "Founder named one of the most influential young entrepreneurs"
+    ]
+  },
+  {
+    "segment": "Business",
+    "region": "North America",
+    "era": "2010s",
+    "outlet": "Wikipedia",
+    "date": "2022-01-01",
+    "real": "A 'we work' real-estate giant valued at $47 billion turns out to be running at a huge loss",
+    "source": "WeWork — the co-working 'revolution' reached a $47 billion valuation before its failed 2019 IPO exposed a company that had been burning cash for years with no clear path to profit.",
+    "link": "https://en.wikipedia.org/wiki/WeWork",
+    "verify": [
+      "wework",
+      "we work"
+    ],
+    "fakes": [
+      "Co-working firm files for a record public offering",
+      "Company rebrands its office spaces across major cities",
+      "Founder shares a vision of reimagining the workplace"
+    ]
+  },
+  {
+    "segment": "Business",
+    "region": "North America",
+    "era": "2020s",
+    "outlet": "Wikipedia",
+    "date": "2020-04-20",
+    "real": "A $1.75 billion streaming service is shut down after just six months",
+    "source": "Quibi — a short-form streaming service backed by Hollywood stars and major investors launched in 2020 and was shut down just six months later after failing to gain a meaningful audience.",
+    "link": "https://en.wikipedia.org/wiki/Quibi",
+    "verify": [
+      "quibi",
+      "2020"
+    ],
+    "fakes": [
+      "Streaming startup debuts with a lineup of celebrity originals",
+      "Company bets big on short, vertical video for phones",
+      "Investors back a new entrant in the crowded market"
+    ]
+  },
+  {
+    "segment": "Business",
+    "region": "North America",
+    "era": "2010s",
+    "outlet": "Wikipedia",
+    "date": "2017-04-21",
+    "real": "A luxury 'paradise' festival for the rich turns out to be a complete scam",
+    "source": "2017 — the Fyre Festival: a high-society music festival in the Bahamas promised luxury to its attendees but delivered cardboard walls, a collapsed hotel, and no food — and its promoter was later sentenced to prison.",
+    "link": "https://en.wikipedia.org/wiki/Fyre_Festival",
+    "verify": [
+      "fyre festival",
+      "2017"
+    ],
+    "fakes": [
+      "Billionaire-adjacent crowd arrives at a remote island party",
+      "Promoters tout the festival's lavish new amenities",
+      "Celebrities share glamorous photos from the beach"
+    ]
+  },
+  {
+    "segment": "Business",
+    "region": "North America",
+    "era": "2010s",
+    "outlet": "Wikipedia",
+    "date": "2019-03-10",
+    "real": "A best-selling airplane is grounded worldwide after two fatal crashes",
+    "source": "The Boeing 737 MAX — two crashes in 2018 and 2019, linked to a faulty flight-control system, led to a global grounding of the type and billions in compensation for Boeing.",
+    "link": "https://en.wikipedia.org/wiki/Boeing_737_MAX",
+    "verify": [
+      "boeing",
+      "max",
+      "crash"
+    ],
+    "fakes": [
+      "Airline orders a new batch of the popular narrow-body jet",
+      "Regulators approve the aircraft for commercial service",
+      "Airlines race to adopt the fuel-efficient model"
+    ]
+  },
+  {
+    "segment": "Business",
+    "region": "Europe",
+    "era": "2010s",
+    "outlet": "Wikipedia",
+    "date": "2015-09-18",
+    "real": "A giant auto maker is caught cheating on emissions tests worldwide",
+    "source": "2015 — the Volkswagen emissions scandal: the company was found to have used software to cheat pollution tests on diesel cars, affecting millions of vehicles and triggering a global recall.",
+    "link": "https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal",
+    "verify": [
+      "volkswagen",
+      "emissions",
+      "diesel"
+    ],
+    "fakes": [
+      "Auto giant unveils a new line of clean diesel models",
+      "Regulators tighten fuel-economy standards for new cars",
+      "Engineers claim the vehicles meet all safety tests"
+    ]
+  }
+]

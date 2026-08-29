@@ -1,0 +1,146 @@
+[
+  {
+    "segment": "Sports", "region": "North America", "era": "1980s", "outlet": "Wikipedia", "date": "1980-02-22",
+    "real": "A U.S. amateur hockey team beats the Soviet Union — the team that had never lost",
+    "source": "1980 — the 'Miracle on Ice': the U.S. Olympic hockey team, made of amateurs and college players, upset the heavily-favored Soviet Union 4-3 in Lake Placid, the night before the gold-medal game.",
+    "link": "https://en.wikipedia.org/wiki/Miracle_on_Ice",
+    "verify": ["miracle on ice", "1980"],
+    "fakes": [
+      "U.S. team named among the favorites heading into the Winter Games",
+      "Soviet squad rolls through its group stage without dropping a period",
+      "Crowd in the arena grows as the underdogs rally late"
+    ]
+  },
+  {
+    "segment": "Sports", "region": "North America", "era": "20th c.", "outlet": "Wikipedia", "date": "1956-05-22",
+    "real": "A pitcher retires all 27 batters in a game — a feat almost never done",
+    "source": "In baseball, a perfect game is the rarest of feats: a pitcher retires all 27 opposing batters with no hits, walks, or errors. Only a handful have ever been thrown in the modern era.",
+    "link": "https://en.wikipedia.org/wiki/Perfect_game_(baseball)",
+    "verify": ["perfect game", "baseball"],
+    "fakes": [
+      "Star pitcher logs a career-best outing on a hot night",
+      "Team celebrates a rare no-hitter after a tense final frame",
+      "Rival pitcher retires 26 of 27 batters in a shutout"
+    ]
+  },
+  {
+    "segment": "Sports", "region": "Africa", "era": "1970s", "outlet": "Wikipedia", "date": "1974-10-30",
+    "real": "A retired champion comes out of retirement to beat the heavyweight in the jungle",
+    "source": "1974 — the 'Rumble in the Jungle': George Foreman, the heavyweight champion, was knocked out in the eighth round by Muhammad Ali in Kinshasa, Zaire, one of the greatest comebacks in boxing history.",
+    "link": "https://en.wikipedia.org/wiki/Rumble_in_the_Jungle",
+    "verify": ["rumble in the jungle", "1974"],
+    "fakes": [
+      "Champion trains in the African heat ahead of a title defense",
+      "Local fans pack the stadium for the world's biggest fight",
+      "Officials weigh in both fighters days before the main event"
+    ]
+  },
+  {
+    "segment": "Sports", "region": "Asia", "era": "1970s", "outlet": "Wikipedia", "date": "1975-10-01",
+    "real": "Two legends fight 14 brutal rounds in the heat — and the champ nearly doesn't survive",
+    "source": "1975 — the 'Thrilla in Manila': Muhammad Ali and Joe Frazier fought 14 exhausting rounds in the Manila heat; Frazier's corner stopped the fight after the 14th, and Ali was left barely able to walk.",
+    "link": "https://en.wikipedia.org/wiki/Thrilla_in_Manila",
+    "verify": ["thrilla in manila", "1975"],
+    "fakes": [
+      "Two rivals agree to a third fight after years of rivalry",
+      "Trainers warn both fighters about the dangerous heat",
+      "Crowd in the ring roars as the final bell rings"
+    ]
+  },
+  {
+    "segment": "Sports", "region": "South America", "era": "1980s", "outlet": "Wikipedia", "date": "1986-06-22",
+    "real": "A player scores a goal with his hand — and calls it the 'Hand of God'",
+    "source": "1986 — Diego Maradona's 'Hand of God': in the World Cup quarterfinal against England, Maradona punched the ball into the net, was caught on replay, and famously blamed the goal on 'a little bit of the hand of God.'",
+    "link": "https://en.wikipedia.org/wiki/Hand_of_God",
+    "verify": ["hand of god", "1986", "maradona"],
+    "fakes": [
+      "Referee awards a controversial goal in the knockout round",
+      "Replays later confirm the striker's arm was involved",
+      "Manager insists the goal was perfectly legal"
+    ]
+  },
+  {
+    "segment": "Sports", "region": "North America", "era": "1900s", "outlet": "Wikipedia", "date": "1936-08-03",
+    "real": "A track star wins four golds in Nazi Berlin — right in Hitler's face",
+    "source": "1936 — Jesse Owens won four gold medals at the Berlin Olympics, shattering the Nazi myth of Aryan supremacy and becoming a global icon of athletic excellence and defiance.",
+    "link": "https://en.wikipedia.org/wiki/Jesse_Owens",
+    "verify": ["owens", "1936", "berlin"],
+    "fakes": [
+      "American sprinter dominates the track events at the Games",
+      "Host nation hosts a star-studded opening ceremony",
+      "Owens sets new world records in the 100 and 200 meters"
+    ]
+  },
+  {
+    "segment": "Sports", "region": "North America", "era": "1910s", "outlet": "Wikipedia", "date": "1919-09-17",
+    "real": "Eight players on the 'champion' team are caught fixing the World Series",
+    "source": "1919 — the Black Sox scandal: eight members of the Chicago White Sox were convicted of throwing the World Series to the Cincinnati Reds for a share of the betting money, the sport's most infamous corruption case.",
+    "link": "https://en.wikipedia.org/wiki/1919_World_Series",
+    "verify": ["black sox", "1919"],
+    "fakes": [
+      "Commissioner opens investigation into suspicious betting lines",
+      "Star players quietly sell their tickets to the championship",
+      "Court hears testimony from a bookie about a fix"
+    ]
+  },
+  {
+    "segment": "Sports", "region": "North America", "era": "1990s", "outlet": "Wikipedia", "date": "1995-09-06",
+    "real": "A player reaches 2,632 straight games played — a record that looks unbreakable",
+    "source": "Cal Ripken Jr. — in 1995 he broke Lou Gehrig's 56-year record of 2,130 consecutive games played and went on to finish at 2,632, a streak considered one of the hardest to break in sports.",
+    "link": "https://en.wikipedia.org/wiki/Cal_Ripken_Jr.",
+    "verify": ["ripken", "2,632", "consecutive"],
+    "fakes": [
+      "Shortstop chases a decades-old attendance record",
+      "Team fans create a mural to honor the streak",
+      "League debates new rules to protect players' health"
+    ]
+  },
+  {
+    "segment": "Sports", "region": "North America", "era": "2000s", "outlet": "Wikipedia", "date": "2004-10-27",
+    "real": "A team that was 0-3 in the series wins the World Series against all odds",
+    "source": "2004 — the Boston Red Sox completed the largest comeback in modern postseason history, erasing a 0-3 deficit against the New York Yankees to win the World Series, ending an 86-year title drought.",
+    "link": "https://en.wikipedia.org/wiki/2004_Boston_Red_Sox",
+    "verify": ["red sox", "2004"],
+    "fakes": [
+      "Red Sox fall behind 0-3 in the ALCS against New York",
+      "Fans pray the team can avoid a historic elimination",
+      "Manager makes a bold bullpen call in the ninth inning"
+    ]
+  },
+  {
+    "segment": "Sports", "region": "North America", "era": "20th c.", "outlet": "Wikipedia", "date": "1950-01-01",
+    "real": "A 60-year-old baseball legend still hits like he's in his prime",
+    "source": "Babe Ruth — the 'Sultan of Swat' transformed baseball from a game of bunting into a game of home runs, and his record for career home runs stood for over 38 years.",
+    "link": "https://en.wikipedia.org/wiki/Babe_Ruth",
+    "verify": ["babe ruth", "home run"],
+    "fakes": [
+      "Yankees star smashes a new single-season home run mark",
+      "Fans pack Fenway Park to see the slugger in action",
+      "Rival pitchers struggle to get a strike on the batter"
+    ]
+  },
+  {
+    "segment": "Sports", "region": "North America", "era": "20th c.", "outlet": "Wikipedia", "date": "1960-01-01",
+    "real": "A pitcher saves 600+ games — the most in baseball history",
+    "source": "Mariano Rivera — the 'Closer' finished his career with 652 saves, the most in Major League history, and was the first player from Puerto Rico inducted into the Baseball Hall of Fame.",
+    "link": "https://en.wikipedia.org/wiki/Mariano_Rivera",
+    "verify": ["rivera", "saves", "closer"],
+    "fakes": [
+      "Yankees closer logs another career-best save",
+      "Manager names him the top candidate for the Hall of Fame",
+      "Rival teams study his signature changeup on video"
+    ]
+  },
+  {
+    "segment": "Sports", "region": "North America", "era": "1900s", "outlet": "Wikipedia", "date": "1910-01-01",
+    "real": "A player hits .400 over a career — a mark almost no one has matched",
+    "source": "Ty Cobb — the 'Typhoid Cobb' finished his career with a .367 average but posted a single-season .406 in 1909, and his career hitting streak and baserunning ferocity made him the sport's most feared competitor.",
+    "link": "https://en.wikipedia.org/wiki/Ty_Cobb",
+    "verify": ["cobb", "hitting", "streak"],
+    "fakes": [
+      "Detroit star extends his hitting streak to a new record",
+      "Opposing teams plot to slow down the baserunner",
+      "League leaders debate new rules to curb his style"
+    ]
+  }
+]

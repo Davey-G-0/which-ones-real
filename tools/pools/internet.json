@@ -1,0 +1,14 @@
+[
+  { "title": "4chan", "verify": ["4chan", "anonymous"] },
+  { "title": "r/place", "verify": ["r/place", "reddit"] },
+  { "title": "Gigachad", "verify": ["gigachad"] },
+  { "title": "Yolo (internet culture)", "verify": ["yolo", "internet"] },
+  { "title": "Rickrolling", "verify": ["rickrolling", "never gonna give you up"] },
+  { "title": "Subreddit", "verify": ["subreddit", "reddit"] },
+  { "title": "Streisand effect", "verify": ["streisand", "effect"] },
+  { "title": "Internet censorship", "verify": ["censorship", "internet"] },
+  { "title": "Netscape", "verify": ["netscape", "browser"] },
+  { "title": "GeoCities", "verify": ["geocities"] },
+  { "title": "Dial-up Internet access", "verify": ["dial-up", "modem"] },
+  { "title": "The Daily Show", "verify": ["daily show", "carmichael"] }
+]
