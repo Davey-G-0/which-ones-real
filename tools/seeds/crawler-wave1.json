@@ -1,0 +1,658 @@
+[
+  {
+    "segment": "Weird",
+    "region": "South America",
+    "era": "1930s",
+    "outlet": "Wikipedia",
+    "date": "1937-11-01",
+    "real": "Brazil's military forged a 'Jewish plot' document to justify a 1937 coup",
+    "source": "1937 — the Cohen Plan: the Brazilian military fabricated a document it claimed proved a communist conspiracy to overthrow the government, then used the 'discovered' fraud to legitimize the 1937 coup.",
+    "link": "https://en.wikipedia.org/wiki/Cohen_Plan",
+    "verify": ["plano cohen", "brazilian military"],
+    "fakes": [
+      "A South American government leaks a secret foreign intelligence report before an election",
+      "A military council publishes a covert dossier to justify seizing power",
+      "A forged document is used to brand political opponents as radicals"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "Europe",
+    "era": "1910s",
+    "outlet": "Wikipedia",
+    "date": "1919-07-01",
+    "real": "Two Cambridge men fooled the Royal Navy into saluting a fake Abyssinian royal delegation",
+    "source": "1919 — the Dreadnought hoax: Horace de Vere Cole and Adrian Stephen dressed as dignitaries from the Ethiopian Empire and tricked the Royal Navy into showing its flagship, the battleship HMS Dreadnought, to a fake royal visit.",
+    "link": "https://en.wikipedia.org/wiki/Dreadnought_hoax",
+    "verify": ["dreadnought hoax", "royal navy"],
+    "fakes": [
+      "A group of students impersonate foreign diplomats to get a military tour",
+      "A practical joke fools naval officers into hosting fake royalty",
+      "Two men cross-dress to sneak a boarding party past a warship"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "Europe",
+    "era": "1970s",
+    "outlet": "Wikipedia",
+    "date": "1977-01-01",
+    "real": "A made-up 'secret society' of telepathic, alien-informed Greeks became a real conspiracy movement",
+    "source": "1977 — the Epsilon Team: a book invented a secret society of elite Greeks who supposedly possessed telepathy and knowledge of extraterrestrial origin; the 'epsilonism' belief system became a fixture of Greek conspiracy culture.",
+    "link": "https://en.wikipedia.org/wiki/Epsilon_Team",
+    "verify": ["epsilon team", "extraterrestrial"],
+    "fakes": [
+      "A novel's fictional cult gets taken seriously by a fringe following",
+      "A book invents a brotherhood of gifted people who gain real believers",
+      "A made-up elite group inspires years of conspiracy literature"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "North America",
+    "era": "1860s",
+    "outlet": "Wikipedia",
+    "date": "1868-01-01",
+    "real": "A 'chess-playing automaton' that beat Houdini and Theodore Roosevelt hid a human inside",
+    "source": "1868 — Ajeeb: a cabinet-maker built a box he claimed was a chess-playing machine; it toured the world and defeated Houdini and Theodore Roosevelt, but the 'automaton' was actually a strong human player concealed inside.",
+    "link": "https://en.wikipedia.org/wiki/Ajeeb",
+    "verify": ["ajeeb", "houdini"],
+    "fakes": [
+      "A traveling 'thinking machine' that plays chess is exposed as a man in a box",
+      "A mechanical chess player tours for decades before its trick is revealed",
+      "An automaton that beats famous players was secretly operated by a person"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "Europe",
+    "era": "1840s",
+    "outlet": "Wikipedia",
+    "date": "1840-08-10",
+    "real": "A dead nobleman's 'one-of-a-kind' library of 52 unique books was a 19th-century auction scam",
+    "source": "1840 — the Fortsas hoax: booksellers across Europe received a catalogue offering the sale of 52 books of which only a single copy each was said to exist, all supposedly from a recently deceased count; it was an elaborate fake auction.",
+    "link": "https://en.wikipedia.org/wiki/Fortsas_hoax",
+    "verify": ["fortsas", "auction"],
+    "fakes": [
+      "A rare-book auction listing for a fictional collector fools librarians",
+      "A catalogue of supposedly unique manuscripts is revealed as a con",
+      "Booksellers are duped by a phantom estate of one-copy-only titles"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "North America",
+    "era": "1870s",
+    "outlet": "Wikipedia",
+    "date": "1874-01-01",
+    "real": "An 1874 'scientific sensation' claimed telegraph cables were pulling the Earth toward the Sun",
+    "source": "1874 — the Global Warming Hoax: a letter to the Kansas City Times claimed the transatlantic telegraph cable was drawing the Earth toward the Sun and would soon cook the planet — pure fiction, but it ran as news.",
+    "link": "https://en.wikipedia.org/wiki/Global_Warming_Hoax_of_1874",
+    "verify": ["1874", "telegraph"],
+    "fakes": [
+      "A 19th-century newspaper prints a doctored 'scientific' warning about the climate",
+      "An anonymous letter to an editor claims a new technology is altering the planet",
+      "A sensational 1800s article warns of catastrophe from a modern invention"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "North America",
+    "era": "1830s",
+    "outlet": "Wikipedia",
+    "date": "1838-01-01",
+    "real": "A 'prehistoric' stone with a 1752 book's alphabet on it fooled archaeologists for a century",
+    "source": "1838 — the Grave Creek Stone: a sandstone disc with 25 symbols was found in a burial mound and hailed as proof of ancient writing; later researchers noticed the 'runes' came from a 1752 book, exposing the fraud.",
+    "link": "https://en.wikipedia.org/wiki/Grave_Creek_Stone",
+    "verify": ["grave creek", "mound"],
+    "fakes": [
+      "An inscribed mound artifact is shown to copy a modern printed text",
+      "A 'lost' writing system on a stone turns out to come from a book",
+      "An ancient-looking disc is proven to be a 19th-century forgery"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "North America",
+    "era": "1890s",
+    "outlet": "Wikipedia",
+    "date": "1894-07-10",
+    "real": "The famous story of a woman waking in her coffin was about a person who never existed",
+    "source": "1894 — Eleanor Markham: newspapers ran a gripping tale of a young woman who woke inside her own coffin on the way to burial; within weeks the 'victim' was proven never to have existed, yet the story kept getting reprinted.",
+    "link": "https://en.wikipedia.org/wiki/Eleanor_Markham",
+    "verify": ["eleanor markham", "coffin"],
+    "fakes": [
+      "A widely reprinted premature-burial story is traced to an invented person",
+      "A newspaper 'miracle' account about a woman is later shown to be fiction",
+      "A famous coffin tale continues circulating even after its subject is disproven"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "Asia",
+    "era": "1880s",
+    "outlet": "Wikipedia",
+    "date": "1882-06-06",
+    "real": "A 'great cyclone' that supposedly hit Bombay in 1882 is cited in papers but never happened",
+    "source": "1882 — the Bombay Cyclone: a supposedly devastating cyclone is referenced in scientific literature and textbooks, yet historians have found no evidence it ever occurred — a phantom disaster.",
+    "link": "https://en.wikipedia.org/wiki/Bombay_Cyclone_of_1882_(hoax)",
+    "verify": ["bombay cyclone", "1882"],
+    "fakes": [
+      "A historical storm appears in academic sources with no record of it happening",
+      "A famous 19th-century cyclone is shown to be a fabrication",
+      "A disaster cited in research turns out to have no documentary evidence"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "South America",
+    "era": "1960s",
+    "outlet": "Wikipedia",
+    "date": "1960-01-01",
+    "real": "Ancient Peruvian stones carved with dinosaurs were admitted to be a tourist scam",
+    "source": "1960s — the Ica stones: thousands of Peruvian stones carved with dinosaurs and modern technology were sold as pre-Columbian artifacts; the carvers later admitted they were modern, made for profit.",
+    "link": "https://en.wikipedia.org/wiki/Ica_stones",
+    "verify": ["ica stones", "dinosaurs"],
+    "fakes": [
+      "A collection of 'ancient' carved stones is revealed to be modern fakes",
+      "Sellers of pre-Columbian artifacts admit they were made recently",
+      "Engraved stones depicting dinosaurs and tech are exposed as a hoax"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "Europe",
+    "era": "1930s",
+    "outlet": "Wikipedia",
+    "date": "1934-01-01",
+    "real": "A 'talking mongoose' that spoke to one family (but never the press) became a tabloid sensation",
+    "source": "1930s — Gef: a mongoose on the Isle of Man allegedly spoke to a single family member but refused to talk to visitors and scientists; tabloids ran with the 'talking mongoose' before skeptics called it a ventriloquism hoax.",
+    "link": "https://en.wikipedia.org/wiki/Gef",
+    "verify": ["gef", "mongoose"],
+    "fakes": [
+      "A pet that 'talks' to one owner but not outsiders is declared a hoax",
+      "A family's animal companion draws tabloid interest before being debunked",
+      "A supposedly speaking pet is explained by a parlor trick"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "Oceania",
+    "era": "1950s",
+    "outlet": "Wikipedia",
+    "date": "1956-11-01",
+    "real": "A vet student with a homemade torch fooled police and the mayor into thinking he was carrying the Olympic flame",
+    "source": "1956 — the Olympic flame hoax: a veterinary student in Sydney ran with a fake torch and fooled spectators, a police escort and the Lord Mayor into believing he was the Olympic flame bearer.",
+    "link": "https://en.wikipedia.org/wiki/1956_Olympic_flame_hoax",
+    "verify": ["olympic flame", "torch"],
+    "fakes": [
+      "A student impersonates a torchbearer during a major sporting event",
+      "A fake Olympic torch fools officials and a police detail",
+      "An uninvited runner is mistaken for an official during a relay"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Asia",
+    "era": "1200s",
+    "outlet": "Wikipedia",
+    "date": "1257-01-01",
+    "real": "A volcano that erupted in 1257 likely triggered a decade of global famine and cooling",
+    "source": "1257 — Samalas: a massive eruption in Indonesia (among the largest of the last 10,000 years) sent ash into the stratosphere and is tied to a global drop in temperature and a decade of famine.",
+    "link": "https://en.wikipedia.org/wiki/1257_Samalas_eruption",
+    "verify": ["samalas", "1257"],
+    "fakes": [
+      "A medieval eruption is linked to a worldwide cold period and crop failure",
+      "A volcano's ash cloud is blamed for a decade of poor harvests across continents",
+      "An ancient eruption is connected to a drop in global average temperature"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Global",
+    "era": "1970s",
+    "outlet": "Wikipedia",
+    "date": "1972-08-04",
+    "real": "A 1972 solar storm accidentally detonated U.S. naval mines in Vietnam",
+    "source": "1972 — the August solar storms: one of the strongest geomagnetic storms on record knocked out communications across North America and accidentally set off U.S. naval mines near Haiphong, Vietnam.",
+    "link": "https://en.wikipedia.org/wiki/August_1972_solar_storms",
+    "verify": ["1972", "haiphong"],
+    "fakes": [
+      "A solar flare causes a chain of unexplained equipment failures across a continent",
+      "A space-weather event sets off buried explosive devices far from any conflict",
+      "A geomagnetic storm disrupts power grids and satellite systems at the same time"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Europe",
+    "era": "2010s",
+    "outlet": "Wikipedia",
+    "date": "2015-11-14",
+    "real": "A TGV derailed during a test run, killing 11 — the first fatal TGV crash ever",
+    "source": "2015 — Eckwersheim: a TGV traveling 90 km/h over the speed limit in a curve during commissioning tests derailed, killing 11 — the first fatal derailment in TGV history.",
+    "link": "https://en.wikipedia.org/wiki/Eckwersheim_derailment",
+    "verify": ["eckwersheim", "tgv"],
+    "fakes": [
+      "A high-speed train crashes on an uncrowded test section before it opens to the public",
+      "A train traveling far above the limit derails during trial runs",
+      "A new rail line's test train overturns in a curve, killing crew"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Europe",
+    "era": "1990s",
+    "outlet": "Wikipedia",
+    "date": "1998-03-06",
+    "real": "A single cracked wheel sent an ICE train into a bridge, killing 101",
+    "source": "1998 — Eschede: a fatigue crack in one wheel caused an ICE train to derail and crash into an overpass that collapsed on top of it, killing 101 — the deadliest high-speed rail disaster in history.",
+    "link": "https://en.wikipedia.org/wiki/Eschede_train_disaster",
+    "verify": ["eschede", "101"],
+    "fakes": [
+      "A tiny defect in a train wheel leads to a catastrophic high-speed derailment",
+      "A train crashes under a road bridge that falls onto the cars",
+      "The world's deadliest high-speed rail crash traces back to one component"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "North America",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2008-02-07",
+    "real": "A sugar-dust explosion at a Georgia refinery killed 14",
+    "source": "2008 — Imperial Sugar: a buildup of sugar dust in a Port Wentworth, Georgia refinery went airborne and exploded, killing 14 — a stark warning that sugar, like flour, is flammable.",
+    "link": "https://en.wikipedia.org/wiki/2008_Georgia_Imperial_Sugar_refinery_explosion",
+    "verify": ["imperial sugar", "sugar dust"],
+    "fakes": [
+      "A cloud of fine powder from a food plant ignites and blows out a factory floor",
+      "An overlooked buildup of dust in a processing plant causes a deadly explosion",
+      "A refinery accident shows an everyday food ingredient can be explosive"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Europe",
+    "era": "1630s",
+    "outlet": "Wikipedia",
+    "date": "1634-09-12",
+    "real": "A 1634 gunpowder factory blow-up in Malta killed 22 in the new capital",
+    "source": "1634 — Valletta: an accidental explosion at a Hospitaller gunpowder factory in Malta's capital killed 22 and damaged the new city's Jesuit church.",
+    "link": "https://en.wikipedia.org/wiki/1634_Valletta_explosion",
+    "verify": ["1634", "gunpowder"],
+    "fakes": [
+      "A munitions workshop in a young capital city explodes and damages a nearby church",
+      "A 17th-century powder store accident kills dozens in a Mediterranean port",
+      "An accidental blast near a military outpost reshapes a small island city"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Europe",
+    "era": "1800s",
+    "outlet": "Wikipedia",
+    "date": "1806-07-18",
+    "real": "A 1806 gunpowder magazine accident in Malta killed about 200",
+    "source": "1806 — Birgu: a careless transfer of shells detonated a Malta gunpowder magazine, killing an estimated 200 and destroying parts of the old city's fortifications.",
+    "link": "https://en.wikipedia.org/wiki/1806_Birgu_polverista_explosion",
+    "verify": ["1806", "gunpowder"],
+    "fakes": [
+      "A careless handling of ammunition triggers a massive magazine detonation",
+      "A stored stock of gunpowder blows up during a routine transfer",
+      "A military store accident levels a section of an old fortified town"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Africa",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2002-01-27",
+    "real": "A 2002 armory explosion in Lagos killed over 1,100, many of them fleeing into a canal",
+    "source": "2002 — Lagos: an accidental explosion of military explosives in Nigeria's largest city started fires that burned through the neighborhood; people fleeing the flames drowned in a hidden canal, and at least 1,100 people died.",
+    "link": "https://en.wikipedia.org/wiki/2002_Lagos_armoury_explosion",
+    "verify": ["lagos", "armoury"],
+    "fakes": [
+      "A munitions depot in a megacity detonates and the fire spreads to nearby homes",
+      "A crowd fleeing an explosion drowns in a waterway they didn't know was there",
+      "A military storage failure becomes one of the deadliest urban disasters in Africa"
+    ]
+  },
+  {
+    "segment": "Sports",
+    "region": "Europe",
+    "era": "1970s",
+    "outlet": "Wikipedia",
+    "date": "1972-09-02",
+    "real": "The most disputed game in Olympic basketball history was played three times in its final seconds",
+    "source": "1972 — Olympic basketball final: the U.S. and Soviet Union's final seconds were replayed three times after a clock malfunction; the Soviets were awarded the win and the result is still disputed today.",
+    "link": "https://en.wikipedia.org/wiki/1972_Olympic_men's_basketball_final",
+    "verify": ["1972", "soviet"],
+    "fakes": [
+      "A championship game's ending is replayed multiple times after an official error",
+      "A one-point final is overturned by a controversial call in the closing seconds",
+      "The most contested basketball game in Olympic history ends with the clock rewound"
+    ]
+  },
+  {
+    "segment": "Sports",
+    "region": "Europe",
+    "era": "1990s",
+    "outlet": "Wikipedia",
+    "date": "1998-05-01",
+    "real": "A plot to attack the 1998 World Cup included crashing a hijacked plane into a French nuclear plant",
+    "source": "1998 — World Cup terror plot: law enforcement uncovered a plan to attack the England–Tunisia match and crash a hijacked aircraft into a French nuclear power plant; more than 100 people were arrested.",
+    "link": "https://en.wikipedia.org/wiki/1998_World_Cup_terror_plot",
+    "verify": ["1998", "nuclear"],
+    "fakes": [
+      "A multi-country arrest sweep breaks up a scheme to strike a major sporting event",
+      "A conspiracy to attack a stadium and a power station is foiled before opening day",
+      "Investigators link a hijack plan to a high-profile football tournament"
+    ]
+  },
+  {
+    "segment": "Sports",
+    "region": "North America",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2002-11-09",
+    "real": "A computer programmer rigged a horse-race bet to trigger a $3 million Pick 6 jackpot",
+    "source": "2002 — Breeders' Cup scandal: programmer Chris Harn and two friends manipulated a bet so a longshot win would trigger a $3 million Pick 6 jackpot; it was the biggest betting scandal in a century in the United States.",
+    "link": "https://en.wikipedia.org/wiki/2002_Breeders'_Cup_betting_scandal",
+    "verify": ["breeders' cup", "jackpot"],
+    "fakes": [
+      "A bettor uses inside knowledge to set up a huge multi-race payout",
+      "A longshot winner is linked to a fix in the biggest horse-racing bet of the year",
+      "A programmer and two partners are caught gaming a major race's parimutuel pool"
+    ]
+  },
+  {
+    "segment": "Sports",
+    "region": "Europe",
+    "era": "1980s",
+    "outlet": "Wikipedia",
+    "date": "1980-01-01",
+    "real": "The 1980 'Totonero' scandal saw an entire Serie A season's results fixed by a betting ring",
+    "source": "1980 — Totonero: a betting ring fixed multiple Serie A matches, leading to convictions that included a three-year ban for Paolo Rossi, who went on to win the World Cup two years later.",
+    "link": "https://en.wikipedia.org/wiki/1980_Totonero",
+    "verify": ["totonero", "rossi"],
+    "fakes": [
+      "A betting syndicate is found to have fixed several matches in a top league",
+      "A star forward is suspended for match-fixing before returning to win a major title",
+      "An entire season's results in a football league are ruled to have been controlled"
+    ]
+  },
+  {
+    "segment": "Sports",
+    "region": "Europe",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2006-08-01",
+    "real": "England beat Pakistan by forfeit after Pakistan refused to return to the field over ball-tampering",
+    "source": "2006 — Oval test: umpires ruled Pakistan had ball-tampered; when Pakistan refused to return to the field, England was awarded the win by forfeit — the first such ending in over 1,000 tests.",
+    "link": "https://en.wikipedia.org/wiki/2006_ball-tampering_controversy",
+    "verify": ["forfeiture", "tampering"],
+    "fakes": [
+      "A team loses a match by forfeit after refusing to resume play over a ruling",
+      "Umpires end a game early when one side walks off the field in protest",
+      "A test match is awarded to one team after the other refuses to take the field"
+    ]
+  },
+  {
+    "segment": "Sports",
+    "region": "North America",
+    "era": "1960s",
+    "outlet": "Wikipedia",
+    "date": "1961-03-01",
+    "real": "A 1960s college-basketball gambling ring had future NBA Hall of Famers banned from the league",
+    "source": "1960–61 — NCAA gambling scandal: a mob-connected fixer ring fixed college games and paid players; the fallout included future Hall of Famers being banned from the NBA.",
+    "link": "https://en.wikipedia.org/wiki/1961_NCAA_University_Division_men's_basketball_gambling_scandal",
+    "verify": ["gambling", "nba"],
+    "fakes": [
+      "A gambling investigation into college basketball leads to players being banned from the pros",
+      "A fixer ring connected to organized crime is exposed in amateur basketball",
+      "Two future stars are barred from a professional league after a college betting case"
+    ]
+  },
+  {
+    "segment": "Sports",
+    "region": "North America",
+    "era": "2020s",
+    "outlet": "Wikipedia",
+    "date": "2020-12-01",
+    "real": "A Harvard fencing coach was charged in a $1.5 million bribery scheme — then acquitted",
+    "source": "2020 — Harvard fencing: a father and a former Harvard fencing coach were charged with a $1.5 million bribery scheme to admit the father's sons, but both were acquitted in 2022.",
+    "link": "https://en.wikipedia.org/wiki/2020_Harvard_fencing_scandal",
+    "verify": ["fencing", "harvard"],
+    "fakes": [
+      "A college coach is indicted over an admissions bribery involving a star athlete's family",
+      "A grand jury charges a parent and a coach but a jury later clears them",
+      "A $1.5 million scheme to gain a university spot is tied to a varsity team"
+    ]
+  },
+  {
+    "segment": "Sports",
+    "region": "Asia",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2008-08-01",
+    "real": "Four sumo wrestlers were fired over a cannabis scandal, and the association's chairman resigned",
+    "source": "2008 — sumo cannabis scandal: four professional sumo wrestlers tested positive for cannabis and were fired — the first time active wrestlers were dismissed — and the association's chairman resigned to take responsibility.",
+    "link": "https://en.wikipedia.org/wiki/2008_sumo_cannabis_scandal",
+    "verify": ["sumo", "cannabis"],
+    "fakes": [
+      "A professional wrestling promotion dismisses several active athletes over a drug test",
+      "The head of a sports body resigns to take blame for a members' scandal",
+      "A series of positive drug tests forces a historic change in a sport's rules"
+    ]
+  },
+  {
+    "segment": "Sports",
+    "region": "North America",
+    "era": "1870s",
+    "outlet": "Wikipedia",
+    "date": "1877-01-01",
+    "real": "The 1877 Louisville Grays took a bribe to lose, and four players were banned for life",
+    "source": "1877 — Louisville Grays: members of a baseball team took a bribe to fix games, and four players were banned from professional baseball for life.",
+    "link": "https://en.wikipedia.org/wiki/1877_Louisville_Grays_scandal",
+    "verify": ["louisville grays", "banned"],
+    "fakes": [
+      "A 19th-century baseball team is caught taking money to fix its results",
+      "Four players are permanently barred from a professional sport after a betting case",
+      "An early professional team's games are ruled to have been sold off"
+    ]
+  },
+  {
+    "segment": "Science & Tech",
+    "region": "Europe",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2009-07-01",
+    "real": "A telecom company staged a fake meteorite landing as a publicity stunt",
+    "source": "2009 — Latvian meteorite hoax: a Swedish telecom company staged a meteorite landing in Latvia as a publicity stunt that fooled locals — and some experts — before it was exposed as fake.",
+    "link": "https://en.wikipedia.org/wiki/2009_Latvian_meteorite_hoax",
+    "verify": ["meteorite", "stunt"],
+    "fakes": [
+      "A corporate marketing campaign fakes a space-rock landing to draw a crowd",
+      "A supposed meteorite turn-out is later revealed to be a staged event",
+      "A company uses a fake astronomical event for an advertising stunt"
+    ]
+  },
+  {
+    "segment": "Science & Tech",
+    "region": "Global",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2001-01-01",
+    "real": "The 'EmDrive' promised a reactionless engine that violates conservation of momentum",
+    "source": "2001 — EmDrive: a proposed 'reactionless drive' that appears to violate conservation of momentum; physicists largely consider it pseudoscience, and the prototypes have not produced real thrust.",
+    "link": "https://en.wikipedia.org/wiki/EmDrive",
+    "verify": ["emdrive", "momentum"],
+    "fakes": [
+      "A proposed spacecraft engine that needs no propellant is dismissed as pseudoscience",
+      "A 'reactionless drive' claims thrust that conservation laws say is impossible",
+      "Prototypes of a controversial propulsion concept fail to produce measurable thrust"
+    ]
+  },
+  {
+    "segment": "Science & Tech",
+    "region": "Asia",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2003-01-01",
+    "real": "A Chinese 'breakthrough' chip turned out to be a Motorola chip with the label sanded off",
+    "source": "2003 — Hanxin: a professor claimed to have built China's first DSP chip; it was later exposed as a Motorola chip with the original markings sanded off.",
+    "link": "https://en.wikipedia.org/wiki/Hanxin",
+    "verify": ["hanxin", "motorola"],
+    "fakes": [
+      "A celebrated 'domestic' microchip is revealed to be a foreign part with its name removed",
+      "A professor's flagship semiconductor is shown to be a rebranded commercial chip",
+      "A national-tech milestone collapses after the chip is traced to another company"
+    ]
+  },
+  {
+    "segment": "Science & Tech",
+    "region": "North America",
+    "era": "1990s",
+    "outlet": "Wikipedia",
+    "date": "1995-08-28",
+    "real": "A '1995 alien autopsy film' that aired worldwide was a staged hoax",
+    "source": "1995 — Alien Autopsy: a grainy black-and-white 'alien autopsy' film purporting to show a Roswell alien was broadcast on TV worldwide and became an overnight sensation — but was a hoax staged by its producer.",
+    "link": "https://en.wikipedia.org/wiki/Alien_Autopsy_(1995_film)",
+    "verify": ["roswell", "autopsy"],
+    "fakes": [
+      "A viral 'found footage' documentary is exposed as a fabrication by its maker",
+      "A pseudo-documentary that airs on major networks turns out to be a staged production",
+      "A sensational film about a famous incident is admitted to be a hoax"
+    ]
+  },
+  {
+    "segment": "Science & Tech",
+    "region": "Europe",
+    "era": "1910s",
+    "outlet": "Wikipedia",
+    "date": "1910-10-01",
+    "real": "Henri Coandă built a propeller-less 'jet-like' aircraft in 1910, decades before the jet engine",
+    "source": "1910 — Coandă-1910: Romanian inventor Henri Coandă displayed an unusual propeller-less, ducted-fan aircraft that he later claimed was a jet precursor — decades before the first practical jet engines.",
+    "link": "https://en.wikipedia.org/wiki/Coandă-1910",
+    "verify": ["1910", "ducted fan"],
+    "fakes": [
+      "An early aircraft without a propeller draws attention at an aviation show",
+      "A 1910s inventor claims his ducted-fan machine was a jet-engine precursor",
+      "A one-off experimental plane is later cited as a forerunner to jet propulsion"
+    ]
+  },
+  {
+    "segment": "Science & Tech",
+    "region": "Asia",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2005-01-01",
+    "real": "South Korea's 'national hero' stem-cell scientist was exposed as a fraud",
+    "source": "2004–2005 — Hwang affair: a South Korean biologist was celebrated as a national hero for claiming to have cloned human stem cells, then the results were exposed as fabricated.",
+    "link": "https://en.wikipedia.org/wiki/Hwang_affair",
+    "verify": ["hwang", "stem cells"],
+    "fakes": [
+      "A celebrated researcher hailed as a national hero is found to have faked his results",
+      "A breakthrough stem-cell paper is later shown to be fabricated",
+      "A top scientist's flagship findings collapse under scrutiny"
+    ]
+  },
+  {
+    "segment": "Science & Tech",
+    "region": "Europe",
+    "era": "1980s",
+    "outlet": "Wikipedia",
+    "date": "1986-11-01",
+    "real": "Activists sank two Icelandic whaling ships — they haven't been repaired 36 years later",
+    "source": "1986 — Hvalur sinkings: anti-whaling activists sank two Icelandic whaling vessels and damaged the country's only processing plant; the ships were salvaged but have never been repaired.",
+    "link": "https://en.wikipedia.org/wiki/1986_Hvalur_sinkings",
+    "verify": ["hvalur", "whaling"],
+    "fakes": [
+      "Activists sink vessels in a harbor to disrupt an industry, and the ships are never fixed",
+      "A direct-action group sabotages a country's only processing facility",
+      "Two ships sunk by protesters sit in a harbor for decades without repair"
+    ]
+  },
+  {
+    "segment": "Science & Tech",
+    "region": "Asia",
+    "era": "2010s",
+    "outlet": "Wikipedia",
+    "date": "2018-11-26",
+    "real": "A Chinese scientist announced the first CRISPR-edited babies — twin girls",
+    "source": "2018 — He Jiankui: a Chinese biophysicist announced he had created the first genetically edited human babies, twin girls edited for HIV resistance; he was widely condemned and later imprisoned.",
+    "link": "https://en.wikipedia.org/wiki/He_Jiankui",
+    "verify": ["jiankui", "babies"],
+    "fakes": [
+      "A researcher announces the birth of the first gene-edited human twins",
+      "A scientist is condemned and jailed for editing embryos in humans",
+      "A claim of the first genome-edited babies sparks an international ethics storm"
+    ]
+  },
+  {
+    "segment": "History",
+    "region": "North America",
+    "era": "1970s",
+    "outlet": "Wikipedia",
+    "date": "1971-05-27",
+    "real": "A carpenter who found 'Viking' runestones in Maine secretly reburied them when the state claimed them",
+    "source": "1971 — Spirit Pond runestones: a Maine carpenter found three stones he was told were genuine Viking runestones, then — told the state wanted them — secretly reburied them and mailed a taunting note.",
+    "link": "https://en.wikipedia.org/wiki/Spirit_Pond_runestones",
+    "verify": ["spirit pond", "runestone"],
+    "fakes": [
+      "A finder of 'ancient' artifacts hides them after officials claim ownership",
+      "A local discovers inscribed stones and reburies them in a pique",
+      "A disputed runic find vanishes after its discoverer is told to hand it over"
+    ]
+  },
+  {
+    "segment": "History",
+    "region": "North America",
+    "era": "1880s",
+    "outlet": "Wikipedia",
+    "date": "1889-02-14",
+    "real": "An 1889 'prehistoric' stone with a Cherokee inscription was probably a hoax",
+    "source": "1889 — Bat Creek Stone: a stone tablet with what looked like a Cherokee inscription was found in a Tennessee burial mound and hailed as ancient writing, but it is widely considered a 19th-century hoax.",
+    "link": "https://en.wikipedia.org/wiki/Bat_Creek_Stone",
+    "verify": ["bat creek", "stone"],
+    "fakes": [
+      "An inscribed tablet from an excavation is later judged to be a modern fabrication",
+      "A 'lost' script on a stone found in a mound is called a hoax by experts",
+      "An 1800s find claimed to show early writing is shown to be a 19th-century trick"
+    ]
+  },
+  {
+    "segment": "History",
+    "region": "Europe",
+    "era": "1920s",
+    "outlet": "Wikipedia",
+    "date": "1924-01-01",
+    "real": "The 1920s 'Glozel' find claimed to prove an advanced prehistoric civilization was largely a forgery",
+    "source": "1924–1930 — Glozel: thousands of artifacts from a French hamlet were promoted as proof of an advanced prehistoric civilization; archaeologists initially dismissed them as hoaxes, and later studies showed most were modern forgeries.",
+    "link": "https://en.wikipedia.org/wiki/Glozel_artifacts",
+    "verify": ["glozel", "artifacts"],
+    "fakes": [
+      "A trove of 'advanced' prehistoric objects is shown to be mostly modern forgeries",
+      "A sensational archaeological find from a small village is debunked as a hoax",
+      "Thousands of claimed ancient artifacts are dated to the modern era"
+    ]
+  },
+  {
+    "segment": "History",
+    "region": "North America",
+    "era": "1980s",
+    "outlet": "Wikipedia",
+    "date": "1985-01-01",
+    "real": "The Getty paid $10 million for a '2,400-year-old' Greek statue that is now believed to be a forgery",
+    "source": "1985 — Getty kouros: the J. Paul Getty Museum bought an over-life-sized ancient Greek statue for $10 million; after early praise, the evidence for its antiquity collapsed and many art historians now consider it a forgery.",
+    "link": "https://en.wikipedia.org/wiki/Getty_kouros",
+    "verify": ["getty kouros", "marble"],
+    "fakes": [
+      "A museum's $10 million ancient statue is re-evaluated and likely faked",
+      "A celebrated classical sculpture's authenticity unravels over a decade",
+      "A top museum's headline antiquity purchase is later called a modern forgery"
+    ]
+  }
+]
