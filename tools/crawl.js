@@ -97,6 +97,40 @@ const SEGMENTS = {
       "Category:Wars by region", // skip if noisy
     ],
   },
+  music: {
+    label: "Music",
+    roots: [
+      "Category:Music scandals",
+      "Category:Music controversies",
+      "Category:Unreleased albums",
+      "Category:Controversial songs",
+      "Category:Music frauds",
+      "Category:Controversies involving musicians",
+    ],
+  },
+  internet: {
+    label: "Internet",
+    roots: [
+      "Category:Internet phenomena",
+      "Category:Viral videos",
+      "Category:Internet controversies",
+      "Category:Online pranks",
+      "Category:Hoaxes",
+      "Category:Internet memes",
+      "Category:Flash mobs",
+    ],
+  },
+  business: {
+    label: "Business",
+    roots: [
+      "Category:Business scandals",
+      "Category:Business fraud",
+      "Category:Corporations involved in scandals",
+      "Category:Failed companies",
+      "Category:Bankruptcies",
+      "Category:Ponzi schemes",
+    ],
+  },
 };
 
 // Category-name filters: skip subtrees that produce junk.
