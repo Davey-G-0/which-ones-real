@@ -82,19 +82,22 @@ const SEGMENTS = {
     roots: [
       "Category:Animals in conflict",
       "Category:Animals in warfare",
-      "Category:Famous animals",
       "Category:Animal hoaxes",
-      "Category:Animals in folklore",
+      "Category:Animals in sport",
+      "Category:Notable pets",
+      "Category:Famous animals",
     ],
   },
   history: {
     label: "History",
     roots: [
       "Category:Historical controversies",
+      "Category:Historical forgeries",
+      "Category:Archaeological forgeries",
+      "Category:Forged documents",
+      "Category:Historical anomalies",
       "Category:Lost civilizations",
-      "Category:Mysterious deaths",
       "Category:Unexploded ordnance",
-      "Category:Wars by region", // skip if noisy
     ],
   },
   music: {
