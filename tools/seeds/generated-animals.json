@@ -1,0 +1,208 @@
+[
+  {
+    "segment": "Animals",
+    "region": "North America",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1951-01-01",
+    "real": "A parrot that can talk and do math becomes a star of psychology",
+    "source": "Alex the African Grey parrot — trained by psychologist Irene Pepperberg, Alex learned to use over 100 words, could count, and could identify colors and shapes, becoming a landmark case in the study of animal intelligence.",
+    "link": "https://en.wikipedia.org/wiki/Alex_the_Parrot",
+    "verify": [
+      "alex",
+      "parrot"
+    ],
+    "fakes": [
+      "A pet bird learns to talk, count, and identify colors",
+      "A talking parrot becomes a landmark case in animal intelligence research",
+      "A bird trained by a psychologist masters over a hundred words"
+    ]
+  },
+  {
+    "segment": "Animals",
+    "region": "Europe",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1958-01-01",
+    "real": "A monkey orbits the Earth before humans do — and becomes famous",
+    "source": "Ham the chimpanzee — in 1961, NASA's chimp Ham became the first great ape to travel to space, riding a Mercury capsule into orbit and back, paving the way for human spaceflight and becoming a space-age icon.",
+    "link": "https://en.wikipedia.org/wiki/Ham_(chimpanzee)",
+    "verify": [
+      "ham",
+      "chimpanzee"
+    ],
+    "fakes": [
+      "A chimp becomes the first primate to reach space",
+      "An ape rides a rocket into orbit before any human does",
+      "A famous monkey's spaceflight paves the way for astronauts"
+    ]
+  },
+  {
+    "segment": "Animals",
+    "region": "Oceania",
+    "era": "1990s",
+    "outlet": "Wikipedia",
+    "date": "1996-01-01",
+    "real": "A wombat with a famous shape becomes an internet curiosity",
+    "source": "The wombat's famously cube-shaped poop — one of the strangest adaptations in the animal kingdom, evolved so the animal can mark its territory with neat little blocks on rocks and logs, has made wombat scat a beloved piece of wildlife trivia.",
+    "link": "https://en.wikipedia.org/wiki/Wombat",
+    "verify": [
+      "wombat",
+      "cube"
+    ],
+    "fakes": [
+      "A marsupial produces famously cube-shaped droppings",
+      "An animal's unique waste shape is a strange evolutionary adaptation",
+      "A small mammal's poop has a shape that confounds scientists"
+    ]
+  },
+  {
+    "segment": "Animals",
+    "region": "North America",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1931-01-01",
+    "real": "A giant snake that never existed becomes a legend of the American West",
+    "source": "Mokele-mbembe — the legendary large unknown creature reportedly seen in Central Africa, it has never been scientifically confirmed, yet stories of an elephant-like, giraffe-necked animal persist as one of the most famous cryptozoology mysteries.",
+    "link": "https://en.wikipedia.org/wiki/Mokele-mbembe",
+    "verify": [
+      "mokele-mbembe"
+    ],
+    "fakes": [
+      "A legendary large creature is never confirmed despite decades of reports",
+      "A famous unknown animal becomes a cryptozoology mystery",
+      "An elephant-like, long-necked beast haunts a remote region's folklore"
+    ]
+  },
+  {
+    "segment": "Animals",
+    "region": "Oceania",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2000-01-01",
+    "real": "A shark that can live for centuries outlives almost everything around it",
+    "source": "Greenland sharks — scientists determined that some of these slow-swimming Arctic sharks can live for more than 400 years, making them one of the longest-living vertebrates on Earth and a revelation about deep-sea biology.",
+    "link": "https://en.wikipedia.org/wiki/Greenland_shark",
+    "verify": [
+      "greenland shark",
+      "400"
+    ],
+    "fakes": [
+      "A shark species is found to live for more than 400 years",
+      "A slow-swimming predator becomes one of the longest-living animals",
+      "A deep-sea fish's lifespan shocks researchers"
+    ]
+  },
+  {
+    "segment": "Animals",
+    "region": "North America",
+    "era": "2010s",
+    "outlet": "Wikipedia",
+    "date": "2011-04-22",
+    "real": "A cat that goes viral for its 'crying' becomes an internet phenomenon",
+    "source": "Grumpy Cat — the real name Tardar Sauce, this cat with a permanently scowling face became one of the internet's most recognizable animals, with her own website, merchandise, and even a documentary, all from her perpetually disgruntled expression.",
+    "link": "https://en.wikipedia.org/wiki/Grumpy_Cat",
+    "verify": [
+      "grumpy cat",
+      "tardar"
+    ],
+    "fakes": [
+      "A cat with a permanently grumpy face becomes an internet star",
+      "An animal's scowl makes it a viral sensation",
+      "A feline with a famously grumpy expression gets its own documentary"
+    ]
+  },
+  {
+    "segment": "Animals",
+    "region": "Oceania",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2001-01-01",
+    "real": "A platypus's biology is so strange that scientists at first thought it was a hoax",
+    "source": "The platypus — a duck-billed, egg-laying, venomous mammal, its strange combination of features was so unusual that when European scientists first saw a specimen, they believed it was a hoax stitched together by a local trickster.",
+    "link": "https://en.wikipedia.org/wiki/Platypus",
+    "verify": [
+      "platypus",
+      "egg"
+    ],
+    "fakes": [
+      "A bizarre animal's biology was first thought to be a hoax",
+      "A duck-billed, egg-laying, venomous mammal baffles early scientists",
+      "A strange creature's features seemed impossible until proven real"
+    ]
+  },
+  {
+    "segment": "Animals",
+    "region": "Asia",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2005-01-01",
+    "real": "A whale that sings a different song in each region becomes a subject of study",
+    "source": "The humpback whale's songs — each ocean region's humpbacks sing a distinct, evolving 'cultural' song, and researchers have tracked how these songs change and spread from one pod to another, revealing a surprising form of animal culture and communication.",
+    "link": "https://en.wikipedia.org/wiki/Humpback_whale",
+    "verify": [
+      "humpback",
+      "song"
+    ],
+    "fakes": [
+      "Whales in different regions sing distinct, evolving songs",
+      "A species' songs change and spread like a culture",
+      "Marine mammals' vocalizations reveal a form of animal culture"
+    ]
+  },
+  {
+    "segment": "Animals",
+    "region": "North America",
+    "era": "2010s",
+    "outlet": "Wikipedia",
+    "date": "2015-01-01",
+    "real": "A raven that's been spotted for 30+ years becomes a local legend",
+    "source": "The famous long-lived individual ravens and crows — in a few cities, a single marked raven has been repeatedly spotted and photographed for over three decades, becoming a beloved local legend and a subject of citizen-science bird tracking.",
+    "link": "https://en.wikipedia.org/wiki/Common_raven",
+    "verify": [
+      "raven"
+    ],
+    "fakes": [
+      "A single marked bird is spotted for over 30 years and becomes a legend",
+      "A long-lived crow becomes a local celebrity",
+      "A tracked raven is repeatedly photographed across decades"
+    ]
+  },
+  {
+    "segment": "Animals",
+    "region": "North America",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2005-01-01",
+    "real": "A raccoon that can't open its own trash cans becomes a neighborhood mystery",
+    "source": "Raccoons' astonishing dexterity — these 'trash pandas' can open latches, knobs, and even some child-proof caps with their nimble front paws, and a handful of famous individuals have been credited with outsmarting entire neighborhoods' worth of garbage cans.",
+    "link": "https://en.wikipedia.org/wiki/Raccoon",
+    "verify": [
+      "raccoon"
+    ],
+    "fakes": [
+      "A nimble mammal can open latches and child-proof caps",
+      "A famous raccoon outsmarts an entire neighborhood's trash cans",
+      "An animal's dexterity makes it a local legend"
+    ]
+  },
+  {
+    "segment": "Animals",
+    "region": "North America",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1972-01-01",
+    "real": "A gorilla raised by humans learns to use sign language and has feelings",
+    "source": "Koko the gorilla — raised from infancy by a researcher, Koko learned over 1,000 signs of American Sign Language, could combine them to express new ideas, and even reportedly showed grief when her cat died, becoming one of the most famous cases of animal intelligence and emotion.",
+    "link": "https://en.wikipedia.org/wiki/Koko_the_gorilla",
+    "verify": [
+      "koko",
+      "gorilla"
+    ],
+    "fakes": [
+      "A gorilla raised by humans masters over a thousand signs",
+      "An animal learns to communicate and expresses grief over a lost pet",
+      "A great ape's ability to use language becomes a landmark study"
+    ]
+  }
+]

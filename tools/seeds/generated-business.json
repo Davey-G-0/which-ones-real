@@ -4,19 +4,19 @@
     "region": "North America",
     "era": "2000s",
     "outlet": "Wikipedia",
-    "date": "2001-12-02",
-    "real": "A giant energy company vanishes — its books were fake and its executives are arrested",
-    "source": "2001 — Enron, one of America's largest energy companies, collapsed after years of accounting fraud, becoming the largest corporate bankruptcy in U.S. history and triggering the Sarbanes-Oxley Act.",
-    "link": "https://en.wikipedia.org/wiki/Enron",
+    "date": "2012-01-22",
+    "real": "The company that invented digital cameras goes bankrupt",
+    "source": "Kodak — the giant that invented the digital camera in 1975 held its own technology back to protect film sales, and eventually filed for bankruptcy in 2012, becoming a cautionary tale about a company that invented the future and then missed it.",
+    "link": "https://en.wikipedia.org/wiki/Kodak",
     "verify": [
-      "enron",
-      "2001",
-      "fraud"
+      "kodak",
+      "digital",
+      "bankruptcy"
     ],
     "fakes": [
-      "Energy giant reports record quarterly earnings",
-      "Executives celebrate a merger with a rival utility",
-      "Investors praise the company's bold new strategy"
+      "A photography giant that invented a new technology goes bust",
+      "A company invents a product that will later kill its main business",
+      "An old industry leader files for bankruptcy after missing a revolution"
     ]
   },
   {
@@ -24,115 +24,171 @@
     "region": "North America",
     "era": "2010s",
     "outlet": "Wikipedia",
-    "date": "2018-03-14",
-    "real": "A 'medical breakthrough' company turns out to have been a multi-year lie",
-    "source": "2018 — Theranos, the billion-dollar blood-testing startup led by Elizabeth Holmes, was exposed for faking its technology; it collapsed and Holmes was convicted of fraud.",
-    "link": "https://en.wikipedia.org/wiki/Theranos",
+    "date": "2010-09-29",
+    "real": "A video-rental empire with 9,000 stores is destroyed by a streaming startup",
+    "source": "Blockbuster — once the dominant video-rental chain with thousands of stores, it famously turned down a chance to buy a small streaming competitor and later went bankrupt, a byword for a giant that underestimated a newcomer.",
+    "link": "https://en.wikipedia.org/wiki/Blockbuster",
     "verify": [
-      "theranos",
-      "blood"
+      "blockbuster",
+      "netflix"
     ],
     "fakes": [
-      "Startup unveils a new blood test that uses a single drop",
-      "Investors pour billions into the medical device firm",
-      "Founder named one of the most influential young entrepreneurs"
+      "A store-based retail chain is wiped out by an online streaming rival",
+      "A company that refused to buy a startup is later destroyed by it",
+      "A video-rental giant collapses as its business model becomes obsolete"
     ]
   },
   {
     "segment": "Business",
     "region": "North America",
-    "era": "2010s",
+    "era": "1990s",
     "outlet": "Wikipedia",
-    "date": "2022-01-01",
-    "real": "A 'we work' real-estate giant valued at $47 billion turns out to be running at a huge loss",
-    "source": "WeWork — the co-working 'revolution' reached a $47 billion valuation before its failed 2019 IPO exposed a company that had been burning cash for years with no clear path to profit.",
-    "link": "https://en.wikipedia.org/wiki/WeWork",
+    "date": "2000-11-12",
+    "real": "A startup that sold pet supplies online vanishes in the dot-com crash",
+    "source": "Pets.com — the orange-paw dot-com darling that spent millions on Super Bowl ads to sell pet supplies online became a symbol of the bubble, burning through cash and collapsing in 2000 as the internet gold rush turned to dust.",
+    "link": "https://en.wikipedia.org/wiki/Pets.com",
     "verify": [
-      "wework",
-      "we work"
+      "pets.com",
+      "dot-com"
     ],
     "fakes": [
-      "Co-working firm files for a record public offering",
-      "Company rebrands its office spaces across major cities",
-      "Founder shares a vision of reimagining the workplace"
+      "A flashy internet startup that sells a niche product disappears in a crash",
+      "A company that spends a fortune on a big ad campaign goes under",
+      "A dot-com era company becomes a symbol of the bubble bursting"
     ]
   },
   {
     "segment": "Business",
     "region": "North America",
-    "era": "2020s",
+    "era": "1980s",
     "outlet": "Wikipedia",
-    "date": "2020-04-20",
-    "real": "A $1.75 billion streaming service is shut down after just six months",
-    "source": "Quibi — a short-form streaming service backed by Hollywood stars and major investors launched in 2020 and was shut down just six months later after failing to gain a meaningful audience.",
-    "link": "https://en.wikipedia.org/wiki/Quibi",
+    "date": "1985-04-23",
+    "real": "A company replaces its famous soda, and millions of Americans riot",
+    "source": "1985 — Coca-Cola's 'New Coke' relaunch was met with a flood of angry letters, phone calls, and protests so intense that the company reversed course just 79 days later and brought back the original, one of the most famous marketing blunders (and recoveries) in business history.",
+    "link": "https://en.wikipedia.org/wiki/New_Coke",
     "verify": [
-      "quibi",
-      "2020"
+      "new coke",
+      "1985"
     ],
     "fakes": [
-      "Streaming startup debuts with a lineup of celebrity originals",
-      "Company bets big on short, vertical video for phones",
-      "Investors back a new entrant in the crowded market"
+      "A company reformulates a beloved drink and faces a public backlash",
+      "Millions of customers protest the change to a household product",
+      "A major brand reverses a controversial decision within months"
     ]
   },
   {
     "segment": "Business",
     "region": "North America",
-    "era": "2010s",
+    "era": "1900s",
     "outlet": "Wikipedia",
-    "date": "2017-04-21",
-    "real": "A luxury 'paradise' festival for the rich turns out to be a complete scam",
-    "source": "2017 — the Fyre Festival: a high-society music festival in the Bahamas promised luxury to its attendees but delivered cardboard walls, a collapsed hotel, and no food — and its promoter was later sentenced to prison.",
-    "link": "https://en.wikipedia.org/wiki/Fyre_Festival",
+    "date": "1920-01-01",
+    "real": "A scheme to pay investors with other investors' money becomes a household word",
+    "source": "The Ponzi scheme — Charles Ponzi's 1920s investment 'plan' paid early investors using new investors' money, promising impossible returns until it collapsed, and the word 'ponzi scheme' has meant 'get-rich-quick fraud' ever since.",
+    "link": "https://en.wikipedia.org/wiki/Ponzi_scheme",
     "verify": [
-      "fyre festival",
-      "2017"
+      "ponzi",
+      "charles"
     ],
     "fakes": [
-      "Billionaire-adjacent crowd arrives at a remote island party",
-      "Promoters tout the festival's lavish new amenities",
-      "Celebrities share glamorous photos from the beach"
-    ]
-  },
-  {
-    "segment": "Business",
-    "region": "North America",
-    "era": "2010s",
-    "outlet": "Wikipedia",
-    "date": "2019-03-10",
-    "real": "A best-selling airplane is grounded worldwide after two fatal crashes",
-    "source": "The Boeing 737 MAX — two crashes in 2018 and 2019, linked to a faulty flight-control system, led to a global grounding of the type and billions in compensation for Boeing.",
-    "link": "https://en.wikipedia.org/wiki/Boeing_737_MAX",
-    "verify": [
-      "boeing",
-      "max",
-      "crash"
-    ],
-    "fakes": [
-      "Airline orders a new batch of the popular narrow-body jet",
-      "Regulators approve the aircraft for commercial service",
-      "Airlines race to adopt the fuel-efficient model"
+      "A fraudster pays early investors with money from new victims",
+      "An investment plan promising impossible returns eventually collapses",
+      "A con artist's scheme gives a type of fraud its name"
     ]
   },
   {
     "segment": "Business",
     "region": "Europe",
-    "era": "2010s",
+    "era": "1900s",
     "outlet": "Wikipedia",
-    "date": "2015-09-18",
-    "real": "A giant auto maker is caught cheating on emissions tests worldwide",
-    "source": "2015 — the Volkswagen emissions scandal: the company was found to have used software to cheat pollution tests on diesel cars, affecting millions of vehicles and triggering a global recall.",
-    "link": "https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal",
+    "date": "1995-08-27",
+    "real": "A single trader's unauthorized bets nearly destroy a 200-year-old bank",
+    "source": "1995 — Nick Leeson, a trader at Barings Bank, lost over £1 billion in unauthorized bets in the Asian futures market, bankrupting a British bank that had been trading since 1762 — one of the largest losses by a single trader in history.",
+    "link": "https://en.wikipedia.org/wiki/Barings_Bank",
     "verify": [
-      "volkswagen",
-      "emissions",
-      "diesel"
+      "barings",
+      "1995"
     ],
     "fakes": [
-      "Auto giant unveils a new line of clean diesel models",
-      "Regulators tighten fuel-economy standards for new cars",
-      "Engineers claim the vehicles meet all safety tests"
+      "One trader's rogue bets bring down a centuries-old bank",
+      "A single employee's unauthorized trading loses more than a billion",
+      "A historic bank collapses because of a rogue trader"
+    ]
+  },
+  {
+    "segment": "Business",
+    "region": "North America",
+    "era": "1990s",
+    "outlet": "Wikipedia",
+    "date": "1998-08-31",
+    "real": "A hedge fund run by Nobel laureates loses billions and needs a rescue",
+    "source": "Long-Term Capital Management (LTCM) — a hedge fund staffed by Nobel Prize-winning economists nearly collapsed in 1998, and the fear that its failure would crash global markets forced a Fed-arranged rescue by major Wall Street banks.",
+    "link": "https://en.wikipedia.org/wiki/Long-Term_Capital_Management",
+    "verify": [
+      "ltcm",
+      "1998"
+    ],
+    "fakes": [
+      "A fund run by top academics nearly brings down global markets",
+      "A hedge fund's collapse requires a rescue by the largest banks",
+      "A group of Nobel laureates' investment firm comes within a hair of failing"
+    ]
+  },
+  {
+    "segment": "Business",
+    "region": "North America",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2000-03-10",
+    "real": "Thousands of internet companies vanish in a matter of months",
+    "source": "The dot-com bubble — in the late 1990s, investors poured money into internet companies with no revenue, and when the bubble burst in early 2000, trillions in market value evaporated and thousands of tech firms went under in a matter of months.",
+    "link": "https://en.wikipedia.org/wiki/Dot-com_bubble",
+    "verify": [
+      "dot-com",
+      "2000"
+    ],
+    "fakes": [
+      "A wave of tech companies with no income vanishes in a crash",
+      "Trillions of dollars in market value disappear overnight",
+      "An investment frenzy in a new industry ends in a sudden collapse"
+    ]
+  },
+  {
+    "segment": "Business",
+    "region": "North America",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1989-07-09",
+    "real": "A pocket-sized game console outguns the big players and sells 118 million",
+    "source": "The Nintendo Game Boy (1989) — a simple, low-powered handheld console that many industry experts dismissed, yet it sold over 118 million units and defined portable gaming for a decade, largely thanks to the bundled hit Tetris.",
+    "link": "https://en.wikipedia.org/wiki/Game_Boy",
+    "verify": [
+      "game boy",
+      "1989"
+    ],
+    "fakes": [
+      "A modest handheld console outsells its flashier rivals for a decade",
+      "A company's 'underpowered' game system becomes a massive hit",
+      "A simple portable device redefines an entire industry"
+    ]
+  },
+  {
+    "segment": "Business",
+    "region": "North America",
+    "era": "1990s",
+    "outlet": "Wikipedia",
+    "date": "1994-12-08",
+    "real": "A Japanese company's new console starts a war with a rival giant",
+    "source": "1994 — Sony's PlayStation launched and, against industry skepticism that Sony could make games consoles, it became a global hit and kicked off a fierce, decade-long console war with Nintendo and Sega that reshaped the industry.",
+    "link": "https://en.wikipedia.org/wiki/PlayStation",
+    "verify": [
+      "playstation",
+      "sony",
+      "1994"
+    ],
+    "fakes": [
+      "A TV maker enters the game console market and ignites a rivalry",
+      "A company's first gaming device becomes a surprise global hit",
+      "A new console starts a long battle between gaming giants"
     ]
   }
 ]

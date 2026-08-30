@@ -1,0 +1,121 @@
+[
+  {
+    "segment": "Weird",
+    "region": "North America",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1962-11-05",
+    "real": "A coal-seam fire started in 1962 is still burning under a Pennsylvania town — 60+ years later",
+    "source": "Centralia, Pennsylvania has been home to a coal-seam fire since 1962, when a trash fire in the underground mine caught the coal seam and set it alight; the fire is still burning beneath the town more than 60 years later, and the community was largely evacuated after the roads began to buckle and crumble.",
+    "link": "https://en.wikipedia.org/wiki/Centralia%2C_Pennsylvania",
+    "verify": [
+      "centralia",
+      "1962",
+      "coal"
+    ],
+    "fakes": [
+      "A town sits on top of a fire that has burned for over 60 years",
+      "An underground fire is still burning under a Pennsylvania town today",
+      "A coal-seam fire so persistent it forced the evacuation of a whole town"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "Europe",
+    "era": "1000s",
+    "outlet": "Wikipedia",
+    "date": "1284-01-01",
+    "real": "A town's children vanish and a piper in a coat of every colour is blamed",
+    "source": "The Pied Piper of Hamelin is the medieval legend of a town in Germany whose children disappeared, and in which a mysterious piper dressed in a coat 'of all the colours of the rainbow' was said to have led them away — a story so persistent it is still debated as a real historical event.",
+    "link": "https://en.wikipedia.org/wiki/Pied_Piper_of_Hamelin",
+    "verify": [
+      "pied piper",
+      "hamelin",
+      "children"
+    ],
+    "fakes": [
+      "A legend of a piper who led away a town's children is still debated as real history",
+      "A 'coat of all the rainbow colours' becomes a centuries-old legend",
+      "A town's unexplained disappearance of children becomes a medieval myth"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "North America",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1947-07-08",
+    "real": "A ranch's 'balloon' crash becomes the world's most famous UFO claim",
+    "source": "The 1947 Roswell incident, in which the US military initially announced it had recovered a crashed flying disc before later claiming it was a weather balloon, became the most famous and enduring claim in the history of UFO lore.",
+    "link": "https://en.wikipedia.org/wiki/Roswell_incident",
+    "verify": [
+      "roswell",
+      "1947",
+      "ufo"
+    ],
+    "fakes": [
+      "A military 'flying disc' announcement is later retracted as a balloon",
+      "A 1947 crash becomes the most famous claim in UFO history",
+      "A ranch's unexplained debris turns into a decades-long mystery"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "Europe",
+    "era": "1600s",
+    "outlet": "Wikipedia",
+    "date": "1690-01-01",
+    "real": "A prisoner wears a metal mask for decades — and no one can say who he was",
+    "source": "The Man in the Iron Mask was a prisoner of Louis XIV of France who, according to legend, was forced to wear a metal mask and kept in secret for decades, and his true identity has remained one of history's most persistent unsolved mysteries.",
+    "link": "https://en.wikipedia.org/wiki/Man_in_the_Iron_Mask",
+    "verify": [
+      "iron mask",
+      "louis xiv",
+      "prisoner"
+    ],
+    "fakes": [
+      "A masked prisoner kept by a French king's secret for decades",
+      "A man in a metal mask whose identity was never revealed",
+      "A royal prisoner whose face was hidden for the rest of his life"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "North America",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1939-04-30",
+    "real": "A 1939 World's Fair builds a full-scale working city — with real traffic and a fake future",
+    "source": "The 1939 New York World's Fair featured a full-scale working model of New York City, complete with miniature traffic, and a vision of a gleaming future, and it drew over 30 million visitors over its two runs, becoming one of the most ambitious expositions of the 20th century.",
+    "link": "https://en.wikipedia.org/wiki/1939_New_York_World's_Fair",
+    "verify": [
+      "world's fair",
+      "1939",
+      "new york"
+    ],
+    "fakes": [
+      "A World's Fair builds a miniature working city with real traffic",
+      "A 1939 expo creates a fake future with a full-scale model city",
+      "A single fair draws over 30 million visitors across two runs"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "North America",
+    "era": "1800s",
+    "outlet": "Wikipedia",
+    "date": "1871-10-08",
+    "real": "A fire so big sailors saw its glow from 500 miles out at sea",
+    "source": "The Great Chicago Fire of 1871, which destroyed much of the city over two days and killed an estimated 300 people, was so intense that sailors reported seeing its glow from hundreds of miles out at sea, and the exact cause of the fire has never been definitively established.",
+    "link": "https://en.wikipedia.org/wiki/1871_Great_Chicago_Fire",
+    "verify": [
+      "chicago fire",
+      "1871"
+    ],
+    "fakes": [
+      "A fire so large its glow is visible from 500 miles out at sea",
+      "A city is reduced to ashes in two days with the cause still debated",
+      "A 19th-century fire becomes one of history's great unsolved mysteries"
+    ]
+  }
+]

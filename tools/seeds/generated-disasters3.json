@@ -1,0 +1,262 @@
+[
+  {
+    "segment": "Disasters",
+    "region": "Europe",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1986-04-26",
+    "real": "A routine 'test' at a nuclear plant goes catastrophically wrong and becomes the worst nuclear accident in history",
+    "source": "The 1986 Chernobyl disaster struck the Chernobyl nuclear power plant in the Soviet Union during a reactor safety test, when the reactor exploded and the largest release of radioactive material in history followed, leaving a 30-km exclusion zone and a town abandoned to this day.",
+    "link": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
+    "verify": [
+      "chernobyl",
+      "1986",
+      "reactor"
+    ],
+    "fakes": [
+      "A rare solar flare accidentally melts the core of a nuclear plant",
+      "A janitor switches off a power station's cooling system by mistake",
+      "A 'routine test' at a nuclear plant is interrupted by foreign interference"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "North America",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1937-05-06",
+    "real": "A 245-metre airship ignites mid-landing and effectively ends the passenger-airship era",
+    "source": "The Hindenburg disaster of 1937, in which the German airship LZ 129 Hindenburg caught fire and burned to the ground as it was mooring at Lakehurst, New Jersey, killing 36 people, became a symbol of the danger of air travel and ended the age of the passenger dirigible almost overnight.",
+    "link": "https://en.wikipedia.org/wiki/Hindenburg_disaster",
+    "verify": [
+      "hindenburg",
+      "1937",
+      "airship"
+    ],
+    "fakes": [
+      "A giant airship is brought down by a sudden lightning strike",
+      "A passenger airship is sabotaged mid-flight and crashes into a city",
+      "A record-setting airship run ends in a mystery explosion over the ocean"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Europe",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1963-10-09",
+    "real": "The dam holds, the mountain behind it doesn't, and an 850-foot wave wipes out a valley town",
+    "source": "In the 1963 Vajont Dam disaster in Italy, a landslide sent a wave of water roughly 850 feet high over the crest of the newly built dam, sweeping through the valley and killing around 2,000 people in one of the most catastrophic dam-related disasters ever recorded.",
+    "link": "https://en.wikipedia.org/wiki/Vajont_Dam_disaster",
+    "verify": [
+      "vajont",
+      "1963",
+      "dam"
+    ],
+    "fakes": [
+      "A dam burst floods a city and kills thousands in a single night",
+      "A reservoir empties in seconds after an unexplained structural failure",
+      "A newly built dam is destroyed by a freak meteor strike"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Europe",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1987-06-06",
+    "real": "A ferry sails with a bow door left open and capsizes in under ten minutes",
+    "source": "The Herald of Free Enterprise, a car ferry that left Zeebrugge, Belgium in 1987 with a bow ramp left open, took on water and sank in under ten minutes, killing 193 people and becoming the deadliest maritime disaster in Belgian waters.",
+    "link": "https://en.wikipedia.org/wiki/Herald_of_Free_Enterprise",
+    "verify": [
+      "herald of free enterprise",
+      "1987",
+      "zeebrugge"
+    ],
+    "fakes": [
+      "A ferry capsizes after a sudden storm at sea",
+      "A car ferry sinks after colliding with a submarine",
+      "A ferry sinks when its engine room floods during a routine crossing"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Asia",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1985-08-12",
+    "real": "A jetliner loses its entire tail in flight — and somehow stays airborne for 23 minutes",
+    "source": "Japan Airlines Flight 123 in 1985 lost its vertical stabilizer after a faulty repair of a previously patched pressure bulkhead, and the crew kept the 747 in the air for 23 minutes before it crashed, killing 520 people — the deadliest single-aircraft accident in history.",
+    "link": "https://en.wikipedia.org/wiki/Japan_Airlines_Flight_123",
+    "verify": [
+      "japan airlines",
+      "123",
+      "1985"
+    ],
+    "fakes": [
+      "A plane stays airborne for 23 minutes after losing both wings",
+      "A jetliner is held up in the sky by passengers using parachutes",
+      "A broken aircraft flies itself home on autopilot for an hour"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Asia",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1956-01-01",
+    "real": "A factory's chemical waste turns a fishing town into a public-health catastrophe",
+    "source": "Minamata disease, a severe neurological syndrome caused by methylmercury poisoning, first erupted among residents of Minamata, Japan in 1956 after chemical waste from a nearby plant contaminated the seafood of the bay, killing hundreds and becoming a landmark case of industrial pollution.",
+    "link": "https://en.wikipedia.org/wiki/Minamata_disease",
+    "verify": [
+      "minamata",
+      "mercury",
+      "poisoning"
+    ],
+    "fakes": [
+      "A town's water supply is quietly contaminated with a rare mineral",
+      "A fishing village falls ill after eating a single batch of seafood",
+      "A chemical plant leak causes an entire town to lose its hair"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "North America",
+    "era": "1800s",
+    "outlet": "Wikipedia",
+    "date": "1889-05-31",
+    "real": "A wooden dam gives way and a 60-foot wall of water erases a boomtown in minutes",
+    "source": "The Johnstown flood of 1889, triggered by the failure of the South Fork Dam in Pennsylvania, sent a wall of water up to 60 feet high through the town of Johnstown, killing more than 2,200 people and remaining one of the deadliest floods in United States history.",
+    "link": "https://en.wikipedia.org/wiki/Johnstown_flood",
+    "verify": [
+      "johnstown",
+      "1889",
+      "flood"
+    ],
+    "fakes": [
+      "A single rainstorm floods a town and kills thousands overnight",
+      "A river changes course and swallows a city in a day",
+      "A dam bursts and a floodplain disappears in under an hour"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Middle East",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2020-08-04",
+    "real": "2,750 tonnes of ammonium nitrate, sitting in a port for six years, levels a city",
+    "source": "The 2020 Beirut explosion killed more than 200 people when a massive stockpile of ammonium nitrate, stored in the port of Beirut since 2014, detonated, causing one of the largest non-nuclear explosions of the 21st century and devastating much of the city.",
+    "link": "https://en.wikipedia.org/wiki/2020_Beirut_explosion",
+    "verify": [
+      "beirut",
+      "2020",
+      "ammonium nitrate"
+    ],
+    "fakes": [
+      "A city is flattened by a single, unexplained explosion",
+      "A warehouse of fireworks detonates and levels a neighbourhood",
+      "A port explosion turns a city into a war zone in seconds"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Europe",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1976-07-10",
+    "real": "A chemical plant glitch leaks a toxic compound and turns a small town into a case study",
+    "source": "The Seveso disaster of 1976, in which a chemical-plant malfunction released the toxic compound dioxin over the town of Seveso in Italy, contaminated large areas, and became a defining incident in the development of modern industrial-safety and environmental regulation.",
+    "link": "https://en.wikipedia.org/wiki/Seveso_disaster",
+    "verify": [
+      "seveso",
+      "1976",
+      "dioxin"
+    ],
+    "fakes": [
+      "A factory leak poisons an entire town's food supply",
+      "A single chemical spill forces a city into quarantine",
+      "A plant malfunction releases a gas that turns the sky red"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Europe",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2002-11-13",
+    "real": "An ageing oil tanker splits in two off the coast and coats thousands of miles of beach",
+    "source": "The Prestige oil spill, in which the ageing oil tanker Prestige broke apart off the coast of Galicia, Spain in 2002, releasing hundreds of thousands of tonnes of crude oil that contaminated coastlines across Europe and became one of the worst oil spills in European history.",
+    "link": "https://en.wikipedia.org/wiki/Prestige_(oil_tanker)",
+    "verify": [
+      "prestige",
+      "2002",
+      "oil"
+    ],
+    "fakes": [
+      "An oil tanker catches fire and sinks in deep water",
+      "A super-tanker runs aground and spills its entire load",
+      "A freight ship's cargo of fuel explodes and sinks the vessel"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "North America",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1989-03-24",
+    "real": "A supertanker runs aground and dumps 11 million gallons into a pristine bay",
+    "source": "The 1989 Exxon Valdez oil spill occurred when the oil tanker Exxon Valdez struck Bligh Reef in Prince William Sound, Alaska, releasing 11 million gallons of crude oil and becoming one of the most devastating environmental disasters in US history.",
+    "link": "https://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill",
+    "verify": [
+      "exxon valdez",
+      "1989",
+      "alaska"
+    ],
+    "fakes": [
+      "A supertanker leaks an entire cargo into a protected bay",
+      "An oil spill coats a coastline for hundreds of miles",
+      "A tanker runs aground and sinks, spilling millions of gallons of oil"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "North America",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1979-03-28",
+    "real": "A 'small' mechanical failure at a nuclear plant becomes America's most serious nuclear accident",
+    "source": "The 1979 Three Mile Island accident, in which a partial meltdown occurred at the Three Mile Island nuclear power plant in Pennsylvania due to equipment malfunctions and operator error, remains the most serious accident in the history of United States commercial nuclear power generation.",
+    "link": "https://en.wikipedia.org/wiki/Three_Mile_Island_accident",
+    "verify": [
+      "three mile island",
+      "1979",
+      "reactor"
+    ],
+    "fakes": [
+      "A nuclear plant suffers a 'minor' glitch that becomes a major accident",
+      "A single control rod failure nearly triggers a meltdown",
+      "A reactor cooling leak forces the evacuation of a whole state"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Europe",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1967-03-18",
+    "real": "A tanker runs aground and a gale turns a spill into Britain's worst oil disaster",
+    "source": "The 1967 Torrey Canyon oil spill, in which the oil tanker Torrey Canyon ran aground off the Devon coast of England and released around 120,000 tonnes of crude oil, became the largest oil spill in United Kingdom history and a landmark in environmental law.",
+    "link": "https://en.wikipedia.org/wiki/Torrey_Canyon",
+    "verify": [
+      "torrey canyon",
+      "1967",
+      "oil"
+    ],
+    "fakes": [
+      "A tanker runs aground and a storm spreads its oil across the coast",
+      "A single ship's spill covers thousands of miles of shoreline",
+      "An oil spill off the coast becomes a national environmental crisis"
+    ]
+  }
+]

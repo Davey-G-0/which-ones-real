@@ -2,39 +2,21 @@
   {
     "segment": "Music",
     "region": "North America",
-    "era": "1960s",
-    "outlet": "Wikipedia",
-    "date": "1969-08-18",
-    "real": "Half a million people gather in a muddy field for a three-day music festival",
-    "source": "Woodstock — in 1969, around 400,000 people gathered at a dairy farm in Bethel, New York for a three-day music festival that became a defining symbol of the 1960s counterculture.",
-    "link": "https://en.wikipedia.org/wiki/Woodstock",
-    "verify": [
-      "woodstock",
-      "1969"
-    ],
-    "fakes": [
-      "Organizers expect a small crowd for the weekend show",
-      "Musicians line up for a record-setting three-day run",
-      "Local farmers protest the influx of visitors to the farm"
-    ]
-  },
-  {
-    "segment": "Music",
-    "region": "Global",
     "era": "1980s",
     "outlet": "Wikipedia",
-    "date": "1985-07-13",
-    "real": "The world watches a benefit concert that raises hundreds of millions for famine",
-    "source": "Live Aid — in 1985, the dual-city benefit concerts (London and Philadelphia) raised an estimated $180 million for Ethiopian famine relief and became one of the most-watched live events in television history.",
-    "link": "https://en.wikipedia.org/wiki/Live_Aid",
+    "date": "1982-11-30",
+    "real": "An album becomes the best-selling of all time and reinvents music videos",
+    "source": "1982 — Michael Jackson's 'Thriller' became the best-selling album of all time, its title-track music video a landmark that helped turn the music video into a mainstream art form and define an entire era of pop.",
+    "link": "https://en.wikipedia.org/wiki/Thriller_(album)",
     "verify": [
-      "live aid",
-      "1985"
+      "thriller",
+      "1982",
+      "jackson"
     ],
     "fakes": [
-      "Stars agree to perform for free at a charity show",
-      "Televised benefit raises a record sum for relief",
-      "Fans in two cities watch the same lineup at the same time"
+      "A single album outsells every other record ever released",
+      "A music video turns the format into a global phenomenon",
+      "A pop star's record-shattering album changes how music is made"
     ]
   },
   {
@@ -42,18 +24,94 @@
     "region": "North America",
     "era": "1970s",
     "outlet": "Wikipedia",
-    "date": "1977-09-01",
-    "real": "Two rival bands announce they're retiring at the same time — and the world loses it",
-    "source": "The 'Supergroup' era and band breakups — the 1970s saw a string of legendary splits (including bands like Led Zeppelin and Fleetwood Mac), with the era's final supergroup reunions becoming some of the most lucrative concerts ever.",
-    "link": "https://en.wikipedia.org/wiki/Fleetwood_Mac",
+    "date": "1976-12-08",
+    "real": "A bar song about a place you can check into but never leave becomes a classic",
+    "source": "1976 — 'Hotel California' by the Eagles, with its famously ambiguous lyrics and one of the most recognizable guitar solos in rock history, became a defining hit of the late 1970s and a staple of classic-rock radio.",
+    "link": "https://en.wikipedia.org/wiki/Hotel_California",
     "verify": [
-      "fleetwood mac",
-      "band"
+      "hotel california",
+      "eagles"
     ],
     "fakes": [
-      "Rival band announces a surprise reunion tour",
-      "Veteran group breaks up after a final farewell show",
-      "Fans petition for a one-night-only comeback concert"
+      "A song about a mysterious hotel becomes a radio staple for decades",
+      "A band's instrumental outro becomes one of the most iconic in rock",
+      "A lyric full of riddles sparks endless fan debate"
+    ]
+  },
+  {
+    "segment": "Music",
+    "region": "Europe",
+    "era": "1970s",
+    "outlet": "Wikipedia",
+    "date": "1975-10-31",
+    "real": "An operatic rock song with no chorus becomes one of the most covered tracks ever",
+    "source": "1975 — Queen's 'Bohemian Rhapsody' defied every songwriting rule with its operatic middle section, no chorus, and six-minute length, yet it became a worldwide hit and one of the most covered songs in history, revived again in 1992.",
+    "link": "https://en.wikipedia.org/wiki/Bohemian_Rhapsody",
+    "verify": [
+      "bohemian rhapsody",
+      "queen"
+    ],
+    "fakes": [
+      "A six-minute song with no chorus becomes a global smash",
+      "A band's most experimental track tops charts on two continents decades apart",
+      "An operatic rock single is covered more times than almost any other"
+    ]
+  },
+  {
+    "segment": "Music",
+    "region": "Europe",
+    "era": "1970s",
+    "outlet": "Wikipedia",
+    "date": "1973-03-01",
+    "real": "A concept album about life and death becomes the best-selling album in the UK",
+    "source": "1973 — Pink Floyd's 'The Dark Side of the Moon' explored themes of life, time, and madness, spent hundreds of weeks on the charts and remains one of the best-selling albums of all time, its prism cover instantly iconic.",
+    "link": "https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon",
+    "verify": [
+      "dark side of the moon",
+      "pink floyd"
+    ],
+    "fakes": [
+      "A concept album about life and death stays on the charts for decades",
+      "An album's geometric cover becomes one of the most recognized in music",
+      "A band's studio experiment becomes a multi-million-selling classic"
+    ]
+  },
+  {
+    "segment": "Music",
+    "region": "North America",
+    "era": "1980s",
+    "outlet": "Wikipedia",
+    "date": "1983-02-06",
+    "real": "A simple stomp-clap song becomes the soundtrack of an entire generation",
+    "source": "1983 — 'We Will Rock You' by Queen, built almost entirely on a stomp-stomp-clap rhythm, became a global anthem and one of the most recognized stadium songs ever, still used to hype crowds worldwide.",
+    "link": "https://en.wikipedia.org/wiki/We_Will_Rock_You",
+    "verify": [
+      "we will rock you",
+      "queen"
+    ],
+    "fakes": [
+      "A song built on a stomp-and-clap rhythm becomes a stadium anthem",
+      "A band's most minimalist track is played at stadiums on every continent",
+      "A simple chant becomes the unofficial sound of live rock"
+    ]
+  },
+  {
+    "segment": "Music",
+    "region": "North America",
+    "era": "1980s",
+    "outlet": "Wikipedia",
+    "date": "1983-01-01",
+    "real": "A song about a woman who isn't real tops the charts and wins big",
+    "source": "1983 — Michael Jackson's 'Billie Jean' became a #1 hit, its bassline instantly iconic and its anti-fan music video a breakthrough, and it won Record of the Year at the Grammys, cementing Jackson's status as a global superstar.",
+    "link": "https://en.wikipedia.org/wiki/Billie_Jean",
+    "verify": [
+      "billie jean",
+      "jackson"
+    ],
+    "fakes": [
+      "A song about a fictional woman becomes a #1 hit and a Grammy winner",
+      "An iconic bassline defines a pop star's career",
+      "A music video with a simple story becomes a landmark"
     ]
   },
   {
@@ -61,37 +119,75 @@
     "region": "North America",
     "era": "1990s",
     "outlet": "Wikipedia",
-    "date": "1996-01-01",
-    "real": "A rap album goes double-platinum and changes the industry overnight",
-    "source": "1996 — The Notorious B.I.G.'s 'Life After Death' was released 12 days after his death, debuted at #1, and sold 1.8 million copies in its first week — one of the fastest-selling albums of all time.",
-    "link": "https://en.wikipedia.org/wiki/Life_After_Death",
+    "date": "1991-09-10",
+    "real": "A song that sounds like a bad joke becomes the anthem of the grunge era",
+    "source": "1991 — Nirvana's 'Smells Like Teen Spirit' turned a throwaway phrase about a deodorant brand into the defining song of grunge, smashing rock and pop charts simultaneously and signaling a seismic shift in popular music.",
+    "link": "https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit",
     "verify": [
-      "life after death",
-      "notorious"
+      "smells like teen spirit",
+      "nirvana"
     ],
     "fakes": [
-      "A rapper's final album is released weeks after his death",
-      "The record debuts at the top of the charts",
-      "Fans rush to buy the posthumous studio release"
+      "A band's loudest song becomes the anthem of a new music movement",
+      "A phrase about a perfume accidentally becomes a hit title",
+      "A single track reshapes the rock and pop charts at once"
     ]
   },
   {
     "segment": "Music",
-    "region": "Global",
-    "era": "2010s",
+    "region": "North America",
+    "era": "1990s",
     "outlet": "Wikipedia",
-    "date": "2015-08-08",
-    "real": "A song becomes the most-viewed video on the internet — and breaks the platform's records",
-    "source": "Despacito — Luis Fonsi's 2017 song (a collaboration with Daddy Yankee and Justin Bieber) became the first YouTube video to hit 5 billion views, and for a time the most-streamed track in history.",
-    "link": "https://en.wikipedia.org/wiki/Despacito",
+    "date": "1994-04-05",
+    "real": "The frontman of grunge's biggest band dies at 27 — a loss that reshapes a genre",
+    "source": "Kurt Cobain, the frontman of Nirvana, died in 1994 at age 27, a death that stunned the music world and became a defining, tragic moment in the story of the grunge era he had helped create.",
+    "link": "https://en.wikipedia.org/wiki/Kurt_Cobain",
     "verify": [
-      "despacito",
-      "youtube"
+      "cobain",
+      "nirvana"
     ],
     "fakes": [
-      "A reggaeton hit becomes the most-watched clip on the platform",
-      "The song breaks streaming records across every service",
-      "A remix with a pop star sends the track back to #1"
+      "A famous frontman dies at 27 and shocks the music world",
+      "The death of a band's leader becomes a defining moment for a genre",
+      "A musician's untimely passing reshapes an entire music scene"
+    ]
+  },
+  {
+    "segment": "Music",
+    "region": "North America",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1967-08-18",
+    "real": "A guitarist plays on a drum at Woodstock — and becomes a legend",
+    "source": "Jimi Hendrix — his legendary 1967 Woodstock performance, closing the festival with a distorted rendition of 'The Star-Spangled Banner,' became one of the most iconic moments in rock history and cemented his place as one of the greatest guitarists ever.",
+    "link": "https://en.wikipedia.org/wiki/Jimi_Hendrix",
+    "verify": [
+      "hendrix",
+      "woodstock"
+    ],
+    "fakes": [
+      "A guitarist's festival performance becomes one of the most iconic in rock",
+      "A musician's distorted national anthem defines a moment in music history",
+      "A legendary live set is remembered as a turning point in a genre"
+    ]
+  },
+  {
+    "segment": "Music",
+    "region": "North America",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2002-08-01",
+    "real": "A rap song about a single chance to make it becomes an Oscar-winning anthem",
+    "source": "2002 — Eminem's 'Lose Yourself,' from the film 8 Mile, became a breakout hit that won the Academy Award for Best Original Song, making it one of the most celebrated rap songs of the 2000s.",
+    "link": "https://en.wikipedia.org/wiki/Lose_Yourself",
+    "verify": [
+      "lose yourself",
+      "eminem"
+    ],
+    "fakes": [
+      "A film's rap single wins an Oscar for best song",
+      "A track about seizing a moment becomes an award-winning hit",
+      "A rap song from a movie soundtrack tops the charts"
     ]
   },
   {
@@ -99,39 +195,94 @@
     "region": "Asia",
     "era": "2010s",
     "outlet": "Wikipedia",
-    "date": "2012-07-15",
-    "real": "A South Korean pop star's horse-riding dance takes over the entire internet",
-    "source": "2012 — 'Gangnam Style' by PSY became the first YouTube video to reach 1 billion views and one of the most-watched videos of all time, its 'horse dance' spawning a global meme phenomenon.",
-    "link": "https://en.wikipedia.org/wiki/Gangnam_Style",
+    "date": "2016-06-01",
+    "real": "A children's song about a shark becomes one of the most-watched videos ever",
+    "source": "'Baby Shark Dance' — a simple children's song about a shark became a global viral phenomenon and one of the most-viewed videos on YouTube, its repetitive 'doo doo doo' chorus making it an inescapable earworm worldwide.",
+    "link": "https://en.wikipedia.org/wiki/Baby_Shark_Dance",
     "verify": [
-      "gangnam",
-      "ps",
+      "baby shark",
       "youtube"
     ],
     "fakes": [
-      "A pop video becomes the first to hit a billion views",
-      "The song's signature dance is copied worldwide",
-      "A music clip tops the charts across every continent"
+      "A kids' song about an animal becomes one of the most-watched videos ever",
+      "A repetitive children's chorus takes over the world",
+      "A simple nursery-rhyme-style clip becomes a global earworm"
     ]
   },
   {
     "segment": "Music",
     "region": "North America",
-    "era": "2010s",
+    "era": "1980s",
     "outlet": "Wikipedia",
-    "date": "2017-04-14",
-    "real": "A rapper's defiant single tops the charts and becomes a cultural moment",
-    "source": "2017 — 'HUMBLE.' by Kendrick Lamar topped the Billboard Hot 100 and became one of the defining tracks of the late 2010s, cementing his status as one of the genre's most influential artists.",
-    "link": "https://en.wikipedia.org/wiki/Humble_(Kendrick_Lamar_song)",
+    "date": "1987-06-22",
+    "real": "A disco-dance song from the 80s becomes a worldwide hit again",
+    "source": "1987 — 'I Will Survive' by Gloria Gaynor, originally a 1978 disco classic, became an anthem for resilience and empowerment, and has been covered and referenced countless times, remaining a staple of dance floors and feel-good playlists.",
+    "link": "https://en.wikipedia.org/wiki/I_Will_Survive",
     "verify": [
-      "humble",
-      "kendrick",
-      "2017"
+      "i will survive",
+      "gloria gaynor"
     ],
     "fakes": [
-      "A rapper's new single rockets to the top of the charts",
-      "The track becomes a cultural moment overnight",
-      "Critics debate whether the song is his best work yet"
+      "A disco song becomes an enduring anthem for resilience",
+      "A 70s dance track keeps getting covered for decades",
+      "A song about getting back up becomes a feel-good staple"
+    ]
+  },
+  {
+    "segment": "Music",
+    "region": "Europe",
+    "era": "1980s",
+    "outlet": "Wikipedia",
+    "date": "1985-01-01",
+    "real": "A synth-pop video with a chase scene becomes a defining 80s clip",
+    "source": "1985 — 'Take On Me' by a-ha, with its pioneering rotoscoped music video showing a man being chased by a woman in a comic-book world, became a global hit and one of the most recognizable videos of the 1980s.",
+    "link": "https://en.wikipedia.org/wiki/Take_On_Me",
+    "verify": [
+      "take on me",
+      "a-ha"
+    ],
+    "fakes": [
+      "A band's comic-book-style music video becomes an 80s landmark",
+      "A synth-pop song and its animated chase define a decade",
+      "A video using a then-new drawing technique becomes instantly iconic"
+    ]
+  },
+  {
+    "segment": "Music",
+    "region": "Europe",
+    "era": "1970s",
+    "outlet": "Wikipedia",
+    "date": "1971-01-01",
+    "real": "A song with a famous guitar solo becomes the most-recognized riff in rock",
+    "source": "1971 — Led Zeppelin's 'Stairway to Heaven,' with its legendary, never-fully-played-in-full-on-radio guitar solo, became one of the most iconic and imitated songs in rock history, despite never being released as a single in the UK.",
+    "link": "https://en.wikipedia.org/wiki/Stairway_to_Heaven",
+    "verify": [
+      "stairway to heaven",
+      "led zeppelin"
+    ],
+    "fakes": [
+      "A song with a famous solo becomes the most-recognized riff in rock",
+      "A rock epic that was never released as a single becomes a classic",
+      "A band's most ambitious track is covered and imitated worldwide"
+    ]
+  },
+  {
+    "segment": "Music",
+    "region": "North America",
+    "era": "2000s",
+    "outlet": "Wikipedia",
+    "date": "2003-08-26",
+    "real": "A song that tells you to get happy becomes one of the most-played tracks ever",
+    "source": "2003 — OutKast's 'Hey Ya!', with its joyful chorus and a second verse full of relationship warnings, became a global smash and one of the most played songs on radio and streaming, a defining hit of the early 2000s.",
+    "link": "https://en.wikipedia.org/wiki/Hey_Ya!",
+    "verify": [
+      "hey ya",
+      "outkast"
+    ],
+    "fakes": [
+      "A feel-good song with a dark second verse becomes a global hit",
+      "A duo's upbeat track becomes one of the most played of its era",
+      "A song that's happy and cautionary at the same time tops the charts"
     ]
   }
 ]
