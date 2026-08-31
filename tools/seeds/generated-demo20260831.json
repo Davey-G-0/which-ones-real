@@ -1,0 +1,326 @@
+[
+  {
+    "segment": "Weird",
+    "region": "North America",
+    "era": "1800s",
+    "outlet": "Wikipedia",
+    "date": "1885-06-13",
+    "real": "A buried $60 million treasure is supposedly mapped by a cipher nobody has cracked in 140 years",
+    "source": "The Beale ciphers — three ciphertexts from an 1820s Virginia land sale; one allegedly locates a buried cache of gold, silver and jewels still estimated at $60M+, and it's never been solved.",
+    "link": "https://en.wikipedia.org/wiki/Beale_ciphers",
+    "verify": [
+      "beale ciphers",
+      "buried treasure"
+    ],
+    "fakes": [
+      "Man finds gold coins in attic of century-old Virginia farmhouse",
+      "Antique dealer sells map believed to be genuine treasure guide",
+      "Farmers strike vein of silver while digging irrigation well"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "Europe",
+    "era": "1760s",
+    "outlet": "Wikipedia",
+    "date": "1762-01-01",
+    "real": "All of London queues overnight to hear a ghost that only groans at night",
+    "source": "The Cock Lane ghost — a 1762 'haunting' in a lodging near Smithfield that drew crowds, newspapers and a public committee to verify whether a woman was really being haunted through the floor.",
+    "link": "https://en.wikipedia.org/wiki/Cock_Lane_ghost",
+    "verify": [
+      "cock lane ghost",
+      "haunting"
+    ],
+    "fakes": [
+      "London family reports unexplained knocking sounds from floor below",
+      "Newspaper sells record week after sensational ghost story",
+      "Local church holds special service for supposedly restless spirit"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "North America",
+    "era": "1890s",
+    "outlet": "Wikipedia",
+    "date": "1898-07-19",
+    "real": "A Swedish immigrant digs up a Viking rune stone in a Minnesota wheat field",
+    "source": "The Kensington Runestone — a greywacke slab with Old Norse runes unearthed in western Minnesota in 1898; experts now consider it a 19th-century hoax, but the debate ran for decades.",
+    "link": "https://en.wikipedia.org/wiki/Kensington_Runestone",
+    "verify": [
+      "kensington runestone",
+      "runes"
+    ],
+    "fakes": [
+      "Archaeologists confirm ancient trade route through Minnesota",
+      "Farmer uncovers iron tools while clearing field for planting",
+      "Museum opens exhibit on early Scandinavian settlement of the plains"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "North America",
+    "era": "1840s",
+    "outlet": "Wikipedia",
+    "date": "1843-01-01",
+    "real": "Mysterious engraved brass plates are buried and dug up to prove ancient writing",
+    "source": "The Kinderhook plates — six small bell-shaped brass pieces with strange engravings, secretly buried in 1843 near a burial mound in Kinderhook, Illinois, then 'discovered' to prove Native American script; a famous hoax.",
+    "link": "https://en.wikipedia.org/wiki/Kinderhook_plates",
+    "verify": [
+      "kinderhook plates",
+      "hoax"
+    ],
+    "fakes": [
+      "Excavation near old mound yields previously unknown artifacts",
+      "Scholars debate meaning of symbols found on unearthed metal plates",
+      "Local collector offers reward for deciphering ancient script"
+    ]
+  },
+  {
+    "segment": "Weird",
+    "region": "North America",
+    "era": "1880s",
+    "outlet": "Wikipedia",
+    "date": "1884-01-01",
+    "real": "A Nebraska newspaper fakes the discovery of a giant metal cylinder in a prairie",
+    "source": "The Dundy County UFO hoax — in 1884 the Nebraska State Journal published a made-up story of cowboys finding a strange cylindrical object in Dundy County, one of history's first 'flying saucer' hoaxes.",
+    "link": "https://en.wikipedia.org/wiki/Dundy_County_UFO_hoax",
+    "verify": [
+      "dundy county",
+      "hoax"
+    ],
+    "fakes": [
+      "Cowboys report finding strange metal object near settlement of Max",
+      "Newspaper prints account of unusual object spotted over the prairie",
+      "Railroad company investigates reports of mysterious cylinder on the ground"
+    ]
+  },
+  {
+    "segment": "Sports",
+    "region": "Asia",
+    "era": "1980s",
+    "outlet": "Wikipedia",
+    "date": "1985-01-01",
+    "real": "An American claims he was trained as a ninja and won a secret tournament in Japan",
+    "source": "Frank Dux — a Canadian-American martial artist who, per his own account, was trained as a ninja in Japan and in 1985 won the All-Japan Secret Ninja Tournament (the story later inspired the movie Bloodsport).",
+    "link": "https://en.wikipedia.org/wiki/Frank_Dux",
+    "verify": [
+      "frank dux",
+      "martial artist"
+    ],
+    "fakes": [
+      "Fighter sets new record at international karate championship",
+      "American athlete signs lucrative deal with Japanese promotion",
+      "Martial artist opens school teaching rare fighting style"
+    ]
+  },
+  {
+    "segment": "Sports",
+    "region": "Africa",
+    "era": "1990s",
+    "outlet": "Wikipedia",
+    "date": "1995-06-24",
+    "real": "A country years after apartheid lifts a World Cup on home soil",
+    "source": "The 1995 Rugby World Cup — hosted and won by South Africa, the first in a single country; the tournament became a symbol of a young democracy's unity under Nelson Mandela.",
+    "link": "https://en.wikipedia.org/wiki/1995_Rugby_World_Cup",
+    "verify": [
+      "1995",
+      "rugby",
+      "world"
+    ],
+    "fakes": [
+      "Host nation reaches first major tournament final",
+      "Stadiums set attendance record during world cup",
+      "Team clinches title in extra time on home soil"
+    ]
+  },
+  {
+    "segment": "Science & Tech",
+    "region": "Europe",
+    "era": "1980s",
+    "outlet": "Wikipedia",
+    "date": "1988-01-01",
+    "real": "A doctor claims water remembers substances long diluted away — and a top journal publishes it",
+    "source": "The Benveniste affair — in 1988 Nature published Jacques Benveniste's claim that water could 'remember' a substance diluted billions of times over, triggering an international firestorm that helped expose homeopathy.",
+    "link": "https://en.wikipedia.org/wiki/Benveniste_affair",
+    "verify": [
+      "benveniste",
+      "nature"
+    ],
+    "fakes": [
+      "Study finds new method for purifying water in remote areas",
+      "Scientist challenges accepted theory of memory retention",
+      "Journal retracts paper after replication attempt fails"
+    ]
+  },
+  {
+    "segment": "Science & Tech",
+    "region": "Europe",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1905-01-01",
+    "real": "A whole nation nearly tears itself apart over which alphabet to write in",
+    "source": "The Alphabet War (Alphabet Blizzard) — a 20th-century cultural conflict among Galician Ukrainians over whether their language should be written in Latin or Cyrillic letters, with fierce pro-Latin factions.",
+    "link": "https://en.wikipedia.org/wiki/Alphabet_War",
+    "verify": [
+      "alphabet war",
+      "ukrainian"
+    ],
+    "fakes": [
+      "Literary society votes on spelling reform for regional language",
+      "Government introduces new typeface for public schools",
+      "Publishers split over competing standards for printing"
+    ]
+  },
+  {
+    "segment": "Science & Tech",
+    "region": "Global",
+    "era": "1930s",
+    "outlet": "Wikipedia",
+    "date": "1936-01-01",
+    "real": "A physicist claims pendulums mysteriously sway during solar eclipses",
+    "source": "The Allais effect — an alleged anomaly in which pendulums or gravimeters are said to shift during a solar eclipse; first reported in 1936 and still not reproducibly confirmed, making it a favorite of fringe physics.",
+    "link": "https://en.wikipedia.org/wiki/Allais_effect",
+    "verify": [
+      "allais effect",
+      "eclipse"
+    ],
+    "fakes": [
+      "Observatory reports unusual clock drift during total eclipse",
+      "Physicist proposes new theory of gravitational shielding",
+      "Experiment measures tiny change in pendulum length in sunlight"
+    ]
+  },
+  {
+    "segment": "Science & Tech",
+    "region": "North America",
+    "era": "1900s",
+    "outlet": "Wikipedia",
+    "date": "1901-12-14",
+    "real": "A German-American claims he flew two years before the Wright Brothers — and historians still fight about it",
+    "source": "Gustave Whitehead — an aviation pioneer who claimed powered flights in 1901, ahead of the Wright Brothers; for decades aviation historians debated whether his pre-1903 flights were real.",
+    "link": "https://en.wikipedia.org/wiki/Gustave_Whitehead",
+    "verify": [
+      "whitehead",
+      "aviation"
+    ],
+    "fakes": [
+      "Aviator files patent for new engine design",
+      "Aeroclub celebrates first sustained powered flight",
+      "Engineer claims new glider stays aloft for a full minute"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Asia",
+    "era": "1960s",
+    "outlet": "Wikipedia",
+    "date": "1960-10-24",
+    "real": "A Soviet missile ignites on the launch pad — and the government buries the story for decades",
+    "source": "The Nedelin catastrophe — on 24 October 1960 a prototype R-16 ICBM's engine ignited while still fuelled on the Baikonur pad, causing a fire and explosion; the Soviet state suppressed the disaster for decades.",
+    "link": "https://en.wikipedia.org/wiki/Nedelin_catastrophe",
+    "verify": [
+      "nedelin",
+      "baikonur"
+    ],
+    "fakes": [
+      "Test range reports engine malfunction during pre-flight checks",
+      "Military denies rumors of accident at launch site",
+      "Officials announce new safety protocol after minor mishap"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Europe",
+    "era": "1970s",
+    "outlet": "Wikipedia",
+    "date": "1974-06-01",
+    "real": "A shortcut on a chemical plant pipe ends in one of Britain's worst industrial disasters",
+    "source": "The Flixborough disaster — a June 1974 explosion at a cyclohexane plant in North Lincolnshire killed 28 of the 72 people on site, after a bypass had been installed in place of a broken pipeline section.",
+    "link": "https://en.wikipedia.org/wiki/Flixborough_disaster",
+    "verify": [
+      "flixborough",
+      "explosion"
+    ],
+    "fakes": [
+      "Plant reports minor leak during routine maintenance",
+      "Village holds emergency drill after nearby factory alarm",
+      "Company unveils upgraded safety systems at chemical works"
+    ]
+  },
+  {
+    "segment": "Disasters",
+    "region": "Europe",
+    "era": "2020s",
+    "outlet": "Wikipedia",
+    "date": "2025-05-28",
+    "real": "A glacier tears loose and buries a Swiss mountain village in minutes",
+    "source": "The 2025 Blatten glacier collapse — on 28 May 2025 a glacier collapse in the Bietschhorn region sent a debris wave through the Lötschental valley, devastating the village of Blatten in the canton of Valais.",
+    "link": "https://en.wikipedia.org/wiki/2025_Blatten_glacier_collapse",
+    "verify": [
+      "blatten",
+      "glacier collapse"
+    ],
+    "fakes": [
+      "Avalanche closes popular hiking route in the Valais",
+      "Scientists warn of unstable ice above alpine village",
+      "Rescue teams on alert after heavy rain in the mountains"
+    ]
+  },
+  {
+    "segment": "History",
+    "region": "Global",
+    "era": "Ancient",
+    "outlet": "Wikipedia",
+    "date": "2012-01-01",
+    "real": "A papyrus claiming Jesus had a wife turns out to be a modern forgery",
+    "source": "The Gospel of Jesus' Wife — a small Coptic papyrus fragment saying 'Jesus said to them, my wife…', initially dated to the 4th century and announced with fanfare in 2012, now widely regarded as a modern forgery.",
+    "link": "https://en.wikipedia.org/wiki/Gospel_of_Jesus%27_Wife",
+    "verify": [
+      "jesus' wife",
+      "forgery"
+    ],
+    "fakes": [
+      "Scholars translate newly discovered Coptic text fragment",
+      "Museum announces rare early Christian manuscript",
+      "University professor dates papyrus to 4th century"
+    ]
+  },
+  {
+    "segment": "History",
+    "region": "North America",
+    "era": "1600s",
+    "outlet": "Wikipedia",
+    "date": "1652-01-01",
+    "real": "A 40-ton river boulder covered in mysterious carvings has baffled scholars for 350 years",
+    "source": "The Dighton Rock — a 40-ton sandstone boulder found in the Taunton River, Massachusetts, carved with petroglyphs some claim are a Norse voyage record; the debate runs from the 1600s to today.",
+    "link": "https://en.wikipedia.org/wiki/Dighton_Rock",
+    "verify": [
+      "dighton rock",
+      "petroglyph"
+    ],
+    "fakes": [
+      "Surveyors find unusual markings on river boulder",
+      "Historical society debates origin of carved stone",
+      "State considers relocating historic rock to museum"
+    ]
+  },
+  {
+    "segment": "Animals",
+    "region": "Europe",
+    "era": "1990s",
+    "outlet": "Wikipedia",
+    "date": "1992-05-11",
+    "real": "A Portuguese dog lives to 31 and becomes the oldest dog ever documented",
+    "source": "Bobi — a Rafeiro do Alentejo from Leiria, Portugal, born 11 May 1992 and documented to have lived to 31, making him the oldest verified dog in recorded history.",
+    "link": "https://en.wikipedia.org/wiki/Bobi_(dog)",
+    "verify": [
+      "bobi",
+      "dog"
+    ],
+    "fakes": [
+      "Veterinarian marvels at vitality of elderly village dog",
+      "Owner credits long walks and simple diet for dog's health",
+      "Kennel club records unusual lifespan for breed"
+    ]
+  }
+]

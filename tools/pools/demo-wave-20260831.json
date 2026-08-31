@@ -1,0 +1,20 @@
+[
+  { "segment": "Weird",    "title": "Beale ciphers",            "verify": ["beale ciphers", "buried treasure"] },
+  { "segment": "Weird",    "title": "Cock Lane ghost",          "verify": ["cock lane ghost", "haunting"] },
+  { "segment": "Weird",    "title": "Kensington Runestone",     "verify": ["kensington runestone", "runes"] },
+  { "segment": "Weird",    "title": "Kinderhook plates",        "verify": ["kinderhook plates", "hoax"] },
+  { "segment": "Weird",    "title": "Dundy County UFO hoax",    "verify": ["dundy county", "hoax"] },
+  { "segment": "Sports",   "title": "Frank Dux",                "verify": ["frank dux", "martial artist"] },
+  { "segment": "Sports",   "title": "Chris de Broglio",         "verify": ["de broglio", "weightlifter"] },
+  { "segment": "Sports",   "title": "1956 Sugar Bowl",          "verify": ["sugar bowl", "georgia tech"] },
+  { "segment": "Science & Tech", "title": "Benveniste affair",  "verify": ["benveniste", "nature"] },
+  { "segment": "Science & Tech", "title": "Alphabet War",       "verify": ["alphabet war", "ukrainian"] },
+  { "segment": "Science & Tech", "title": "Allais effect",      "verify": ["allais effect", "eclipse"] },
+  { "segment": "Science & Tech", "title": "Gustave Whitehead",  "verify": ["whitehead", "aviation"] },
+  { "segment": "Disasters","title": "Nedelin catastrophe",      "verify": ["nedelin", "baikonur"] },
+  { "segment": "Disasters","title": "Flixborough disaster",     "verify": ["flixborough", "explosion"] },
+  { "segment": "Disasters","title": "2025 Blatten glacier collapse","verify": ["blatten", "glacier collapse"] },
+  { "segment": "History",  "title": "Gospel of Jesus' Wife",    "verify": ["jesus' wife", "forgery"] },
+  { "segment": "History",  "title": "Dighton Rock",             "verify": ["dighton rock", "petroglyph"] },
+  { "segment": "Animals",  "title": "Bobi (dog)",               "verify": ["bobi", "dog"] }
+]

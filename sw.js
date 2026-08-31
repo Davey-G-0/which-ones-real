@@ -1,5 +1,5 @@
 // Which One's Real? — offline-first service worker
-const CACHE = "wor-v5"; // v2.2 — pass 3: 215-story bank
+const CACHE = "wor-v6"; // v2.4 — demo wave: 273-story bank
 const ASSETS = [
   "./",
   "./index.html",
